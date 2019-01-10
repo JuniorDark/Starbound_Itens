@@ -111,7 +111,7 @@
           "boomerang": {
             "boomerang.activeitem.json": 1,
             "fireboomerang.activeitem.json": 1,
-            "iceboomerang.activeitem.json": 0,
+            "iceboomerang.activeitem.json": 1,
             "lunarang.activeitem.json": 0,
             "wormerang.activeitem.json": 0
           },
