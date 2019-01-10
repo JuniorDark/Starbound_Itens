@@ -215,7 +215,7 @@
             },
             "shortsword": {
               "commonshortsword.activeitem.json": 1,
-              "rareshortsword.activeitem.json": 0,
+              "rareshortsword.activeitem.json": 1,
               "uncommonshortsword.activeitem.json": 1
             },
             "spear": {
