@@ -184,7 +184,7 @@
           },
           "melee": {
             "axe": {
-              "commonaxe.activeitem.json": 0,
+              "commonaxe.activeitem.json": 1,
               "fryingpan.activeitem.json": 0,
               "rareaxe.activeitem.json": 0,
               "uncommonaxe.activeitem.json": 0
