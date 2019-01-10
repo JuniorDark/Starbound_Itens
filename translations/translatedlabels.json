@@ -11,7 +11,7 @@
         },
         "fossil": {
           "fossilbrushbeginner.activeitem.json": 1,
-          "fossilbrushmaster.activeitem.json": 0,
+          "fossilbrushmaster.activeitem.json": 1,
           "fossilbrushstudent.activeitem.json": 0
         },
         "grapplinghooks": {
