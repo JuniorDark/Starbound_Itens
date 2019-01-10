@@ -2,33 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "dialog/frog.config": [
-        "/beacon/default/default/0",
-        "/converse/default/default/0",
-        "/encourage/default/default/0",
-        "/end/default/default/0",
-        "/follow/default/default/0",
-        "/hail/default/default/0",
-        "/rent/default/default/0",
-        "/safe/default/default/0",
-        "/start/default/default/0",
-        "/tout/default/default/0",
-        "/welcome/default/default/0"
-      ],
-      "items/materials/black.matitem": [
-        "/shortdescription"
-      ],
-      "tiles/materials/black.material": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "items/armors/decorative/costumes/rock/rock.chest": [
         "/shortdescription"
       ],

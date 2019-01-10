@@ -2,15 +2,15 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "monsters/boss/kluexboss/kluexboss.monstertype": [
+      "items/materials/black.matitem": [
         "/shortdescription"
       ],
-      "monsters/boss/kluexbossstatue/kluexbossstatue.monstertype": [
+      "tiles/materials/black.material": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Kluex Avatar"
+      "Eng": "..."
     }
   }
 ]
