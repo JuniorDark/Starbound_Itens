@@ -31,7 +31,7 @@
         "shields": {
           "commonlargeshield.activeitem.json": 1,
           "commonsmallshield.activeitem.json": 1,
-          "eyeshield.activeitem.json": 0,
+          "eyeshield.activeitem.json": 1,
           "floranshield.activeitem.json": 0,
           "frostshield.activeitem.json": 0,
           "mushroomshield.activeitem.json": 0,
