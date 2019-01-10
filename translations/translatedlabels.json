@@ -205,7 +205,7 @@
               "uncommondagger.activeitem.json": 1
             },
             "hammer": {
-              "commonhammer.activeitem.json": 0,
+              "commonhammer.activeitem.json": 1,
               "foldingchair.activeitem.json": 0,
               "rarehammer.activeitem.json": 0,
               "uncommonhammer.activeitem.json": 0
