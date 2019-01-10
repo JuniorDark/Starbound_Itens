@@ -174,7 +174,7 @@
             "sawchakram.activeitem.json": 1
           },
           "fist": {
-            "boxingglove.activeitem.json": 0,
+            "boxingglove.activeitem.json": 1,
             "brassknuckles.activeitem.json": 0,
             "clawglove.activeitem.json": 0,
             "gauntlet.activeitem.json": 0,
