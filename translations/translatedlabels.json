@@ -200,7 +200,7 @@
               "uncommonbroadsword.activeitem.json": 1
             },
             "dagger": {
-              "commondagger.activeitem.json": 0,
+              "commondagger.activeitem.json": 1,
               "raredagger.activeitem.json": 0,
               "uncommondagger.activeitem.json": 0
             },
