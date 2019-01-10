@@ -56,7 +56,7 @@
             "geode.activeitem.json": 1
           },
           "oredetector": {
-            "cavedetector.activeitem.json": 0,
+            "cavedetector.activeitem.json": 1,
             "oredetector.activeitem.json": 0
           },
           "parasol": {
