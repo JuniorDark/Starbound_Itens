@@ -196,7 +196,7 @@
               "legendblade.activeitem.json": 1,
               "rarebroadsword.activeitem.json": 1,
               "stoneblade.activeitem.json": 1,
-              "timepierce.activeitem.json": 0,
+              "timepierce.activeitem.json": 1,
               "uncommonbroadsword.activeitem.json": 0
             },
             "dagger": {
