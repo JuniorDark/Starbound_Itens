@@ -175,7 +175,7 @@
           },
           "fist": {
             "boxingglove.activeitem.json": 1,
-            "brassknuckles.activeitem.json": 0,
+            "brassknuckles.activeitem.json": 1,
             "clawglove.activeitem.json": 0,
             "gauntlet.activeitem.json": 0,
             "stunglove.activeitem.json": 0,
