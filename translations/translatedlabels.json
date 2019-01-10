@@ -69,7 +69,7 @@
             "railhook.activeitem.json": 1
           },
           "railplatform": {
-            "compositerailplatform.activeitem.json": 0,
+            "compositerailplatform.activeitem.json": 1,
             "rustyrailplatform.activeitem.json": 0,
             "stationtram.activeitem.json": 0
           },
