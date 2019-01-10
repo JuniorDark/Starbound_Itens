@@ -2854,7 +2854,7 @@
         "rock14.matitem.json": 0,
         "wicker.matitem.json": 0
       },
-      "shared_toxicwaste.json": 0,
+      "shared_toxicwaste.json": 1,
       "ship": {
         "FTLrepairkit.unlock.json": 0,
         "shared_shipupgrade.json": 0,
