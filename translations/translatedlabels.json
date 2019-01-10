@@ -180,7 +180,7 @@
             "gauntlet.activeitem.json": 1,
             "stunglove.activeitem.json": 1,
             "supernovaglove.activeitem.json": 1,
-            "vinefist.activeitem.json": 0
+            "vinefist.activeitem.json": 1
           },
           "melee": {
             "axe": {
