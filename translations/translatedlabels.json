@@ -214,7 +214,7 @@
               "energypickaxe.activeitem.json": 1
             },
             "shortsword": {
-              "commonshortsword.activeitem.json": 0,
+              "commonshortsword.activeitem.json": 1,
               "rareshortsword.activeitem.json": 0,
               "uncommonshortsword.activeitem.json": 0
             },
