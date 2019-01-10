@@ -99,7 +99,7 @@
         "weapons": {
           "arena": {
             "bruisersword": {
-              "bruisersword.activeitem.json": 0
+              "bruisersword.activeitem.json": 1
             },
             "flamethrowerblade": {
               "flamethrowerblade.activeitem.json": 0
