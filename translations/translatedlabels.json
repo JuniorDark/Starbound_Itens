@@ -10432,7 +10432,7 @@
     "shared_tribalplatform.mat.json": 1,
     "shared_tungstenplatform.mat.json": 1,
     "shared_woodenplatform.mat.json": 1,
-    "shared_wreckplatform.mat.json": 0,
+    "shared_wreckplatform.mat.json": 1,
     "tiles": {
       "materials": {
         "alienstripedblock.material.json": 0,
