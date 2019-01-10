@@ -220,7 +220,7 @@
             },
             "spear": {
               "commonspear.activeitem.json": 1,
-              "rarespear.activeitem.json": 0,
+              "rarespear.activeitem.json": 1,
               "uncommonspear.activeitem.json": 0
             }
           },
