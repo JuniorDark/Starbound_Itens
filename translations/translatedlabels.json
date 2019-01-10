@@ -74,7 +74,7 @@
             "stationtram.activeitem.json": 1
           },
           "relocator": {
-            "relocator.activeitem.json": 0
+            "relocator.activeitem.json": 1
           },
           "rewardbag": {
             "rewardbag.activeitem.json": 0
