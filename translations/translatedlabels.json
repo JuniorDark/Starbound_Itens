@@ -216,7 +216,7 @@
             "shortsword": {
               "commonshortsword.activeitem.json": 1,
               "rareshortsword.activeitem.json": 0,
-              "uncommonshortsword.activeitem.json": 0
+              "uncommonshortsword.activeitem.json": 1
             },
             "spear": {
               "commonspear.activeitem.json": 0,
