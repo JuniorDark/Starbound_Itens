@@ -87,7 +87,7 @@
           },
           "wateringcan": {
             "wateringcan.activeitem.json": 1,
-            "woodenwateringcan.activeitem.json": 0
+            "woodenwateringcan.activeitem.json": 1
           }
         },
         "vehiclecontroller": {
