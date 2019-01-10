@@ -10441,7 +10441,7 @@
         "hive.material.json": 1,
         "petalblock.material.json": 1,
         "rainbowwood.material.json": 1,
-        "rock14.material.json": 0,
+        "rock14.material.json": 1,
         "wicker.material.json": 0
       }
     },
