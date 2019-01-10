@@ -50,7 +50,7 @@
             "bugnet.activeitem.json": 1
           },
           "filledcapturepod": {
-            "shared_capturepod.activeitem.json": 0
+            "shared_capturepod.activeitem.json": 1
           },
           "geode": {
             "geode.activeitem.json": 0
