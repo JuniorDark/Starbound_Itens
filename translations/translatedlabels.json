@@ -86,7 +86,7 @@
             "translocator.activeitem.json": 1
           },
           "wateringcan": {
-            "wateringcan.activeitem.json": 0,
+            "wateringcan.activeitem.json": 1,
             "woodenwateringcan.activeitem.json": 0
           }
         },
