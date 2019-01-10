@@ -36,7 +36,7 @@
           "frostshield.activeitem.json": 1,
           "mushroomshield.activeitem.json": 1,
           "riotshield.activeitem.json": 1,
-          "seashellshield.activeitem.json": 0,
+          "seashellshield.activeitem.json": 1,
           "startershield.activeitem.json": 0
         },
         "stationtransponder": {
