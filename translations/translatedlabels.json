@@ -2936,7 +2936,7 @@
         "wiretool.wiretool.json": 0
       }
     },
-    "items.json": 0,
+    "items.json": 1,
     "materials": {
       "shared_.mat.json": 0,
       "shared_alienrock.mat.json": 0,
