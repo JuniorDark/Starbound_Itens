@@ -211,7 +211,7 @@
               "uncommonhammer.activeitem.json": 1
             },
             "pickaxe": {
-              "energypickaxe.activeitem.json": 0
+              "energypickaxe.activeitem.json": 1
             },
             "shortsword": {
               "commonshortsword.activeitem.json": 0,
