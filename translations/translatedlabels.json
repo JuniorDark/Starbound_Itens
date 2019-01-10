@@ -207,7 +207,7 @@
             "hammer": {
               "commonhammer.activeitem.json": 1,
               "foldingchair.activeitem.json": 1,
-              "rarehammer.activeitem.json": 0,
+              "rarehammer.activeitem.json": 1,
               "uncommonhammer.activeitem.json": 0
             },
             "pickaxe": {
