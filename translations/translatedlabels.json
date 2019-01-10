@@ -71,7 +71,7 @@
           "railplatform": {
             "compositerailplatform.activeitem.json": 1,
             "rustyrailplatform.activeitem.json": 1,
-            "stationtram.activeitem.json": 0
+            "stationtram.activeitem.json": 1
           },
           "relocator": {
             "relocator.activeitem.json": 0
