@@ -10,7 +10,7 @@
           "fishingrod.activeitem.json": 1
         },
         "fossil": {
-          "fossilbrushbeginner.activeitem.json": 0,
+          "fossilbrushbeginner.activeitem.json": 1,
           "fossilbrushmaster.activeitem.json": 0,
           "fossilbrushstudent.activeitem.json": 0
         },
