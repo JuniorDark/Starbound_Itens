@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/feathercrown/feathercrownseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/feathercrown/wildfeathercrownseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feathercrown Seed"
+    }
+  }
+]

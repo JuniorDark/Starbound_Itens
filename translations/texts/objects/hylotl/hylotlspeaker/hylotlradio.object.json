@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlspeaker/hylotlradio.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Traditional Radio"
+    }
+  }
+]

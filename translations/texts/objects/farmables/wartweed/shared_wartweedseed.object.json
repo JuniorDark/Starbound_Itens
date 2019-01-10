@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/wartweed/wartweedseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/wartweed/wildwartweedseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wartweed Seed"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bone/smashbones1/smashbones1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/bone/smashbones2/smashbones2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/bone/smashbones3/smashbones3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/bone/smashbones4/smashbones4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone Pile"
+    }
+  }
+]

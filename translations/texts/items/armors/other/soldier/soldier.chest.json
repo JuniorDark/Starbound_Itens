@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/soldier/soldier.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soldier's Chestpiece"
+    }
+  }
+]

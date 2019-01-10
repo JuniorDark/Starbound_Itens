@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitychest/scorchedcitychest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Decayed Chest"
+    }
+  }
+]

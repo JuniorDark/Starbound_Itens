@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industrialcanister/industrialcanister.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Industrial Canister"
+    }
+  }
+]

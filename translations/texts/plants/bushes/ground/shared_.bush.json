@@ -1,0 +1,47 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/shrub1/shrub1.bush": [
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/testbush/testbush.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shrub."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/flowery/flowery.bush": [
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/springbush/springbus.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flowery."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/skeletalbush/skeletalbush.bush": [
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/skulls/skulls.bush": [
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/tarbones/tarbones.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The bones of a long-dead creature."
+    }
+  }
+]

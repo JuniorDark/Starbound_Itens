@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/astroserver/astroserver.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Astro Server"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningfence/miningfence.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mining Railing"
+    }
+  }
+]

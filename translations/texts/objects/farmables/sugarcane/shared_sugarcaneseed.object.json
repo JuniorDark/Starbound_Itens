@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/sugarcane/sugarcaneseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/sugarcane/wildsugarcaneseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sugarcane Seed"
+    }
+  }
+]

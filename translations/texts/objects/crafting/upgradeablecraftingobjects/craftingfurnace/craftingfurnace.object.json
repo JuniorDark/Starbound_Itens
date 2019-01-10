@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Primitive Furnace^white;"
+    }
+  }
+]

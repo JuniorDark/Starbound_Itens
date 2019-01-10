@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/drop/sulphurplant/sulphurplant.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sulphur plant."
+    }
+  }
+]

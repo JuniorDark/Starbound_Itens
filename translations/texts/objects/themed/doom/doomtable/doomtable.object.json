@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/doom/doomtable/doomtable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Doom Table"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/avioscalefossil1.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avioscale Skull"
+    }
+  }
+]

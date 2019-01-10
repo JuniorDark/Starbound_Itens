@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/sandstoneplant/sandstoneplant.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sandy shrub."
+    }
+  }
+]

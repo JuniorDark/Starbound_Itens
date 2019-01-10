@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/sulphur.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sulphur"
+    }
+  }
+]

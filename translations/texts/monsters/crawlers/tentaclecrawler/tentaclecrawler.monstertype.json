@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/crawlers/tentaclecrawler/tentaclecrawler.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "tentaclecrawler"
+    }
+  }
+]

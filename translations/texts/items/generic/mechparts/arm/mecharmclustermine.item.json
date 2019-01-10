@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmclustermine.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cluster Mine Mech Arm"
+    }
+  }
+]

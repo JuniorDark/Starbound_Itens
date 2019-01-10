@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/mechassemblystation/mechassemblystation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech Assembly Station"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avian/avian-worker/avianworker.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worker Shirt"
+    }
+  }
+]

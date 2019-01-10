@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/oculemon/oculemonseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/oculemon/wildoculemonseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oculemon Seed"
+    }
+  }
+]

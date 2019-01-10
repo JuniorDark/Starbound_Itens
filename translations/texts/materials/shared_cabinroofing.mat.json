@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cabinroofing.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/cabinroofing.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cabin Roofing"
+    }
+  }
+]

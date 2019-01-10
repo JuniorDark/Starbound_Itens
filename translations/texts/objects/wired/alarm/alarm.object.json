@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/alarm/alarm.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarm"
+    }
+  }
+]

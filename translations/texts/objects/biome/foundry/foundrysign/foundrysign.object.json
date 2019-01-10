@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrysign/foundrysign.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foundry Sign"
+    }
+  }
+]

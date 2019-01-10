@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/spidersilkblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/spidersilkblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spider Silk"
+    }
+  }
+]

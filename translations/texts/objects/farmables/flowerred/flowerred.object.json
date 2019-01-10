@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/flowerred/flowerred.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Flower"
+    }
+  }
+]

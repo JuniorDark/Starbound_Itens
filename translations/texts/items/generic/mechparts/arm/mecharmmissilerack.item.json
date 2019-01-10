@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmmissilerack.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Missile Rack Mech Arm"
+    }
+  }
+]

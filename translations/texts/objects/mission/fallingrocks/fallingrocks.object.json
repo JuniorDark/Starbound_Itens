@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/fallingrocks/fallingrocks.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old Falling Rocks Sign"
+    }
+  }
+]

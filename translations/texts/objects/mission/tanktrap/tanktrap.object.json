@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/tanktrap/tanktrap.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tank Trap"
+    }
+  }
+]

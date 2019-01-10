@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/timer4s.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Timer (4 Sec)"
+    }
+  }
+]

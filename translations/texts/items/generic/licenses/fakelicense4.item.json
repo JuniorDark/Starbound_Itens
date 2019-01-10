@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/licenses/fakelicense4.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fake Eagle License"
+    }
+  }
+]

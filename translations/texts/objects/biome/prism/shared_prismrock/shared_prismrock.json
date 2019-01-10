@@ -1,0 +1,43 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/prism/prismrock1/prismrock1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/prism/prismrock2/prismrock2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/prism/prismrock3/prismrock3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/prism/prismrock4/prismrock4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/prism/prismrock5/prismrock5.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/prism/prismrock6/prismrock6.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/prism/prismrock7/prismrock7.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/prism/prismrock8/prismrock8.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/prism/prismrockhumanoid/prismrockhumanoid.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/prism/prismrockpenguin/prismrockpenguin.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/prism/prismrockrunes/prismrockrunes.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prism Crystal"
+    }
+  }
+]

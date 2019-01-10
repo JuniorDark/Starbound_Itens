@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/techhull1.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/techhull1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reinforced Tech Block"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyhylotl.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kabuto Mech Body"
+    }
+  }
+]

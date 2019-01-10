@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/dirturchin/dirturchinseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/dirturchin/wilddirturchinseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirturchin Seed"
+    }
+  }
+]

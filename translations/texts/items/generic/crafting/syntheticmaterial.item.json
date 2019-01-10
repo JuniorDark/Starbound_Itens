@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/syntheticmaterial.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Synthetic Material"
+    }
+  }
+]

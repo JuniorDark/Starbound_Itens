@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/dark/shadowshrine/shadowshrine.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/dark/shadowshrine2/shadowshrine2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/dark/shadowshrine3/shadowshrine3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Shrine"
+    }
+  }
+]

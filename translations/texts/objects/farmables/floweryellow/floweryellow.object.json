@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/floweryellow/floweryellow.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yellow Flower"
+    }
+  }
+]

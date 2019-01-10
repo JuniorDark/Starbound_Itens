@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/steamclock/steamclock.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Steam Clock Face"
+    }
+  }
+]

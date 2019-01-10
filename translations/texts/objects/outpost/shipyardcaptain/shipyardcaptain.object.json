@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/shipyardcaptain/shipyardcaptain.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shipyard Captain"
+    }
+  }
+]

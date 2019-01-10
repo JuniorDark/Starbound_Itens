@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/snow.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/snow.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snow"
+    }
+  }
+]

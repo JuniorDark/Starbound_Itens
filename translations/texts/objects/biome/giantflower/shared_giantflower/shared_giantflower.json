@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflower1/giantflower1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/giantflower/giantflower2/giantflower2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/giantflower/giantflower3/giantflower3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/giantflower/giantflower4/giantflower4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giant Flower"
+    }
+  }
+]

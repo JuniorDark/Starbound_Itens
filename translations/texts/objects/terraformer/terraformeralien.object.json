@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/terraformer/terraformeralien.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mutant Terraformer"
+    }
+  }
+]

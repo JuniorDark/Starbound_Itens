@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonpanel/prisonpanel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "USCM Penal Colony Panel"
+    }
+  }
+]

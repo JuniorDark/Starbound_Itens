@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/birdgroundlantern/birdgroundlantern.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Torch Stand"
+    }
+  }
+]

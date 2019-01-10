@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/ancientplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Platform"
+    }
+  }
+]

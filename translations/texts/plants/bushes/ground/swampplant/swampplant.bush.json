@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/swampplant/swampplant.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A swampy plant."
+    }
+  }
+]

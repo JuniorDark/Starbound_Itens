@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/horn/mechhorncharge.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Charge Mech Horn"
+    }
+  }
+]

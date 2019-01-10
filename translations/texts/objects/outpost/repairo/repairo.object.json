@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/repairo/repairo.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rob Repairo"
+    }
+  }
+]

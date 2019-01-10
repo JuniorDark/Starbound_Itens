@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/tradingcards/card01.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trading Card #01"
+    }
+  }
+]

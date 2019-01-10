@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/metallic.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/metallic.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi-tech Block"
+    }
+  }
+]

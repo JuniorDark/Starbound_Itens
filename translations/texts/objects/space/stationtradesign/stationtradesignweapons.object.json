@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationtradesign/stationtradesignweapons.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapons Station Sign"
+    }
+  }
+]

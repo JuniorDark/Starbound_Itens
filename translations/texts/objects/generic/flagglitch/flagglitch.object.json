@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glitch Flag"
+    }
+  }
+]

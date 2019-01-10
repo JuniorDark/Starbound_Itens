@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cobblestone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/cobblestone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cobblestone"
+    }
+  }
+]

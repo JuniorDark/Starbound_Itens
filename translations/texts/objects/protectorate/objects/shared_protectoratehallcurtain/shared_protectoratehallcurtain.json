@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratehallcurtain/protectoratehallcurtain.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectoratehallcurtain2/protectoratehallcurtain2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protectorate Stage Curtain"
+    }
+  }
+]

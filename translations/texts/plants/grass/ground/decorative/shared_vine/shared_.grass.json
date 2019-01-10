@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/vine/vine.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/viney/viney.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vine."
+    }
+  }
+]

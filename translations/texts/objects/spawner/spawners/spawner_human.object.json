@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_human.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Human Spawner"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/target/target.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Target"
+    }
+  }
+]

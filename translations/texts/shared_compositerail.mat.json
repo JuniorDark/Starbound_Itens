@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/compositerail.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/rails/compositerail.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Composite Rail"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/statuslight/statuslight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Status Light"
+    }
+  }
+]

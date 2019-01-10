@@ -1,0 +1,607 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. Here is a gift, for all your help."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Did you need me for a particular reason?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/hylotl/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you need me for anything in particular?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you need me for anything?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran got you a thing! Take it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran has a thing for you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likes house, Floran ssay thank you with present."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "For all you have done for me, please accept this humble gift in thanks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/apex/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "For all you have done, take this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. Did you want to chat?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. I hope you like the gift, you've earned it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grateful. I got you a present for all you've done for me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/avian/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello again, how's it going?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello there, what can I help you with?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here - I brought a gift for your troubles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here is a token of my gratitude."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here's a gift for all your help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here's a gift, for all your help."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/human/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here's a little thank you gift for you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here's something for your troubles!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey! Here's a present!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, nice to see you. You just want a chat?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi! What's up?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi, what did you need me for?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "How pleasant to be invited to talk."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I got this for you. You can take it, or not. It's up to you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I thought you might like this!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. You need me for something?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is there something you need?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a mighty fine place you've helped me secure. I gotta thank you for it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jovial. Here I am! What did you want to talk about?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "May this gift ease your troubles as you have eased mine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My home is as peaceful as I could hope for. Here is a gift for all you have done."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please accept this gift, for all your help."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Polite. Is this a social call?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Respectful. A gift of thanks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Salutations! What did you need to discuss?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Somethin' on your mind?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssurprise, Floran is here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a good home. Here is a thank you present."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a good, safe home. I brought you a gift to say thank you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What have you called me for?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "What is it, my friend?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "What you need to talk about?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/novakid/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You called and I came a-running."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look like you could use a present. Take this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You need Floran for sssomething?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You need Floran?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You need me for something, my friend?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You needin' to talk about something?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You wanna talk?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You want something?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/apex/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You wanted to talk to me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You were hoping to speak to me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You were sssearching for Floran?"
+    }
+  }
+]

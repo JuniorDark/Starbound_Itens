@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerpanel1/bunkerpanel1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Environmental Data Panel"
+    }
+  }
+]

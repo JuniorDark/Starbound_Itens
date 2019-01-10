@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/firedclay.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fired Clay"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ironblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ironblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Block"
+    }
+  }
+]

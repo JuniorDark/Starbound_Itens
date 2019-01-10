@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinweaponshop/penguinweaponshopclosed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Closed Biggy's Reputable Weapons"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/flametrap/flametrap.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avian Flame Trap"
+    }
+  }
+]

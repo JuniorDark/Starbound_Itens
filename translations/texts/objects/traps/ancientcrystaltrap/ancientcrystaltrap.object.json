@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Crystal Trap"
+    }
+  }
+]

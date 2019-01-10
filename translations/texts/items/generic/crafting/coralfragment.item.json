@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/coralfragment.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ember Coral Fragment"
+    }
+  }
+]

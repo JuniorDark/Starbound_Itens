@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodestone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/geodestone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Geode Stone"
+    }
+  }
+]

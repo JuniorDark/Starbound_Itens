@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/vent/vent.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Air Vent"
+    }
+  }
+]

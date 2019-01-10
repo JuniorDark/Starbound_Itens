@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalarmor/medievalarmor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Display Armour"
+    }
+  }
+]

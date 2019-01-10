@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyshark.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lilotron Mech Body"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztectech.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/aztectech.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avian Tech Block"
+    }
+  }
+]

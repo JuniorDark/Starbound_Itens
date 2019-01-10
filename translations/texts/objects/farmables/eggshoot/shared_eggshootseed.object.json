@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggshoot/eggshootseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/eggshoot/wildeggshootseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eggshoot Seed"
+    }
+  }
+]

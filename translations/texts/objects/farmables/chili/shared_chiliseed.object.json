@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/chili/chiliseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/chili/wildchiliseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chilli Seed"
+    }
+  }
+]

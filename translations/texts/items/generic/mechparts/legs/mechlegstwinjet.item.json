@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/legs/mechlegstwinjet.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Twinjet Mech Legs"
+    }
+  }
+]

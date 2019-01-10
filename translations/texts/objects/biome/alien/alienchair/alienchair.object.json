@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/alien/alienchair/alienchair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien Chair"
+    }
+  }
+]

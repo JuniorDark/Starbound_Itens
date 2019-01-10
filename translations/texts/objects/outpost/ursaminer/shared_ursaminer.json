@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/ursaminer/ursaminer.object": [
+        "/shortdescription"
+      ],
+      "objects/outpost/ursaminer/ursaminerclosed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ursa Miner"
+    }
+  }
+]

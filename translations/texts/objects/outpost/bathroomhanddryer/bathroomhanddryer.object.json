@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bathroomhanddryer/bathroomhanddryer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bathroom Hand Dryer"
+    }
+  }
+]

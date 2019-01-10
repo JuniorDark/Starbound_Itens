@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zen Rock"
+    }
+  }
+]

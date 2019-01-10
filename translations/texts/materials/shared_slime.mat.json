@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slime.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/slime.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slime Glob"
+    }
+  }
+]

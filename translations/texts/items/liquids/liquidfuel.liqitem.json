@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/liquidfuel.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Liquid Erchius Fuel"
+    }
+  }
+]

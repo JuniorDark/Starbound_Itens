@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/lavabowl/lavabowl.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A natural lava bowl."
+    }
+  }
+]

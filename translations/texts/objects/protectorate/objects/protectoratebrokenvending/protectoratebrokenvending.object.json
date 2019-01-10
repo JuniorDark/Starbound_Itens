@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebrokenvending/protectoratebrokenvending.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken Vending Machine"
+    }
+  }
+]

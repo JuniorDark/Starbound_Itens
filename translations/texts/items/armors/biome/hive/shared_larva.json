@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/hive/larva.chest": [
+        "/shortdescription"
+      ],
+      "items/armors/biome/hive/larvanpc/larva.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Larva Chest"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/hive/larva.legs": [
+        "/shortdescription"
+      ],
+      "items/armors/biome/hive/larvanpc/larva.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Larva Legs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/hive/larva.head": [
+        "/shortdescription"
+      ],
+      "items/armors/biome/hive/larvanpc/larva.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Larva Mask"
+    }
+  }
+]

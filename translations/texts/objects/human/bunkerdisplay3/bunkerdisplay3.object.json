@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerdisplay3/bunkerdisplay3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Map Display"
+    }
+  }
+]

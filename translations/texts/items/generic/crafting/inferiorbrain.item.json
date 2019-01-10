@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/inferiorbrain.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inferior Brain"
+    }
+  }
+]

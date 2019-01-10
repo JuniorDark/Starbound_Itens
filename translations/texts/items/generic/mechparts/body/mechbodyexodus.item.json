@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyexodus.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exodus Mech Body"
+    }
+  }
+]

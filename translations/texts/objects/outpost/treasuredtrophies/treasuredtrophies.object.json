@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/treasuredtrophies/treasuredtrophies.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Treasured Trophies"
+    }
+  }
+]

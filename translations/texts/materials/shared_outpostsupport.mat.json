@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostsupport.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/outpostsupport.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outpost Support Beam"
+    }
+  }
+]

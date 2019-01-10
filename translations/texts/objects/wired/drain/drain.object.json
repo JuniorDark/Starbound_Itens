@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/drain/drain.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drain"
+    }
+  }
+]

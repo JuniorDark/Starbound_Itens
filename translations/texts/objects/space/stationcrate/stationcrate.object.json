@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationcrate/stationcrate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Station Crate"
+    }
+  }
+]

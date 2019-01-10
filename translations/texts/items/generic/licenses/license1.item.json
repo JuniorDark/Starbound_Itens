@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/licenses/license1.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sparrow License"
+    }
+  }
+]

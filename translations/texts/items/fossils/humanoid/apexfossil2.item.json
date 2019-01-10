@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/apexfossil2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apex Torso"
+    }
+  }
+]

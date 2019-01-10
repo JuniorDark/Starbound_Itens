@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/shortdescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Bed"
+    }
+  }
+]

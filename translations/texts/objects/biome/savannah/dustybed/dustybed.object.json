@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/savannah/dustybed/dustybed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dusty Bed"
+    }
+  }
+]

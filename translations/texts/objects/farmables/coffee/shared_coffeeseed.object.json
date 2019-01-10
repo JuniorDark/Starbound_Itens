@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coffee/coffeeseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/coffee/wildcoffeeseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coffee Seed"
+    }
+  }
+]

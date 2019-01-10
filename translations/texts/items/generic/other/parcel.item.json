@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/parcel.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Parcel"
+    }
+  }
+]

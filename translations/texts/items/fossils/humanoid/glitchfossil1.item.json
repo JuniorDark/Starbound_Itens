@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/glitchfossil1.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glitch Head"
+    }
+  }
+]

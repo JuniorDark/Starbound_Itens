@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationvendingmachine/stationvendingmachine.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Station Vending Machine"
+    }
+  }
+]

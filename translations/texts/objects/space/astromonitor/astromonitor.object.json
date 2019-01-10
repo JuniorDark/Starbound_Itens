@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/astromonitor/astromonitor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Astro Monitor"
+    }
+  }
+]

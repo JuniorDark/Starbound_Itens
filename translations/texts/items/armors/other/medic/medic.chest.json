@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/medic/medic.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Combat Medic Chest"
+    }
+  }
+]

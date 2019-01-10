@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/copperplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Platform"
+    }
+  }
+]

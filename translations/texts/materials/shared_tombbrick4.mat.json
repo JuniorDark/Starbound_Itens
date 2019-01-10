@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick4.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tombbrick4.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Tomb Brick"
+    }
+  }
+]

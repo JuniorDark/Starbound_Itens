@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodeblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/geodeblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Geode Crystals"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/booster/mechboostersleek.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sleek Mech Boosters"
+    }
+  }
+]

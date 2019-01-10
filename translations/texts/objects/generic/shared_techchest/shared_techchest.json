@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/techchest/techchest.object": [
+        "/shortdescription"
+      ],
+      "objects/generic/techchest2/techchest2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi-Tech Chest"
+    }
+  }
+]

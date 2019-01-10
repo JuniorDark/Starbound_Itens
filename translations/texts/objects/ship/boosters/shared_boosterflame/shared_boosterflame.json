@@ -1,0 +1,69 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameavian.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameglitch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflame.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex2.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex3.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman2.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman3.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflameglitch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflamehuman2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Booster Flame"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Damaging Booster Flame"
+    }
+  }
+]

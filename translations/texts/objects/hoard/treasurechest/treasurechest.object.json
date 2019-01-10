@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/treasurechest/treasurechest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Treasure Chest"
+    }
+  }
+]

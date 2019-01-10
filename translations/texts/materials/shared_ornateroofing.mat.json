@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornateroofing.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ornateroofing.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ornate Roofing"
+    }
+  }
+]

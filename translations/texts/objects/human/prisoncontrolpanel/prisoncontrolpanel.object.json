@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisoncontrolpanel/prisoncontrolpanel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Security Control Panel"
+    }
+  }
+]

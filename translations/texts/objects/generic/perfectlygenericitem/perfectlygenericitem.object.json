@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/perfectlygenericitem/perfectlygenericitem.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfectly Generic Item"
+    }
+  }
+]

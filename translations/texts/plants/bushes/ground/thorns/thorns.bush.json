@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/thorns/thorns.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thorn bush."
+    }
+  }
+]

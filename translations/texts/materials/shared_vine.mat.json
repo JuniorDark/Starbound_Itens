@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/vine.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/vine.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vine"
+    }
+  }
+]

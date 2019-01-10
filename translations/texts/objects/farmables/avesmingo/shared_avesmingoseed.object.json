@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avesmingo/avesmingoseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/avesmingo/wildavesmingoseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avesmingo Seed"
+    }
+  }
+]

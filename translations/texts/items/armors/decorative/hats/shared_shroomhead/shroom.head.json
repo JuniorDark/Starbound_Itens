@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/shroomhead2/shroom.head": [
+        "/shortdescription"
+      ],
+      "items/armors/decorative/hats/shroomhead4/shroom.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Agaran Gilled Hat"
+    }
+  }
+]

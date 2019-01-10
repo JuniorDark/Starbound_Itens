@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbay/penguinbay.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penguin Bay"
+    }
+  }
+]

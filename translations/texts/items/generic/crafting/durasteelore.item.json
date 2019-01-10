@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/durasteelore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Durasteel Ore"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/mechsign/mechsign.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech Sign"
+    }
+  }
+]

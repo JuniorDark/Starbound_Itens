@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/platform.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/platform2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/platform.material": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/platform2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wood Platform"
+    }
+  }
+]

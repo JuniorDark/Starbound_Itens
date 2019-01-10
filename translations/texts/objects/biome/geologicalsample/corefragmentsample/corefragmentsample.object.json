@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/corefragmentsample/corefragmentsample.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Core Fragment Sample"
+    }
+  }
+]

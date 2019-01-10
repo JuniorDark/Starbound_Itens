@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/reefpod/reefpodseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/reefpod/wildreefpodseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reefpod Seed"
+    }
+  }
+]

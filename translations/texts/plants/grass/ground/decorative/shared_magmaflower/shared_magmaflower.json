@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/magmaflower/magmaflower.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower2/magmaflower2.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower3/magmaflower3.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower4/magmaflower4.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower5/magmaflower5.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magma flower."
+    }
+  }
+]

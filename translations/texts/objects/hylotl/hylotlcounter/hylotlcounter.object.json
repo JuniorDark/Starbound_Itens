@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlcounter/hylotlcounter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hylotl Counter"
+    }
+  }
+]

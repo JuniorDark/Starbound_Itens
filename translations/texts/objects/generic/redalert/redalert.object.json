@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/redalert/redalert.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warning Light"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatetiles.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ornatetiles.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ornate Tiles"
+    }
+  }
+]

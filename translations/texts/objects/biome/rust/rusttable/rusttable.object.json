@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/rust/rusttable/rusttable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty Table"
+    }
+  }
+]

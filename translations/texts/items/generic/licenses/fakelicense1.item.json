@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/licenses/fakelicense1.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fake Sparrow License"
+    }
+  }
+]

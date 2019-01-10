@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/cellcave/dnaplant1/dnaplant1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/cellcave/dnaplant2/dnaplant2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/cellcave/dnaplant3/dnaplant3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/cellcave/dnaplant4/dnaplant4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "DNA Plant"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/flowerbed1/flowerbed1.object": [
+        "/shortdescription"
+      ],
+      "objects/apex/flowerbed2/flowerbed2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flower Bed"
+    }
+  }
+]

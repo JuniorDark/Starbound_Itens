@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/hylotlfossil2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hylotl Torso"
+    }
+  }
+]

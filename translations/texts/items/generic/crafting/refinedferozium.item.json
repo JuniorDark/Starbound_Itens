@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/refinedferozium.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Refined Ferozium"
+    }
+  }
+]

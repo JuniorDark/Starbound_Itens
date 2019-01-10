@@ -1,0 +1,52 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avianteleporter/avianteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/avianteleporterTier0/avianteleporterTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/floranteleporter/floranteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/floranteleporterTier0/floranteleporterTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/glitchteleporter/glitchteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/glitchteleporterTier0/glitchteleporterTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/humanteleporter/humanteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/humanteleporterTier0/humanteleporterTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/hylotlteleporter/hylotlteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/hylotlteleporterTier0/hylotlteleporterTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/novakidteleporter/novakidteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/novakidteleporterTier0/novakidteleporterTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/teleporter/teleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/teleporterTier0/teleporterTier0.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleporter"
+    }
+  }
+]

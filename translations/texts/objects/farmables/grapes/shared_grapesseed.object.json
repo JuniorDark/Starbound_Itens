@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/grapes/grapesseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/grapes/wildgrapesseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grape Seed"
+    }
+  }
+]

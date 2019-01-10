@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagfloran/flagfloran.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran Flag"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/crystalline/crystaltable/crystaltable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal Table"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipwall.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/apexshipwall.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall Panel"
+    }
+  }
+]

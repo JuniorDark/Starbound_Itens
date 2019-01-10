@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmhomingmissile.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Homing Missile Mech Arm"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratestorage4/protectoratestorage4.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectoratestorage5/protectoratestorage5.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectoratestorage6/protectoratestorage6.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Capsule Storage Unit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratestorage1/protectoratestorage1.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectoratestorage2/protectoratestorage2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Status Pod Storage Unit"
+    }
+  }
+]

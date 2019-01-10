@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/icesphere/icesphere1/icesphere1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/icesphere/icesphere2/icesphere2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/icesphere/icesphere3/icesphere3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/icesphere/icesphere4/icesphere4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Sphere"
+    }
+  }
+]

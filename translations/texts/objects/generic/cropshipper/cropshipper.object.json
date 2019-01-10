@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/cropshipper/cropshipper.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terramart Shipments"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/terramart/terramartclosed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Closed Terra Mart"
+    }
+  }
+]

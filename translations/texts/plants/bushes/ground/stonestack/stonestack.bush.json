@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/stonestack/stonestack.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pile of stones."
+    }
+  }
+]

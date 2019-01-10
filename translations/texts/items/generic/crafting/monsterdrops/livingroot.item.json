@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/monsterdrops/livingroot.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Living Root"
+    }
+  }
+]

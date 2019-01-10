@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/wildvines.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wild Vines"
+    }
+  }
+]

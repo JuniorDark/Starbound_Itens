@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/screen2/screen2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spaceship screen"
+    }
+  }
+]

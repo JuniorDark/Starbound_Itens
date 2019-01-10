@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/refinedaegisalt.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Refined Aegisalt"
+    }
+  }
+]

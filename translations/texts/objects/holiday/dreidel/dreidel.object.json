@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/dreidel/dreidel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dreidel"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundryxor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foundry XOR Switch"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingcrystalflower/ceilingcrystalflower.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/crystalflower/crystalflower.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crystal flower."
+    }
+  }
+]

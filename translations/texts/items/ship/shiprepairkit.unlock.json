@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/ship/shiprepairkit.unlock": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship Repair Kit"
+    }
+  }
+]

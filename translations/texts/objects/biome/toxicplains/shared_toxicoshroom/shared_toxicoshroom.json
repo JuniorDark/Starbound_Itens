@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/toxicplains/toxicoshroom1/toxicoshroom1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/toxicplains/toxicoshroom2/toxicoshroom2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/toxicplains/toxicoshroom3/toxicoshroom3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/toxicplains/toxicoshroom4/toxicoshroom4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/toxicplains/toxicoshroom5/toxicoshroom5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic Glowing Oshroom"
+    }
+  }
+]

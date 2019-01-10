@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/legs/mechlegsronin.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ronin Mech Legs"
+    }
+  }
+]

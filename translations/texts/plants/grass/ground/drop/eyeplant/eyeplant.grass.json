@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/drop/eyeplant/eyeplant.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gross eyeball flower."
+    }
+  }
+]

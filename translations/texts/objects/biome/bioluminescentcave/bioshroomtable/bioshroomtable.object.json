@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescentcave/bioshroomtable/bioshroomtable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glow Table"
+    }
+  }
+]

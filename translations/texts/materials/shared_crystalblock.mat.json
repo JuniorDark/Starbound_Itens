@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/crystalblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/crystalblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal Block"
+    }
+  }
+]

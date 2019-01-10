@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industrialchair/industrialchair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Industrial Chair"
+    }
+  }
+]

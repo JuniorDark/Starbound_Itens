@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/cultist/cultist.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cultist Chestpiece"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/plutoniumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plutonium Ore"
+    }
+  }
+]

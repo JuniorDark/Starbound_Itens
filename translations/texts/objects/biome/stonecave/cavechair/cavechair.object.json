@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/stonecave/cavechair/cavechair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rock Chair"
+    }
+  }
+]

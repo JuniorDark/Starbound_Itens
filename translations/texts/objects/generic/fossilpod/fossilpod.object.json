@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/fossilpod/fossilpod.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fossil Pod"
+    }
+  }
+]

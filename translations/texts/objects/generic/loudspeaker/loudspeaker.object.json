@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/loudspeaker/loudspeaker.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Loudspeakers"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/boilervalve/boilervalve.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boiler Valve"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/fishfossil.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fish Fossil"
+    }
+  }
+]

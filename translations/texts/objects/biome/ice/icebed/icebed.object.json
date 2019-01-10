@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/ice/icebed/icebed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Bed"
+    }
+  }
+]

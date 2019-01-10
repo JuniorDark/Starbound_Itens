@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/mysterioustrashbag.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mysterious Trash Bag"
+    }
+  }
+]

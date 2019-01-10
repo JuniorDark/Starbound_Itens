@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/ocean/oshroom1/oshroom1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/ocean/oshroom2/oshroom2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/ocean/oshroom3/oshroom3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/ocean/oshroom4/oshroom4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/ocean/oshroom5/oshroom5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glowing Oshroom"
+    }
+  }
+]

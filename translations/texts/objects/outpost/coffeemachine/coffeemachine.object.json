@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/coffeemachine/coffeemachine.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coffee Machine"
+    }
+  }
+]

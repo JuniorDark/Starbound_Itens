@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/acceleratoraddon/acceleratoraddon.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Accelerator Addon^white;"
+    }
+  }
+]

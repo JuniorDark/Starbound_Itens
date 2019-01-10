@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/invisiblelight/invisiblelight.object": [
+        "/shortdescription"
+      ],
+      "objects/generic/shiplight/shiplight.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/apexshiplight/apexshiplight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship Light"
+    }
+  }
+]

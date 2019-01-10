@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/cell/celllamp/celllamp.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cell Lamp"
+    }
+  }
+]

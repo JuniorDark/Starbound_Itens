@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/castlewalls2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/castlewalls2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Stone Brick"
+    }
+  }
+]

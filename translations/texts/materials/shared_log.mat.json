@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/log.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/log.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Log"
+    }
+  }
+]

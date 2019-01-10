@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tar.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tar.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tar"
+    }
+  }
+]

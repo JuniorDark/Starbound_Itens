@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/legs/mechlegsarc.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arc Mech Legs"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerserver/bunkerserver.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Server Cabinet"
+    }
+  }
+]

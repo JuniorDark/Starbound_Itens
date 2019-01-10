@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/essencechest/essencechest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Essence Chest"
+    }
+  }
+]

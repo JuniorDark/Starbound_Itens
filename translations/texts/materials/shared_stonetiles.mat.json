@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stonetiles.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/stonetiles.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone Tiles"
+    }
+  }
+]

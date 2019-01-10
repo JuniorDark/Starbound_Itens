@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/freezetrap/freezetrap.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cryogenic Blaster"
+    }
+  }
+]

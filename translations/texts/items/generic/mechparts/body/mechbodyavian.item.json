@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyavian.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Champion Mech Body"
+    }
+  }
+]

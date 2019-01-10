@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningpowersign/miningpowersign.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Power Sign"
+    }
+  }
+]

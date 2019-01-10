@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wormstatue/wormstatue.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone Worm Statue"
+    }
+  }
+]

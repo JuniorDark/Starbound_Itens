@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fleshblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/fleshblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flesh Chunk"
+    }
+  }
+]

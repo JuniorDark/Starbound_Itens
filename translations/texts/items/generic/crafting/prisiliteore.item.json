@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/prisiliteore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prism Shard"
+    }
+  }
+]

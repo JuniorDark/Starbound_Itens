@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyprotector.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protector's Mech Body"
+    }
+  }
+]

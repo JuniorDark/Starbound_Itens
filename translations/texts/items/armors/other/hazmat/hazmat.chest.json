@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/hazmat/hazmat.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hazmat Shirt"
+    }
+  }
+]

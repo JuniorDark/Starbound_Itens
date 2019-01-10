@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/strangeweb1/strangeweb1.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/strangeweb1/strangeweb2.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/strangeweb1/strangeweb3.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/strangeweb1/strangeweb4.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/strangeweb1/strangeweb5.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/strangeweb1/strangeweb6.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange Web"
+    }
+  }
+]

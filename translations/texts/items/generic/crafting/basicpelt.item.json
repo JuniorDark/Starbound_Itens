@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/basicpelt.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pelt"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/humanfossil3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Human Legs"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonrock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/moonrock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moonrock"
+    }
+  }
+]

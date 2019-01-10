@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ash.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ash.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ash Pile"
+    }
+  }
+]

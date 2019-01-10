@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/rust/rustbush1/rustbush1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/rust/rustbush2/rustbush2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/rust/rustbush3/rustbush3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/rust/rustbush4/rustbush4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty Bush"
+    }
+  }
+]

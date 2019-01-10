@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bone/bonechest/bonechest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone Chest"
+    }
+  }
+]

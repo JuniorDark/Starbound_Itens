@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/flesh/fleshbush1/fleshbush1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/flesh/fleshbush2/fleshbush2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/flesh/fleshbush3/fleshbush3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/flesh/fleshbush4/fleshbush4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/flesh/fleshbush5/fleshbush5.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/flesh/fleshbush6/fleshbush6.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flesh Bush"
+    }
+  }
+]

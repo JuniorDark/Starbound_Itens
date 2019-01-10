@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/goldenegg/goldenegg.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Golden Egg"
+    }
+  }
+]

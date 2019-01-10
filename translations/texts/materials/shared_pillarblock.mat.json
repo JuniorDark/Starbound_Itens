@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pillarblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/pillarblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pillar Block"
+    }
+  }
+]

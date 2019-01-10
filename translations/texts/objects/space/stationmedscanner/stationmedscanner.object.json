@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationmedscanner/stationmedscanner.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Station Medical Scanner"
+    }
+  }
+]

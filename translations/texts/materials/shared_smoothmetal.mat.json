@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/smoothmetal.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/smoothmetal.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smooth Metal"
+    }
+  }
+]

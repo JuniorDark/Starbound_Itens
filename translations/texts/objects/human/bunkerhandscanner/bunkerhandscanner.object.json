@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerhandscanner/bunkerhandscanner.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fingerprint Scanner"
+    }
+  }
+]

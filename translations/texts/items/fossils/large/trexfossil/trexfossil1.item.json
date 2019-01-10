@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/large/trexfossil/trexfossil1.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "T-Rex Skull"
+    }
+  }
+]

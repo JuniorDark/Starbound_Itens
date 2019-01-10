@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/dark/shadowrock1/shadowrock1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/dark/shadowrock2/shadowrock2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/dark/shadowrock3/shadowrock3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/dark/shadowrock4/shadowrock4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/dark/shadowrock5/shadowrock5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark rock"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/glass.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/glass.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/lightblocker.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass Block"
+    }
+  }
+]

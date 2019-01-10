@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancienticetrap/ancienticetrap.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Ice Trap"
+    }
+  }
+]

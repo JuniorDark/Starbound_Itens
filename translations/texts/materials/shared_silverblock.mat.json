@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/silverblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silver Block"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fullwood1.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/fullwood1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Treated Wood"
+    }
+  }
+]

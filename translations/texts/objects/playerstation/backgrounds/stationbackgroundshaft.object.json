@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/playerstation/backgrounds/stationbackgroundshaft.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shaft piece background"
+    }
+  }
+]

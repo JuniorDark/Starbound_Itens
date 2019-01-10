@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/direstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/direstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dire Stone"
+    }
+  }
+]

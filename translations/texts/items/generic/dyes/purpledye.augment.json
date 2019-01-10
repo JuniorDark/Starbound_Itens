@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/dyes/purpledye.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Purple Dye"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/tomato/tomatoseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/tomato/wildtomatoseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tomato Seed"
+    }
+  }
+]

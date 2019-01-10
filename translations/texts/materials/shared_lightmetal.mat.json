@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lightmetal.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/lightmetal.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light Metal"
+    }
+  }
+]

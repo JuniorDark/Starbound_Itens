@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geode/geodeceilinglight/geodeceilinglight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Geode Light"
+    }
+  }
+]

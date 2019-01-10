@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/rainbowwood.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unrefined Rainbow Wood"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/licenses/fakelicense3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fake Falcon License"
+    }
+  }
+]

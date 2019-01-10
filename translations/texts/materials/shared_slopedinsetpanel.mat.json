@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slopedinsetpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/slopedinsetpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inset Panel"
+    }
+  }
+]

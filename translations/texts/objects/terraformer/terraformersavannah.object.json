@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/terraformer/terraformersavannah.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prairie Terraformer"
+    }
+  }
+]

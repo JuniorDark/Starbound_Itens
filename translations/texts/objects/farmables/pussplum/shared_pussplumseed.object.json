@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/pussplum/pussplumseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/pussplum/wildpussplumseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pussplum Seed"
+    }
+  }
+]

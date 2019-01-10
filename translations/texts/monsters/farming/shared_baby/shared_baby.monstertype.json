@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/farming/fluffalobaby/electricfluffalobaby.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/farming/fluffalobaby/firefluffalobaby.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/farming/fluffalobaby/fluffalobaby.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/farming/fluffalobaby/icefluffalobaby.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/farming/fluffalobaby/poisonfluffalobaby.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/farming/mooshibaby/mooshibaby.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fluffalo Calf"
+    }
+  }
+]

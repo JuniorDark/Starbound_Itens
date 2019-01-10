@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/diamondsample/diamondsample.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Diamond Sample"
+    }
+  }
+]

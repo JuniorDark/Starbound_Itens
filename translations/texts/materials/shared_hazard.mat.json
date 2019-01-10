@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hazard.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/hazard.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hazard Block"
+    }
+  }
+]

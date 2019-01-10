@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shojiscreenpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/shojiscreenpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shoji Screen Panel"
+    }
+  }
+]

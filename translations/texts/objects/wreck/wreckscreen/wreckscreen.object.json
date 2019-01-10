@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckscreen/wreckscreen.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wrecked Monitor"
+    }
+  }
+]

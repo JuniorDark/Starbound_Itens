@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/concrete.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/concrete.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concrete Block"
+    }
+  }
+]

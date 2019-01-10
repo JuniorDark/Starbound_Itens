@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/coralcave/embercoral1/embercoral1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/coralcave/embercoral2/embercoral2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/coralcave/embercoral3/embercoral3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/coralcave/embercoral4/embercoral4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/coralcave/embercoral5/embercoral5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ember Coral"
+    }
+  }
+]

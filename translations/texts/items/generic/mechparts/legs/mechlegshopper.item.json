@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/legs/mechlegshopper.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopper Mech Legs"
+    }
+  }
+]

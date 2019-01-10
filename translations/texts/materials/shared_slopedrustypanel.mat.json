@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slopedrustypanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/slopedrustypanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty Panel"
+    }
+  }
+]

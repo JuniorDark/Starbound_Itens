@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/barvent/barvent.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Barred Vent"
+    }
+  }
+]

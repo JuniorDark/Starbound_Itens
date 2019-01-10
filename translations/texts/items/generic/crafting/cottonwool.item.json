@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/cottonwool.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cotton Wool"
+    }
+  }
+]

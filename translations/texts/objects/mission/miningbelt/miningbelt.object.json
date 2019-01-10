@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningbelt/miningbelt.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mining Conveyer Belt"
+    }
+  }
+]

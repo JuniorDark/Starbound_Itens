@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/composite01.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/composite01.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium Panel"
+    }
+  }
+]

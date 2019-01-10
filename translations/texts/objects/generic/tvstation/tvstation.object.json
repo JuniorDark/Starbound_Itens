@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/tvstation/tvstation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "TV Station"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/monsterdrops/staticcell.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Static Cell"
+    }
+  }
+]

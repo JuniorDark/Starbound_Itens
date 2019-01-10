@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/beaconsnow/beaconsnow.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distress Beacon"
+    }
+  }
+]

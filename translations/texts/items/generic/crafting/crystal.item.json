@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/crystal.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/lunarquestturnin/drillmachine.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mining Drill"
+    }
+  }
+]

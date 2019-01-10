@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationpylon/stationpylon.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Station Pylon"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/iceblocks/iceblocks.bush": [
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/icebush/icebush.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block of ice."
+    }
+  }
+]

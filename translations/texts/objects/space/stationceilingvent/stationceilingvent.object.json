@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationceilingvent/stationceilingvent.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Station Ceiling Vent"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ridgebrick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ridgebrick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ridged Block"
+    }
+  }
+]

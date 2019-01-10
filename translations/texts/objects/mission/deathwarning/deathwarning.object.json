@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/deathwarning/deathwarning.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old Warning Sign"
+    }
+  }
+]

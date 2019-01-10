@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boltbulb Seed"
+    }
+  }
+]

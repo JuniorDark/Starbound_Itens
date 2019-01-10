@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/shipwheel/shipwheel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Ship Wheel"
+    }
+  }
+]

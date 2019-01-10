@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/iceblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/iceblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Block"
+    }
+  }
+]

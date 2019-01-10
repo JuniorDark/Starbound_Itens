@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slush.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/slush.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slush"
+    }
+  }
+]

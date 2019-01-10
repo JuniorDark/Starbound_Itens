@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/uraniumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uranium Ore"
+    }
+  }
+]

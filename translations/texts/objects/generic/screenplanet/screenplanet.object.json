@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/screenplanet/screenplanet.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Planet Monitor"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/gnome/smallhouse1/smallhouse1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/gnome/smallhouse11/smallhouse11.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/gnome/smallhouse2/smallhouse2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/gnome/smallhouse3/smallhouse3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/gnome/smallhouse6/smallhouse6.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/gnome/smallhouse7/smallhouse7.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/gnome/smallhouse8/smallhouse8.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/gnome/smallinn/smallinn.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/gnome/smallwindmill/smallwindmill.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tiny House"
+    }
+  }
+]

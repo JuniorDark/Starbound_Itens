@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industriallight/industriallight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Industrial Light"
+    }
+  }
+]

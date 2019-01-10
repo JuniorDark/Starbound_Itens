@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/slimecave/blueprintblob/blueprintblob.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blueprint Blob"
+    }
+  }
+]

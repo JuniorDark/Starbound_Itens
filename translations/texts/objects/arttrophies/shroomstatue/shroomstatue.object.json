@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/shroomstatue/shroomstatue.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mushroom Statue"
+    }
+  }
+]

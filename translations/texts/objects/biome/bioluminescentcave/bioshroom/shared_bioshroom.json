@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescentcave/bioshroom/bioshroom1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/bioluminescentcave/bioshroom/bioshroom2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/bioluminescentcave/bioshroom/bioshroom3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/bioluminescentcave/bioshroom/bioshroom4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/bioluminescentcave/bioshroom/bioshroom5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glow Mushrooms"
+    }
+  }
+]

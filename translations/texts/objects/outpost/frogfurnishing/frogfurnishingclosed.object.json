@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/frogfurnishing/frogfurnishingclosed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Closed Frögg Furnishing"
+    }
+  }
+]

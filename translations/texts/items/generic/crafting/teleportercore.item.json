@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/teleportercore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleporter Core"
+    }
+  }
+]

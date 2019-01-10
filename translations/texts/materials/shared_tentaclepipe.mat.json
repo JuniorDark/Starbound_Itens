@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentaclepipe.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tentaclepipe.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Tentacle"
+    }
+  }
+]

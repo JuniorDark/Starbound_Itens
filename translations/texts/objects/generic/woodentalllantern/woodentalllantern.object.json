@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tall Wooden Torch"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/protectorateplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/protectorateplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protectorate Platform"
+    }
+  }
+]

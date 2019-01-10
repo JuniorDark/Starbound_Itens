@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/water.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Water"
+    }
+  }
+]

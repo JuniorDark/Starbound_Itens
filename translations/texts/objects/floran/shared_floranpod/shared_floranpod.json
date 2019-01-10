@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranpod1/floranpod1.object": [
+        "/shortdescription"
+      ],
+      "objects/floran/floranpod2/floranpod2.object": [
+        "/shortdescription"
+      ],
+      "objects/floran/floranpod3/floranpod3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fungal Pod"
+    }
+  }
+]

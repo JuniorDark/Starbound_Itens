@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/flesh/fleshbed/fleshbed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flesh Bed"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningskip/miningskip.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mining Skip"
+    }
+  }
+]

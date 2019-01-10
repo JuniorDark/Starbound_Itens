@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientmural/ancientmural1/ancientmural1.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientmural/ancientmural2/ancientmural2.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientmural/ancientmural3/ancientmural3.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientmural/ancientmural4/ancientmural4.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientmural/ancientmural5/ancientmural5.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientmural/ancientmural6/ancientmural6.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Mural"
+    }
+  }
+]

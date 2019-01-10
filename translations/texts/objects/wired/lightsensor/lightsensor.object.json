@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/lightsensor/lightsensor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light Sensor"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/oasis/reedseed1/reedseed1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/oasis/reedseed2/reedseed2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/oasis/reedseed3/reedseed3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/oasis/reedseed4/reedseed4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/oasis/reedseed5/reedseed5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reed Seed"
+    }
+  }
+]

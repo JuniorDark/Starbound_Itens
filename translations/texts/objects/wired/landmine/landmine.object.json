@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/landmine/landmine.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Military Land Mine"
+    }
+  }
+]

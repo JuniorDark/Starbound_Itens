@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationtradesign/stationtradesignfood.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Food Station Sign"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/tribalserver/tribalserver.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avian Server"
+    }
+  }
+]

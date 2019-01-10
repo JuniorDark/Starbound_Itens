@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmheatrifle.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heatrifle Mech Arm"
+    }
+  }
+]

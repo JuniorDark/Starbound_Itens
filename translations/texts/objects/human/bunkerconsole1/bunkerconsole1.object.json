@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerconsole1/bunkerconsole1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Command Console"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalpressureplate/medievalpressureplate.object": [
+        "/shortdescription"
+      ],
+      "objects/wired/proximitysensor/proximitysensor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pressure Plate"
+    }
+  }
+]

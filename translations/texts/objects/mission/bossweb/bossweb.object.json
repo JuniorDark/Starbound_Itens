@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/bossweb/bossweb.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ixodoom Web"
+    }
+  }
+]

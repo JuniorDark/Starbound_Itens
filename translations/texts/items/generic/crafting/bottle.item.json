@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/bottle.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Empty Bottle"
+    }
+  }
+]

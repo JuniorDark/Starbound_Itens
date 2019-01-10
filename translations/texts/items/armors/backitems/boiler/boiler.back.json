@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/boiler/boiler.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boiler"
+    }
+  }
+]

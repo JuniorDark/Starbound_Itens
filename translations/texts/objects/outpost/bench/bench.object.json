@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bench/bench.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bench"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/petalred.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Petal"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrysupport/foundrysupport.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foundry Support"
+    }
+  }
+]

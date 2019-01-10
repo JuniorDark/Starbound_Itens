@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/solidfuel.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal Erchius Fuel"
+    }
+  }
+]

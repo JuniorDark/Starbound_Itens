@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/candyblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/candyblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Candy Block"
+    }
+  }
+]

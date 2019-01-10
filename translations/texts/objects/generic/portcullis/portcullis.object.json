@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/portcullis/portcullis.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Durasteel Portcullis"
+    }
+  }
+]

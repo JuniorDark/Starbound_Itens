@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/astronaut/liftoffseat/liftoffseat.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Liftoff Seat"
+    }
+  }
+]

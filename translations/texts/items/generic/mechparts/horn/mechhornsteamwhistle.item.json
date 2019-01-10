@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/horn/mechhornsteamwhistle.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Steam Whistle Mech Horn"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/robothead.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Robot Head"
+    }
+  }
+]

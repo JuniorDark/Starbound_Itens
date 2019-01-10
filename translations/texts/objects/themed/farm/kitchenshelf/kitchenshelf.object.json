@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/farm/kitchenshelf/kitchenshelf.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kitchen Shelf"
+    }
+  }
+]

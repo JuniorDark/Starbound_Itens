@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/huntingstatue/huntingstatue.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran Statue"
+    }
+  }
+]

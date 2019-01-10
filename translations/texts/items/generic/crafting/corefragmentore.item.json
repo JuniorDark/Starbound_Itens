@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/corefragmentore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Core Fragment"
+    }
+  }
+]

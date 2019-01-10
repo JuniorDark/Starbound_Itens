@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmcannon.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cannon Mech Arm"
+    }
+  }
+]

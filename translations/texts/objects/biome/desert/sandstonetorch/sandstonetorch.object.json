@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/desert/sandstonetorch/sandstonetorch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandstone Torch"
+    }
+  }
+]

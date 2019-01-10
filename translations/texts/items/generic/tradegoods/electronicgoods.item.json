@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/tradegoods/electronicgoods.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electronic Parts"
+    }
+  }
+]

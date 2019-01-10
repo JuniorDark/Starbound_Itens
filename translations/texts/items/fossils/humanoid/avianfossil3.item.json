@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/avianfossil3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avian Legs"
+    }
+  }
+]

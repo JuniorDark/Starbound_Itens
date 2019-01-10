@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperladder.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/copperladder.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Ladder"
+    }
+  }
+]

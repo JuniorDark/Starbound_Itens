@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/ship/FTLrepairkit.unlock": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL Repair Kit"
+    }
+  }
+]

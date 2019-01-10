@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingmedical/craftingmedical.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Apothecary^white;"
+    }
+  }
+]

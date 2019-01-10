@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienrock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alienrock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien Rock"
+    }
+  }
+]

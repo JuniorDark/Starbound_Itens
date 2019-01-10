@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/drop/floatingcrystal/floatingcrystal.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mysterious floating crystal."
+    }
+  }
+]

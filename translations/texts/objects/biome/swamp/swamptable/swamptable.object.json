@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/swamp/swamptable/swamptable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Swamp Table"
+    }
+  }
+]

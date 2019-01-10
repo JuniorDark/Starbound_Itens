@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/laboratorylight/laboratorylight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Laboratory Light"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/horn/mechhornrobotvoice.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Robot Voice Mech Horn"
+    }
+  }
+]

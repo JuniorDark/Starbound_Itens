@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrybed/foundrybed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foundry Bed"
+    }
+  }
+]

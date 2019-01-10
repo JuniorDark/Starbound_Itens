@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/carrot/carrotseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/carrot/wildcarrotseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carrot Seed"
+    }
+  }
+]

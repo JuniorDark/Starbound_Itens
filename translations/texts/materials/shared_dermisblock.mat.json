@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dermisblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/dermisblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ruin Dermis"
+    }
+  }
+]

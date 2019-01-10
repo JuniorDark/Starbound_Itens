@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/waterplant/waterplant.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/waterplant2/waterplant2.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/waterplant3/waterplant3.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An underwater plant."
+    }
+  }
+]

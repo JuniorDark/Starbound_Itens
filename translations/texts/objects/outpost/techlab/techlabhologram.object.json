@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabhologram.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech Lab Interface"
+    }
+  }
+]

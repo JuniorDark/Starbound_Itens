@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/clay.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/clay.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clay"
+    }
+  }
+]

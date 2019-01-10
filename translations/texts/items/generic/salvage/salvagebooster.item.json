@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/salvage/salvagebooster.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Salvaged Thruster Nozzle"
+    }
+  }
+]

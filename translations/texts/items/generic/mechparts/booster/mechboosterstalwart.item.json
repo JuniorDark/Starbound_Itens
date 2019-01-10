@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/booster/mechboosterstalwart.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stalwart Mech Boosters"
+    }
+  }
+]

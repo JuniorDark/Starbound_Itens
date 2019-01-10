@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/hologram1/hologram1.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/hologram2/hologram2.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/hologram3/hologram3.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/hologram4/hologram4.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/hologramgalaxy/hologramgalaxy.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Hologram"
+    }
+  }
+]

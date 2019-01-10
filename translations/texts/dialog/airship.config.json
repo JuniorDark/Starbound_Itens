@@ -1,0 +1,508 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "All these propellers require so much upkeep!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Any funny business and it'll be the brig for you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't cause any trouble and no harm will come to you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/hail/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't go getting any funny ideas now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Every day it's the same old routine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/32"
+      ]
+    },
+    "Texts": {
+      "Eng": "For some, it's about the money. For me, it's about the adventure!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Haven't seen you on board before."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "How did you get all the way up here?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder how my family is doing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/34"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd best not catch you pilfering anything!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/hail/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd better not catch you taking anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd think twice if you're looking for a scuffle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm new here, but I'm finding my skyfaring legs!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/hail/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've got my eyes on you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/36"
+      ]
+    },
+    "Texts": {
+      "Eng": "If supplies are what you want, go see the quartermaster."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/hail/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you want some of our supplies, go speak to the quartermaster."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you want supplies you should speak to our quartermaster."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "It has its challenges, but life as an aeronaut is great!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keep your hands off our supplies and we won't have any problems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keep your hands to yourself!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/hail/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keep your hands where I can see them!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/35"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keep your hands where I can see them..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Life on an airship isn't all it's cracked up to be."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looking for supplies? Go see the quartermaster."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Make sure you behave yourself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/37"
+      ]
+    },
+    "Texts": {
+      "Eng": "One whiff of disrespect and I will end you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Right here in the open skies, this is where I belong!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship is nice and all, but the food is terrible! Know how to cook?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "The view from the main deck is quite something!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship has seen better days, but its my home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ugh, I'm on cleaning duty today."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watch your step on deck, it can get a bit rough in windy conditions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/31"
+      ]
+    },
+    "Texts": {
+      "Eng": "We got some great supplies from our last stop!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/33"
+      ]
+    },
+    "Texts": {
+      "Eng": "We see a lot of exciting stuff in our line of work, but it can be dangerous too!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/38"
+      ]
+    },
+    "Texts": {
+      "Eng": "We're a merchant vessel by trade, but don't think that makes us pushovers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome aboard!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "What do you think of our ship?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "When I tell people I live on a ship, they always assume I have scurvy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "You a new crew member?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "You ever consider getting an eyepatch?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "You here to trade?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/39"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look like you've been in a scrap or two."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "You lost?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "You seem a capable sort, ever considered the skyfaring life?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/hail/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'd best behave yourself while on this ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/converse/default/default/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'd best not be eyeing our stuff!"
+    }
+  }
+]

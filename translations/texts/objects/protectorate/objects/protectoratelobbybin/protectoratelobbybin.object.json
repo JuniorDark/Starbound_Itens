@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratelobbybin/protectoratelobbybin.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protectorate Bin"
+    }
+  }
+]

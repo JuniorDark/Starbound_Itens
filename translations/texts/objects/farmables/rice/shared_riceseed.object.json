@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/rice/riceseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/rice/wildriceseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rice Seed"
+    }
+  }
+]

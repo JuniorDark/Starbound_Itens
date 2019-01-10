@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/crystalplant.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal Plant"
+    }
+  }
+]

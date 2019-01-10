@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggs/fluffaloegg/fluffaloegg.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fluffalo Egg"
+    }
+  }
+]

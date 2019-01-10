@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/horn/mechhornlacucha.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Melody Mech Horn"
+    }
+  }
+]

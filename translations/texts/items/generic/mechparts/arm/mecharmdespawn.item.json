@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmdespawn.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Despawn Mech Arm"
+    }
+  }
+]

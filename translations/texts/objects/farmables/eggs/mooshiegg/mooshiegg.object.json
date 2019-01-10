@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggs/mooshiegg/mooshiegg.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mooshi Egg"
+    }
+  }
+]

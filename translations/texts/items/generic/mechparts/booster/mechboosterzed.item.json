@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/booster/mechboosterzed.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zed Mech Boosters"
+    }
+  }
+]

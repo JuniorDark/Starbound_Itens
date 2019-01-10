@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/spawner/bossrightspawner.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boss Right Spawner"
+    }
+  }
+]

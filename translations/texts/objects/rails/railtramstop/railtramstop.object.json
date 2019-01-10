@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rails/railtramstop/railtramstop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rail Tram Stop"
+    }
+  }
+]

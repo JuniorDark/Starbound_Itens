@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/forcepad/jumppad.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jump Pad"
+    }
+  }
+]

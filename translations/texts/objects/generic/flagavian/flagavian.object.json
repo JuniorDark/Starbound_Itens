@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagavian/flagavian.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avian Flag"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ironore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Ore"
+    }
+  }
+]

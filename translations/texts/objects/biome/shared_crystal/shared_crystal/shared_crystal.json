@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/crystalcave/crystalcavebush1/crystalcavebush1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/crystalcave/crystalcavebush2/crystalcavebush2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/crystalcave/crystalcavebush3/crystalcavebush3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/crystalcave/crystalcavebush4/crystalcavebush4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/crystalline/crystallinebush1/crystallinebush1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/crystalline/crystallinebush2/crystallinebush2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/crystalline/crystallinebush3/crystallinebush3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/crystalline/crystallinebush4/crystallinebush4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystalline Bush"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/salvage/salvagelegs.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Salvaged Actuator"
+    }
+  }
+]

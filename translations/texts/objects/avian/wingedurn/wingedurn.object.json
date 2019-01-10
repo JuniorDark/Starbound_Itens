@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/wingedurn/wingedurn.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Winged Urn"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/booster/mechboosterhammer.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hammer Mech Boosters"
+    }
+  }
+]

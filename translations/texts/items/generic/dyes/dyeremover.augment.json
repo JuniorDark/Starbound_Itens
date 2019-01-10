@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/dyes/dyeremover.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dye Remover"
+    }
+  }
+]

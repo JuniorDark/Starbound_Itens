@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/skeletonflower/skeletonflower.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A skeletal flower."
+    }
+  }
+]

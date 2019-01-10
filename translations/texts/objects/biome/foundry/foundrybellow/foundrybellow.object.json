@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrybellow/foundrybellow.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foundry Bellows"
+    }
+  }
+]

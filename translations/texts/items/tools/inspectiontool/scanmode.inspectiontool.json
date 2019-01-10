@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanning Mode"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/slime/slimechest/slimehide.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slime Chest"
+    }
+  }
+]

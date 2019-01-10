@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/jungle/junglebush13/junglebush13.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/jungle/junglebush14/junglebush14.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/jungle/junglebush15/junglebush15.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/jungle/junglebush16/junglebush16.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leafy Plant"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/jungle/junglebush17/junglebush17.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/jungle/junglebush18/junglebush18.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Putrid Flower"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/thornplant/thornplant.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thorny Plant"
+    }
+  }
+]

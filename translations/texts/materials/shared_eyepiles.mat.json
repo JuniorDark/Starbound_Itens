@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/eyepiles.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/eyepiles.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pile of Eyes"
+    }
+  }
+]

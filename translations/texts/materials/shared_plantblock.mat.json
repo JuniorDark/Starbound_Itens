@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/plantblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plant Block"
+    }
+  }
+]

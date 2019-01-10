@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclepart1/tentaclepart1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/tentacle/tentaclepart2/tentaclepart2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/tentacle/tentaclepart3/tentaclepart3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tentacle part"
+    }
+  }
+]

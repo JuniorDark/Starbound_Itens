@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/alienweirdwood.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien Weird Wood"
+    }
+  }
+]

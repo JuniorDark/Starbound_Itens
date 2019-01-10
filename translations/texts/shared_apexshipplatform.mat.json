@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/apexshipplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship Platform"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/helpme/helpme.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Help Me Sign"
+    }
+  }
+]

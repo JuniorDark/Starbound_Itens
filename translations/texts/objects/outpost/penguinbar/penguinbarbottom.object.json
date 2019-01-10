@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbarbottom.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penguin Bar"
+    }
+  }
+]

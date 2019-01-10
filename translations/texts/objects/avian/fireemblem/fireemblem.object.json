@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/fireemblem/fireemblem.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avian Fire Emblem"
+    }
+  }
+]

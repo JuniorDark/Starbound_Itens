@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/techcard.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech Card"
+    }
+  }
+]

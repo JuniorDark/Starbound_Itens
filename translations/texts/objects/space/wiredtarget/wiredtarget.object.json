@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/wiredtarget/wiredtarget.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wired Target"
+    }
+  }
+]

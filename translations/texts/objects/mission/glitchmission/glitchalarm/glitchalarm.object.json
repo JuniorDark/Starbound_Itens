@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/glitchmission/glitchalarm/glitchalarm.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarm Bell"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/terraformer/terraformertundra.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Icy Terraformer"
+    }
+  }
+]

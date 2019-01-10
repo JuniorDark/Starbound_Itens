@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fillerup.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fill 'Er Up"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/legs/mechlegshermes.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hermes Mech Legs"
+    }
+  }
+]

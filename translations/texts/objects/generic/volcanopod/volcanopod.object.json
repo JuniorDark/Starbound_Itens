@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/volcanopod/volcanopod.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dispensing Pod"
+    }
+  }
+]

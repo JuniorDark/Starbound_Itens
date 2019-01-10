@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stomachblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/stomachblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stomach Lining"
+    }
+  }
+]

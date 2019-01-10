@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowvinelamp/glowvinelamp.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glow Vine Lamp"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/terraformer/terraformervolcanic.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Volcanic Terraformer"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fence.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/fence.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Fence"
+    }
+  }
+]

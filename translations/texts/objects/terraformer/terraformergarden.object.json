@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/terraformer/terraformergarden.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lush Terraformer"
+    }
+  }
+]

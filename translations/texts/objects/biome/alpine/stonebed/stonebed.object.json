@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/alpine/stonebed/stonebed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone Bed"
+    }
+  }
+]

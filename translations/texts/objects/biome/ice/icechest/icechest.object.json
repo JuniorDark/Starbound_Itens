@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/ice/icechest/icechest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Chest"
+    }
+  }
+]

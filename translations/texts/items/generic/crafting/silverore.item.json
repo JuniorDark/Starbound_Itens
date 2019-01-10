@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/silverore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silver Ore"
+    }
+  }
+]

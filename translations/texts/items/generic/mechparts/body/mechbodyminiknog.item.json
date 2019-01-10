@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyminiknog.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Miniknog Mech Body"
+    }
+  }
+]

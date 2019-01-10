@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/lunarlander/lunarlander.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunar Lander"
+    }
+  }
+]

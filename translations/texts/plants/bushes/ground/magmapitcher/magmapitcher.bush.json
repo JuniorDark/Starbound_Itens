@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/magmapitcher/magmapitcher.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cones filled with magma."
+    }
+  }
+]

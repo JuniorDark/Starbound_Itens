@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonforcecell/prisonforcecell.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Force Cell"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlliquidsensor/hylotlliquidsensor.object": [
+        "/shortdescription"
+      ],
+      "objects/wired/liquidsensor/liquidsensor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Liquid Sensor"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/fleshcorpse/fleshcorpse.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vile corpse."
+    }
+  }
+]

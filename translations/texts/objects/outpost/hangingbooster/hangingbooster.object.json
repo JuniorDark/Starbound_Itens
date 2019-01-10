@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/hangingbooster/hangingbooster.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hanging Booster"
+    }
+  }
+]

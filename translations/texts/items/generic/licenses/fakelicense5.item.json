@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/licenses/fakelicense5.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fake Condor License"
+    }
+  }
+]

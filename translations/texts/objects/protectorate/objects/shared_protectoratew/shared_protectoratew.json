@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratewallbanner/protectoratewallbanner.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectoratewindbanner/protectoratewindbanner.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectoratewindbanner2/protectoratewindbanner2.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectoratewindbanner3/protectoratewindbanner3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protectorate Wall Banner"
+    }
+  }
+]

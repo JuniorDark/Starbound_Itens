@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodycultist.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Occasus Mech Body"
+    }
+  }
+]

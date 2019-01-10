@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/astronaut/venusmodel/venusmodel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Venus Model"
+    }
+  }
+]

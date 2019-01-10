@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bambooplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/bambooplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bamboo Platform"
+    }
+  }
+]

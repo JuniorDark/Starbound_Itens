@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/toxicplains/toxicplains.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic plants."
+    }
+  }
+]

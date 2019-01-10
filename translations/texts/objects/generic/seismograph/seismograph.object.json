@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/seismograph/seismograph.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seismograph"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/lollipop1/lollipop1.object": [
+        "/shortdescription"
+      ],
+      "objects/holiday/lollipop2/lollipop2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giant Lollipop"
+    }
+  }
+]

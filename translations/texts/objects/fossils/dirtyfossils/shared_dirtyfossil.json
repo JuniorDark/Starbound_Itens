@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/fossils/dirtyfossils/dirtyfossil1.object": [
+        "/shortdescription"
+      ],
+      "objects/fossils/dirtyfossils/dirtyfossil2.object": [
+        "/shortdescription"
+      ],
+      "objects/fossils/dirtyfossils/dirtyfossil3.object": [
+        "/shortdescription"
+      ],
+      "objects/fossils/dirtyfossils/dirtyfossil4.object": [
+        "/shortdescription"
+      ],
+      "objects/fossils/dirtyfossils/dirtyfossil5.object": [
+        "/shortdescription"
+      ],
+      "objects/fossils/dirtyfossils/dirtyfossil6.object": [
+        "/shortdescription"
+      ],
+      "objects/fossils/dirtyfossils/dirtyfossil7.object": [
+        "/shortdescription"
+      ],
+      "objects/fossils/dirtyfossils/dirtyfossil8.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fossil"
+    }
+  }
+]

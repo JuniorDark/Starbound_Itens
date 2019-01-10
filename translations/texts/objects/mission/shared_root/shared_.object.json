@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/root10/root10.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/root6/root6.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/root7/root7.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/root8/root8.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/root9/root9.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Long Roots"
+    }
+  }
+]

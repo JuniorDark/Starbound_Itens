@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/astronaut/satellite/satellite.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satellite Model"
+    }
+  }
+]

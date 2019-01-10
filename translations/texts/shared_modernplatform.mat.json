@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/modernplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/modernplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Modern Platform"
+    }
+  }
+]

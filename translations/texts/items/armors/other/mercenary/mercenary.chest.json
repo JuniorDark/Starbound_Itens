@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/mercenary/mercenary.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mercenary's Breastplate"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bone/bonetable/bonetable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone Table"
+    }
+  }
+]

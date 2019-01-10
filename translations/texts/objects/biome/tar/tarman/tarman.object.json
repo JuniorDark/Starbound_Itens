@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tar/tarman/tarman.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tarman"
+    }
+  }
+]

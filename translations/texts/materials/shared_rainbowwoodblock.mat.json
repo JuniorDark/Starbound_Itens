@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rainbowwoodblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rainbowwoodblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rainbow Wood Planks"
+    }
+  }
+]

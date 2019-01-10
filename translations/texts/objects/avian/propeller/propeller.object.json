@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/propeller/propeller.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Propeller"
+    }
+  }
+]

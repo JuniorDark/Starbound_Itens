@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/seaweed.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien Seaweed"
+    }
+  }
+]

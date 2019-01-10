@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/arcadegame/arcadegameobject.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mazebound64"
+    }
+  }
+]

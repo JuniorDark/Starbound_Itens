@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/kiwi/kiwiseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/kiwi/wildkiwiseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kiwi Seed"
+    }
+  }
+]

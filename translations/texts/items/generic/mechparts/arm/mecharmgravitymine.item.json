@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmgravitymine.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravity Mine Mech Arm"
+    }
+  }
+]

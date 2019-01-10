@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/monsterdrops/hardenedcarapace.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hardened Carapace"
+    }
+  }
+]

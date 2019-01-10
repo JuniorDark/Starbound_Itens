@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/altar1/altar1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone Altar"
+    }
+  }
+]

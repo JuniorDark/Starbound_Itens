@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/pineapple/pineappleseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/pineapple/wildpineappleseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pineapple Seed"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexspeaker/apexspeaker.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Announcement Intercom"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectorateinfobooth/protectorateinfobooth.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Info Booth"
+    }
+  }
+]

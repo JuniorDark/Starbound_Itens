@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/snowbush/snowbush.bush": [
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/snowhappybush/snowhappybush.bush": [
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/snowshrub1/snowshrub1.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A snow-covered bush."
+    }
+  }
+]

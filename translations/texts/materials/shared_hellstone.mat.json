@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hellstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/hellstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flesh Pile"
+    }
+  }
+]

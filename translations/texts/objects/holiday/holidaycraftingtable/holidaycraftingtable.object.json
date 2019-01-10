@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/holidaycraftingtable/holidaycraftingtable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toymaker's Table"
+    }
+  }
+]

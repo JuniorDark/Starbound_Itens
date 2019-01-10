@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/monolithstatue1/monolithstatue1.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/monolithstatue2/monolithstatue2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Monolith Statue"
+    }
+  }
+]

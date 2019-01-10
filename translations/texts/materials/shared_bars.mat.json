@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bars.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/bars.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal Bars"
+    }
+  }
+]

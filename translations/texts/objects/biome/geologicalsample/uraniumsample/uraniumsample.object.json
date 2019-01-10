@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/uraniumsample/uraniumsample.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uranium Sample"
+    }
+  }
+]

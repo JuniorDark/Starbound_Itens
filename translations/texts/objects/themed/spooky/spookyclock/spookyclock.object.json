@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/spooky/spookyclock/spookyclock.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spooky Clock"
+    }
+  }
+]

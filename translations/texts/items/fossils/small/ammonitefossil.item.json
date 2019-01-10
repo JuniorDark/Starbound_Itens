@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/ammonitefossil.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ammonite"
+    }
+  }
+]

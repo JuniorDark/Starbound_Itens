@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/burningcoals/burningcoals.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burning Coals"
+    }
+  }
+]

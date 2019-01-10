@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/automato/automatoseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/automato/wildautomatoseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Automato Seed"
+    }
+  }
+]

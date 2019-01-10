@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/horn/mechhorntoy.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toy Mech Horn"
+    }
+  }
+]

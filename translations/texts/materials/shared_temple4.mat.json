@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple4.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/temple4.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simple Temple Blocks"
+    }
+  }
+]

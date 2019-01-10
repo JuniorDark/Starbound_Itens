@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/snowflake.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snowflake"
+    }
+  }
+]

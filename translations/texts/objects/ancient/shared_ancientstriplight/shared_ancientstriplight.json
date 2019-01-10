@@ -1,0 +1,49 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientstriplight1/ancientstriplight1.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientstriplight10/ancientstriplight10.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientstriplight11/ancientstriplight11.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientstriplight12/ancientstriplight12.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientstriplight13/ancientstriplight13.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientstriplight2/ancientstriplight2.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientstriplight3/ancientstriplight3.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientstriplight4/ancientstriplight4.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientstriplight5/ancientstriplight5.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientstriplight6/ancientstriplight6.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientstriplight7/ancientstriplight7.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientstriplight8/ancientstriplight8.object": [
+        "/shortdescription"
+      ],
+      "objects/ancient/ancientstriplight9/ancientstriplight9.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Strip Light"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/stonecave/ceilingstalactite1/ceilingstalactite1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/stonecave/ceilingstalactite2/ceilingstalactite2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/stonecave/ceilingstalactite3/ceilingstalactite3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/stonecave/ceilingstalactite4/ceilingstalactite4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/stonecave/ceilingstalactite5/ceilingstalactite5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rock Stalactite"
+    }
+  }
+]

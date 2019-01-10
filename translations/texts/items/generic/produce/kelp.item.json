@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/kelp.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kelp"
+    }
+  }
+]

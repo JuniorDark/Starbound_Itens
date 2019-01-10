@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodybad.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beat Mech Body"
+    }
+  }
+]

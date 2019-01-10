@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/lunarbasebunk/lunarbasebunk.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunar Base Bunk"
+    }
+  }
+]

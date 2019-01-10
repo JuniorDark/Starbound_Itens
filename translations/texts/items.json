@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/swamp/froggsuit/frogg.legs": [
+        "/shortdescription"
+      ],
+      "items/fossils/humanoid/froggfossil3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frogg Legs"
+    }
+  }
+]

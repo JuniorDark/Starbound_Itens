@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingicicle/ceilingicicle.bush": [
+        "/shortdescription"
+      ],
+      "plants/grass/ceiling/decorative/ceilingice/ceilingice.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ceiling/decorative/ceilingiceballs/ceilingiceballs.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ceiling/decorative/ceilingthinice/ceilingthinice.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An icicle."
+    }
+  }
+]

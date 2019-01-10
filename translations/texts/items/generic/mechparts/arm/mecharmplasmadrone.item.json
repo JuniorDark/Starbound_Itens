@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmplasmadrone.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasma Drone Mech Arm"
+    }
+  }
+]

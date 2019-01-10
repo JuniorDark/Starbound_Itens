@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/cacti.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cactus"
+    }
+  }
+]

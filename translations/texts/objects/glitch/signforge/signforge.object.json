@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/signforge/signforge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forge Sign"
+    }
+  }
+]

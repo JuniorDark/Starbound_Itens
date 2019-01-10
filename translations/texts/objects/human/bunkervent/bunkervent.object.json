@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkervent/bunkervent.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bunker Vent"
+    }
+  }
+]

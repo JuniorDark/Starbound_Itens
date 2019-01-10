@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/beakseed/beakseedseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/beakseed/wildbeakseedseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beakseed Seed"
+    }
+  }
+]

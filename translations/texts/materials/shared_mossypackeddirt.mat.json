@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mossypackeddirt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/mossypackeddirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mossy Packed Dirt"
+    }
+  }
+]

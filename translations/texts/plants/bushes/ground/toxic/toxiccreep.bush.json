@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/toxic/toxiccreep.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mutated plant."
+    }
+  }
+]

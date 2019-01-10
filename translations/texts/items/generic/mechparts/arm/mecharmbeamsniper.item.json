@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmbeamsniper.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beam Sniper Mech Arm"
+    }
+  }
+]

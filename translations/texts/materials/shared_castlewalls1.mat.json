@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/castlewalls1.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/castlewalls1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heavy Stone Brick"
+    }
+  }
+]

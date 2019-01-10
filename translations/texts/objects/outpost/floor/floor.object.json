@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floor/floor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floor"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/turret/turret.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi-tech Turret"
+    }
+  }
+]

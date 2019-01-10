@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/standingturret/standingturret.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Defense Turret"
+    }
+  }
+]

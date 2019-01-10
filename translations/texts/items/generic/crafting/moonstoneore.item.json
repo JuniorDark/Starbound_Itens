@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/moonstoneore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moonstone Ore"
+    }
+  }
+]

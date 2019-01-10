@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/giantflowerpetal.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giant Flower Petal"
+    }
+  }
+]

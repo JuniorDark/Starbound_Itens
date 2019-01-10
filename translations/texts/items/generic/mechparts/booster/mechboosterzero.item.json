@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/booster/mechboosterzero.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zero Mech Boosters"
+    }
+  }
+]

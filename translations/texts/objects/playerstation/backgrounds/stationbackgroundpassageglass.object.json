@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/playerstation/backgrounds/stationbackgroundpassageglass.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass passage piece background"
+    }
+  }
+]

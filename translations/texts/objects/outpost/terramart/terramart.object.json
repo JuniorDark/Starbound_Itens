@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/terramart/terramart.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terramart"
+    }
+  }
+]

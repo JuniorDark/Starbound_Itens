@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmbeamdrill.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beam Drill Mech Arm"
+    }
+  }
+]

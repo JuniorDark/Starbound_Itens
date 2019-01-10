@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/salvage/salvagebody.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Salvaged Armor Plate"
+    }
+  }
+]

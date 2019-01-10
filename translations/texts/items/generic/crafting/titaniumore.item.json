@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/titaniumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium Ore"
+    }
+  }
+]

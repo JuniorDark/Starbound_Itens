@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerdisplay2/bunkerdisplay2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statistical Display"
+    }
+  }
+]

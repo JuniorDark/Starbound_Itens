@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabscientistshop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech Lab Shop"
+    }
+  }
+]

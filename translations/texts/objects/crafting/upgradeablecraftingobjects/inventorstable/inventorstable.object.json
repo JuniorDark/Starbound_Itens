@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Inventor's Table^white;"
+    }
+  }
+]

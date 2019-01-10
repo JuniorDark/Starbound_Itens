@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "blueprint.config": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "<item>"
+    }
+  }
+]

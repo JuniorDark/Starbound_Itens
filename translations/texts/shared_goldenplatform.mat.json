@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/goldenplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/goldenplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold Platform"
+    }
+  }
+]

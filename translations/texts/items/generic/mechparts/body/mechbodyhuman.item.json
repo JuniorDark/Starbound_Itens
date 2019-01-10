@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyhuman.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Venturer Mech Body"
+    }
+  }
+]

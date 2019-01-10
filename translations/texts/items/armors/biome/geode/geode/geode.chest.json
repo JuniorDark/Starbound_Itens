@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/geode/geode/geode.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Geode Shirt"
+    }
+  }
+]

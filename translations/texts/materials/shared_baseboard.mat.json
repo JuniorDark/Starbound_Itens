@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/baseboard.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/baseboard.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Classic Baseboard"
+    }
+  }
+]

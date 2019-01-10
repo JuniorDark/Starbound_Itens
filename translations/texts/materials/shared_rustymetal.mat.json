@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustymetal.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rustymetal.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty Metal"
+    }
+  }
+]

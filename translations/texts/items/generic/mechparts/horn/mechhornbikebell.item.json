@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/horn/mechhornbikebell.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bike Bell Mech Horn"
+    }
+  }
+]

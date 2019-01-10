@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/supermatter.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/supermatter.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Erchius Crystal"
+    }
+  }
+]

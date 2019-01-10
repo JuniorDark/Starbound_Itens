@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geode/geodeplantpot/geodeplantpot.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Geode Plant Pot"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/plantdoor2/plantdoor2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Retractable Wooden Gate"
+    }
+  }
+]

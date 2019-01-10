@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmwobbleshot.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wobbleshot Mech Arm"
+    }
+  }
+]

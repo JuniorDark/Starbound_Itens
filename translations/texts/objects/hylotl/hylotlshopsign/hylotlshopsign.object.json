@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlshopsign/hylotlshopsign.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly Hylotl Sign"
+    }
+  }
+]

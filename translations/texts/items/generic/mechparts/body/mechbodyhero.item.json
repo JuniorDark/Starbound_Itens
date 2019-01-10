@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyhero.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hero Mech Body"
+    }
+  }
+]

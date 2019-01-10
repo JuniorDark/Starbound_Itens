@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/trophygold/trophygold.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Champion's Trophy"
+    }
+  }
+]

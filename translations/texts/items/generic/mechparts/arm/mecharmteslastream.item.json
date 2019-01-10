@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmteslastream.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tesla Stream Mech Arm"
+    }
+  }
+]

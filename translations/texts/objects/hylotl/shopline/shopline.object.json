@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/shopline/shopline.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Checkout Sign"
+    }
+  }
+]

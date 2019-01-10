@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebooks/protectoratebooks.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectoratebooks2/protectoratebooks2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protectorate Books"
+    }
+  }
+]

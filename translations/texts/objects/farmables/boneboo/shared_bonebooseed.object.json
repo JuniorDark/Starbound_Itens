@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boneboo/bonebooseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/boneboo/wildbonebooseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boneboo Seed"
+    }
+  }
+]

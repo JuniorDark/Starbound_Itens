@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/icecrystal.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Crystal"
+    }
+  }
+]

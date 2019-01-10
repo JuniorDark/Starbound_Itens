@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/amberfossil.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amber"
+    }
+  }
+]

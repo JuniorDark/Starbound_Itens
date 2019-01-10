@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/salvage/salvagearm.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Salvaged Power Coupling"
+    }
+  }
+]

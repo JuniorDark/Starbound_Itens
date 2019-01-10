@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ledgebrick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ledgebrick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ledge Brick"
+    }
+  }
+]

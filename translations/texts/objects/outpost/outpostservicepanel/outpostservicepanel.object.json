@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostservicepanel/outpostservicepanel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Service Panel"
+    }
+  }
+]

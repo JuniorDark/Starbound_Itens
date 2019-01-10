@@ -1,0 +1,761 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/hylotl/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Hylotl warrior is trained from birth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acts of aggression will not be tolerated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alert. Who are you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/apex/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "All hail Big Ape! Celebrate his glorious rule!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/avian/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "As long as you don't break anything or kill anyone, you are welcome here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/avian/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avians have been great warriors since time immemorial."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Behave yourssself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big Ape is watching you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/apex/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big Ape loves us all, except the ones he doesn't."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/apex/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bow to the Miniknog."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. Behave yourself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. Should you be here?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/hylotl/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cross me and I will be forced to strike."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dismissive. Try not to get yourself killed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/hylotl/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do not test me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't cause no fuss around here, partner."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/floran/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't tempt Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't try me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't... Just don't do anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/apex/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Every act has repercussions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran does not like your face."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/floran/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is hungry..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wantsss to stab sssomething..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/floran/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Give Floran a reassson."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/human/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi! I mean... Grrr."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/novakid/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hope you enjoy our ol' village, partner. Jus' don't cause no trouble."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/hylotl/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "I ask that you do not blemish this place with unnecessary aggression."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/avian/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't spar right now..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I forget, have we seen you round here before?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope that we can each keep our steel sheathed and chambered."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/hylotl/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope the serenity of our surroundings will influence your actions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/avian/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope we can get along."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope your time here is pleasant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/apex/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I love Big Ape."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm afraid I must ask you to move along."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/human/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm super tough, better not cross me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've got my eye on you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If we fight, you will lose."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you don't intend to cause trouble, then we'll get on jus' fine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inexperienced. Eep!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Insincere. Have an absolutely wonderful day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/avian/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just try not to put a cat amongst the pigeons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/floran/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keep moving, sstranger."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keep on the straight and narrow, you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let us be peaceful, and have tranquility reign over our encounter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/apex/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mouth shut, eyes forward."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Move along."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "No ssilliness."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Obey the Miniknog."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Optimistic. I'm sure you won't be any trouble."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reticent. You won't be a problem..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstay out of trouble."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stay out of trouble."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stay silent, traveller, and do not cause any trouble."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stern. You behave yourself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suspicious. What is your purpose here?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/novakid/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's been thieves around these parts lately. We don't take kindly to stealin'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/floran/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Troublemakers are tasty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Try not to destroy anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Walk well, stranger."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watch yourself, stranger."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "We ask only that you behave respectfully within our jurisdiction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "We don't tolerate miscreants here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "We're mighty fine with strangers, as long as they aren't trouble."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/hylotl/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome, stranger. Are you here to admire our culture?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/human/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "What are you lookin' at?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/human/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "What's your business here?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/human/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "You better not try anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/avian/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're welcome here, as long as you respect our home."
+    }
+  }
+]

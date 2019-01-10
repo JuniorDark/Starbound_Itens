@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow1.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/woodenwindow1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Window"
+    }
+  }
+]

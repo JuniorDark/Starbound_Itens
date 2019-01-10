@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/returnoutpostteleporter/remoteteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/teleporter/returnoutpostteleporter/returnoutpostteleporter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outpost Teleporter"
+    }
+  }
+]

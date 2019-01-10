@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/booster/mechboosterastro.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Astro Mech Boosters"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpoststandingdesk/outpoststandingdesk.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Standing Desk"
+    }
+  }
+]

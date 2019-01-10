@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/hive/hivelamp/hivelamp.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hive Lamp"
+    }
+  }
+]

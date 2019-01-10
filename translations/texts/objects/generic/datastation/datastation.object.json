@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/datastation/datastation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Data Station"
+    }
+  }
+]

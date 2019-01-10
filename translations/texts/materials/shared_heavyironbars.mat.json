@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/heavyironbars.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/heavyironbars.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heavy Iron Bars"
+    }
+  }
+]

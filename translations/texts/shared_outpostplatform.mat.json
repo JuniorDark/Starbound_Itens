@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/outpostplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outpost Platform"
+    }
+  }
+]

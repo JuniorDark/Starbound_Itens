@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/biosample.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bio Sample"
+    }
+  }
+]

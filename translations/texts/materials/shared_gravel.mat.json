@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/gravel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/gravel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravel"
+    }
+  }
+]

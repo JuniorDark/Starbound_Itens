@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Spinning Wheel^white;"
+    }
+  }
+]

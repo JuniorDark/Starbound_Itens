@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/scarecrow/scarecrow.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scarecrow"
+    }
+  }
+]

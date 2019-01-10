@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floop/floop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floop"
+    }
+  }
+]

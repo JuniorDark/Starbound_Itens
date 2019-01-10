@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerdisplay1/bunkerdisplay1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blueprint Display"
+    }
+  }
+]

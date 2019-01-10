@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/snowman/snowman.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snowman"
+    }
+  }
+]

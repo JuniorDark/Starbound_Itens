@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingdesertrocks/ceilingdesertrocks.bush": [
+        "/shortdescription"
+      ],
+      "plants/bushes/ceiling/ceilingdesertrocks2/ceilingdesertrocks2.bush": [
+        "/shortdescription"
+      ],
+      "plants/bushes/ceiling/ceilingrockcave/ceilingrockcave.bush": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hanging desert rocks."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/heartforge/heartforge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heart Forge"
+    }
+  }
+]

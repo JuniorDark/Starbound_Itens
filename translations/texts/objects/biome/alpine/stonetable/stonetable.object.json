@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/alpine/stonetable/stonetable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone Table"
+    }
+  }
+]

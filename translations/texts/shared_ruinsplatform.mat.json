@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ruinsplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/ruinsplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ruins Platform"
+    }
+  }
+]

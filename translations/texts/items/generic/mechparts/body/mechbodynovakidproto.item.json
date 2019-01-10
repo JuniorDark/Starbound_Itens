@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodynovakidproto.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Marshal-00 Mech Body"
+    }
+  }
+]

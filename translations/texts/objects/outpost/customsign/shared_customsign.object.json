@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/customsign/customsign.object": [
+        "/shortdescription"
+      ],
+      "objects/outpost/customsign/wiredcustomsign.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sign"
+    }
+  }
+]

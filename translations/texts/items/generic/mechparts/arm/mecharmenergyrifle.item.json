@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmenergyrifle.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Rifle Mech Arm"
+    }
+  }
+]

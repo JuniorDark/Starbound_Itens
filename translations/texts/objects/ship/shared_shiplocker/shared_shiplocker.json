@@ -1,0 +1,60 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/humanshiplocker/humanshiplocker.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/humanshiplockerTier0/humanshiplockerTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/novakidshiplocker/novakidshiplocker.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/novakidshiplockerTier0/novakidshiplockerTier0.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship Locker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/apexshiplocker/apexshiplocker.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/apexshiplockerTier0/apexshiplockerTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/avianshiplocker/avianshiplocker.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/avianshiplockerTier0/avianshiplockerTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/floranshiplocker/floranshiplocker.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/floranshiplockerTier0/floranshiplockerTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/glitchshiplocker/glitchshiplocker.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/glitchshiplockerTier0/glitchshiplockerTier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/hylotlshiplocker/hylotlshiplocker.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/hylotlshiplockerTier0/hylotlshiplockerTier0.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiplocker"
+    }
+  }
+]

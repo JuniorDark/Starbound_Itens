@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wreckplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/wreckplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wrecked Platform"
+    }
+  }
+]

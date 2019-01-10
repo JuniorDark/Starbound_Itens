@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/metalbarrel2/metalbarrel2.object": [
+        "/shortdescription"
+      ],
+      "objects/generic/metalbarrel2b/metalbarrel2b.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radioactive Barrel"
+    }
+  }
+]

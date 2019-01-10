@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blueneonsymbol.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/blueneonsymbolblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blue Neon Block"
+    }
+  }
+]

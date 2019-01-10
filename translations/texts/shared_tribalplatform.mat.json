@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tribalplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/tribalplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temple Platform"
+    }
+  }
+]

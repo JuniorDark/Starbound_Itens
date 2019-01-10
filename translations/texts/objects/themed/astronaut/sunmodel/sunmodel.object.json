@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/astronaut/sunmodel/sunmodel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sol Model"
+    }
+  }
+]

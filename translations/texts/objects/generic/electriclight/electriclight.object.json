@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/electriclight/electriclight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electric Light"
+    }
+  }
+]

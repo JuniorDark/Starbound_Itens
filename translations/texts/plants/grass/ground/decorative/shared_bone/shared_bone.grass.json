@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/fleshbone/fleshbone.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/freebone/freebone.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bone."
+    }
+  }
+]

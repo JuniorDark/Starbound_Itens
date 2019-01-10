@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/penguinfossil.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penguin Fossil"
+    }
+  }
+]

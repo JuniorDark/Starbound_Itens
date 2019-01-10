@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/neonmelon/neonmelonseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/neonmelon/wildneonmelonseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neonmelon Seed"
+    }
+  }
+]

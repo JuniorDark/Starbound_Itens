@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cloudblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/cloudblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloud"
+    }
+  }
+]

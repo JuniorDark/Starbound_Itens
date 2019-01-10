@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyglitch.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arthuria Mech Body"
+    }
+  }
+]

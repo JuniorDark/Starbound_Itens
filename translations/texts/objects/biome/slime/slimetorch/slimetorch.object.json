@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/slime/slimetorch/slimetorch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slime Torch"
+    }
+  }
+]

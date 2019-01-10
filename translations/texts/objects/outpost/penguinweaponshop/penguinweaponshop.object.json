@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinweaponshop/penguinweaponshop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Biggy's Reputable Weaponry"
+    }
+  }
+]

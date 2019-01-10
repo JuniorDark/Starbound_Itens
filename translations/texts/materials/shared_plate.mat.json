@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plate.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/plate.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smooth Plated Block"
+    }
+  }
+]

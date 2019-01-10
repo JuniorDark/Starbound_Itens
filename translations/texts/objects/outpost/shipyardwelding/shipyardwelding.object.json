@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/shipyardwelding/shipyardwelding.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welding Penguin"
+    }
+  }
+]

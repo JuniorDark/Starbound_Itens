@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalmap/medievalmap.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medieval Map"
+    }
+  }
+]

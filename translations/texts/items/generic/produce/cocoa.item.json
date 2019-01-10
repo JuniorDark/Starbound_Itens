@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/cocoa.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cocoa Pod"
+    }
+  }
+]

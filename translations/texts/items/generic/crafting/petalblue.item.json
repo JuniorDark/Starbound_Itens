@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/petalblue.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blue Petal"
+    }
+  }
+]

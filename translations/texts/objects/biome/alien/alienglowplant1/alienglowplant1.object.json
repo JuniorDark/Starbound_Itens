@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/alien/alienglowplant1/alienglowplant1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glowing Alien Plant"
+    }
+  }
+]

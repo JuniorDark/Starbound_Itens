@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmmultidrone.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Swarm Drone Mech Arm"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/tradegoods/foodgoods.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Food Rations"
+    }
+  }
+]

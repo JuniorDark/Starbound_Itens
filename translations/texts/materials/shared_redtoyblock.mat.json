@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redtoyblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/redtoyblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Toy Block"
+    }
+  }
+]

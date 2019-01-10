@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowwallblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/shadowwallblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Bricks"
+    }
+  }
+]

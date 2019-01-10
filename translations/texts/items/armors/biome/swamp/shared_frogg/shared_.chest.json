@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/swamp/froggmerchant/froggmerchant.chest": [
+        "/shortdescription"
+      ],
+      "items/armors/biome/swamp/froggsuit/frogg.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frogg Chest"
+    }
+  }
+]

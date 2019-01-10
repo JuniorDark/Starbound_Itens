@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giant Flower Table"
+    }
+  }
+]

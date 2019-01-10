@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/wheat/wheatseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/wheat/wildwheatseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wheat Seed"
+    }
+  }
+]

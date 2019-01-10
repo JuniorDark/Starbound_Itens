@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/wire.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Wire"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/graffiti-turnback/turnback.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "turnback"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/glowfibre.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glow Fibre"
+    }
+  }
+]

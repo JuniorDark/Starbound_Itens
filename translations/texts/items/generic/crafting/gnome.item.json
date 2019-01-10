@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/gnome.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gnome"
+    }
+  }
+]

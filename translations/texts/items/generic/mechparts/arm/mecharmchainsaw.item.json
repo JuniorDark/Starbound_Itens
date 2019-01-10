@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmchainsaw.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neo Chainsaw Mech Arm"
+    }
+  }
+]

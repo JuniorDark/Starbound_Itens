@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/miningtools/beamaxe.beamaxe": [
+        "/shortdescription"
+      ],
+      "items/tools/miningtools/beamaxeX.beamaxe": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectoratebeamaxe/protectoratebeamaxe.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Matter Manipulator"
+    }
+  }
+]

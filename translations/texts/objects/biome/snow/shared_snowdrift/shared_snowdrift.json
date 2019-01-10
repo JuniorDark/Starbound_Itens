@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/snowdrift1/snowdrift1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/snow/snowdrift2/snowdrift2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/snow/snowdrift3/snowdrift3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/snow/snowdrift4/snowdrift4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snowdrift"
+    }
+  }
+]

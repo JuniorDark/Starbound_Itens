@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/wallb/wallb.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "WALL-B"
+    }
+  }
+]

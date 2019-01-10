@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerpanel2/bunkerpanel2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medical Data Panel"
+    }
+  }
+]

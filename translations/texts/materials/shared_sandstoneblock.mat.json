@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sandstoneblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/sandstoneblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandstone Bricks"
+    }
+  }
+]

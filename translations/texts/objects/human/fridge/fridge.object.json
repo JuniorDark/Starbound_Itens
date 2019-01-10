@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/fridge/fridge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Full-Size Fridge"
+    }
+  }
+]

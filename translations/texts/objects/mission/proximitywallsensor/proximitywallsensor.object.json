@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/proximitywallsensor/proximitywallsensor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proximity Wall Sensor"
+    }
+  }
+]

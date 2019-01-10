@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/tungstensample/tungstensample.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten Sample"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostcargocrateshort/outpostcargocrateshort.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Short Metal Cargo Crate"
+    }
+  }
+]

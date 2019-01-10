@@ -1,0 +1,476 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Afraid. Get away from me! Help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/avian/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah! Help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah! Stop it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Astounded. Why is this happening!?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "By my feathers, I'm under attack!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran go get spear now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/floran/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran has no ssspear! Floran can't stab!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran lives to hunt another day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran livesss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needs sspear!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sssafe!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran will tell greenfinger on you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frightened. Don't hurt me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am under attack!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I made it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need help! I can't defend myself!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/avian/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm alright!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm being chased! Somebody, help me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm unarmed!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm unarmed! Help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is it over?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is it safe now?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Joyful. I'm alive!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh no! Help me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ow! Stop it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relieved. I got away!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scared. Gaaah! Help me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/glitch/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocked. What's happening!? Stop it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/apex/default/4",
+        "/helpme/avian/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Somebody help me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/apex/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sound the alarm!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sound the alarm! Sound all of the alarms!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstop hurting Floran!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank goodness that's over."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "That ruffled my feathers a little."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was close."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Them lucky Floran not have weapon..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tired. That was exhausting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uh-oh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well, at least I'm safe now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What an ordeal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "What!? What did I do!?"
+    }
+  }
+]

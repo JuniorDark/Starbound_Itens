@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rustyblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty Block"
+    }
+  }
+]

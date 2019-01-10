@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/lavatankcascade/lavatankcascade.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cascading Lava Tank"
+    }
+  }
+]

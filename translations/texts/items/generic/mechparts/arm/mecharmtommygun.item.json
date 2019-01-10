@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmtommygun.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tommy Gun Mech Arm"
+    }
+  }
+]

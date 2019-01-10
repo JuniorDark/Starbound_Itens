@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/UFOprop/UFOprop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "UFO Prop"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowflower/glowflower1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/bioluminescence/glowflower/glowflower2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/bioluminescence/glowflower/glowflower3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/bioluminescence/glowflower/glowflower4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/bioluminescence/glowflower/glowflower5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glow Flower Pod"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coralcreep/coralcreepseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/coralcreep/wildcoralcreepseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coralcreep Seed"
+    }
+  }
+]

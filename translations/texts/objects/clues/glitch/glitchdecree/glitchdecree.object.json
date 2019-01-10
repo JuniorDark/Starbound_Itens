@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/glitch/glitchdecree/glitchdecree.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Royal Decree"
+    }
+  }
+]

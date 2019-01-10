@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/microwave/microwave.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Microwave"
+    }
+  }
+]

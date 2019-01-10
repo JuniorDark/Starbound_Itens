@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipdetails.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/apexshipdetails.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal Railing"
+    }
+  }
+]

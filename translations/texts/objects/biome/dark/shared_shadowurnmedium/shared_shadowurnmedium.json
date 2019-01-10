@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/dark/shadowurnmedium1/shadowurnmedium1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/dark/shadowurnmedium2/shadowurnmedium2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medium Shadow Urn"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/matteritem.item": [
+        "/shortdescription"
+      ],
+      "items/materials/matterblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/matterblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Matter Block"
+    }
+  }
+]

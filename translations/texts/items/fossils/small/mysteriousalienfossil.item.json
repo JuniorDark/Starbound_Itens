@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/mysteriousalienfossil.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mysterious Alien Skull"
+    }
+  }
+]

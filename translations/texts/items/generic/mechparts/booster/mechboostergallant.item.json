@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/booster/mechboostergallant.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gallant Mech Boosters"
+    }
+  }
+]

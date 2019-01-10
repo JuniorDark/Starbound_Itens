@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lunarbaseplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/lunarbaseplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunar Base Platform"
+    }
+  }
+]

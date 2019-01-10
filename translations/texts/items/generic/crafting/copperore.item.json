@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/copperore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Ore"
+    }
+  }
+]

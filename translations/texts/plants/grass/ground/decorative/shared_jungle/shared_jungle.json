@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/jungleflower1/jungleflower1.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/jungleflower2/jungleflower2.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/jungleflower3/jungleflower3.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/jungleswirly/jungleswirly.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A jungle flower."
+    }
+  }
+]

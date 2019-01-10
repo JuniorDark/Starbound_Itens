@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/thatch.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/thatch.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thatch"
+    }
+  }
+]

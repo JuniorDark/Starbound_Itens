@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/brick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bricks"
+    }
+  }
+]

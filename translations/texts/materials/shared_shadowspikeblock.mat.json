@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowspikeblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/shadowspikeblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Spike Block"
+    }
+  }
+]

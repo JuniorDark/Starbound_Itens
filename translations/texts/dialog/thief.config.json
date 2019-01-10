@@ -1,0 +1,654 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aghast. You are stealing!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah! Guards, catch that thief!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Angry. You are taking things that aren't yours!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appalled. A thief!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bad sstranger! Stealing will be punished!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bewildered. Those aren't yours, why are you taking them?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burglar! Crook! Thief! Guards, I need you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. I assumed you were a nice person, not a thief."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enraged. Stop this thievery! Guards, help me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran iss not impressed! Stop stealing!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran won't let you get away with thiss! Guardsss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran won't put up with sstealing!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guards! Catch this terrible robber!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guards! Catch this thief!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guards! Stop this criminal!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/apex/default/0",
+        "/alert/default/default/0",
+        "/alert/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guards! There is a criminal here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guards, capture this criminal!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/hylotl/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guards, capture this miscreant!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guardsss! Floran found a thief!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey! That stuff doesn't belong to you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/avian/default/0",
+        "/accuse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, that doesn't belong to you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "How can you justify this thievery?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/hylotl/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I plead with you to desist, please stop stealing from us!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will not suffer a crook! Guards!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Incensed. Guards, seize this criminal!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Indignant. How can you do this!? Guards, help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irate. You thieving scoundrel! Guards!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's wrong to take what is not yours!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Larceny! Guards, help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh no, oh no! A Robber! Guards!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Panicked. Guards, guards! A thief!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please cease this thievery at once!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please don't take things from us."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shame on you, these items are not yours to take!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstop stealing Floran's stuff!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/avian/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stealing isn't a victimless crime you know."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop pilfering! Guards, help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/avian/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop stealing! Guards, help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop that! Why are you stealing these things!?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "That isn't yoursss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's not okay! Stop stealing!!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's not yours!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "That'ss it - Floran's telling guards on you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The guards will hunt you down for thiss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The guards will stop your thievery!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/apex/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "These things don't belong to you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thievery! Guards!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Things are being stolen! Guards, come quickly!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "This thievery is an indictment of your character."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "This will not be endured! Guards, catch this thief!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "What!? What are you doing!? That's theft!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What're you playing at? You can't go about stealing!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why are you taking things that aren't yours?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Will you really be able to enjoy something if you acquired it by theft?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Woa woa woa, who told you you could take that?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are a criminal! Guardsss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You know, the consequences for stealing are quite severe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/apex/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You must stop taking things! Guards!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're a thief! Guards, come quickly!"
+    }
+  }
+]

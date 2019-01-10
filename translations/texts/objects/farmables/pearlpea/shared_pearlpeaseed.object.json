@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/pearlpea/pearlpeaseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/pearlpea/wildpearlpeaseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pearlpea Seed"
+    }
+  }
+]

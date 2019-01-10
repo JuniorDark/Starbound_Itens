@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/kitchentools/kitchentools.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kitchen Tools"
+    }
+  }
+]

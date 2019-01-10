@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckturbines/wreckturbines.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wrecked Turbines"
+    }
+  }
+]

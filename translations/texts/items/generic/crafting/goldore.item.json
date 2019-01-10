@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/goldore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold Ore"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/instruments/microphone.instrument": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Low-Pitch Microphone"
+    }
+  }
+]

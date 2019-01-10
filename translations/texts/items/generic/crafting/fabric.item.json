@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fabric.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Woven Fabric"
+    }
+  }
+]

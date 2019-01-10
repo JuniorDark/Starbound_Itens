@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/neonblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/neonblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neon Block"
+    }
+  }
+]

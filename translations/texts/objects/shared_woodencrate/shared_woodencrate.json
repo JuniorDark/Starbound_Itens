@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodencrate2/woodencrate2.object": [
+        "/shortdescription"
+      ],
+      "objects/glitch/largewoodencrate/largewoodencrate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Wooden Crate"
+    }
+  }
+]

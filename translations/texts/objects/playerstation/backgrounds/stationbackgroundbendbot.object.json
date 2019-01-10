@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/playerstation/backgrounds/stationbackgroundbendbot.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bend bottom piece background"
+    }
+  }
+]

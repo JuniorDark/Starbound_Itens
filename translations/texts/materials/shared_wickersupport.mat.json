@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wickersupport.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/wickersupport.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wicker Support Block"
+    }
+  }
+]

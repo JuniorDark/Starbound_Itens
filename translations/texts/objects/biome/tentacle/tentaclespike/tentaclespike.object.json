@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclespike/tentaclespike.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tentacle Spike"
+    }
+  }
+]

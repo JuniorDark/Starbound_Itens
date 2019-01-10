@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/potato/potatoseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/potato/wildpotatoseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Potato Seed"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/dubloon.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dubloon"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/apexmission/bigapescreen/bigapescreen.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ape Monitor"
+    }
+  }
+]

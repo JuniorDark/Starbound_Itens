@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/larva.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Baby Larva"
+    }
+  }
+]

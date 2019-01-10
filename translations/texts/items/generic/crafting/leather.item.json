@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/leather.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather"
+    }
+  }
+]

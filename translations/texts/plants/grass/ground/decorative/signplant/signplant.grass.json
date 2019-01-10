@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/signplant/signplant.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange plant."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalstock/medievalstock.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medieval Stocks"
+    }
+  }
+]

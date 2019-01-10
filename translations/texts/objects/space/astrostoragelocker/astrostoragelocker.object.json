@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/astrostoragelocker/astrostoragelocker.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Astro Storage Locker"
+    }
+  }
+]

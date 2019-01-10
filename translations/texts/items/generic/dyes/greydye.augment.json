@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/dyes/greydye.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grey Dye"
+    }
+  }
+]

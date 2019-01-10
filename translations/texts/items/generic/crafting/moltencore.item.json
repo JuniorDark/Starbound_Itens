@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/moltencore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Molten Core"
+    }
+  }
+]

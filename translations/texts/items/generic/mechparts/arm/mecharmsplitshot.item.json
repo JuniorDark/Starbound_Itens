@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmsplitshot.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Split Shot Mech Arm"
+    }
+  }
+]

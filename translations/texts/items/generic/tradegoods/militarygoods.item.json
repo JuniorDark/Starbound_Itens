@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/tradegoods/militarygoods.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon Parts"
+    }
+  }
+]

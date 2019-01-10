@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/bamboodoor/bamboodoor.object": [
+        "/shortdescription"
+      ],
+      "objects/floran/huntingdoor1/huntingdoor1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bamboo Door"
+    }
+  }
+]

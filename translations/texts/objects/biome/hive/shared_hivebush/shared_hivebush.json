@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/hive/hivebush2/hivebush2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/hive/hivebush4/hivebush4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/hive/hivebush5/hivebush5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hive Egg Sac"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/hive/hivebush1/hivebush1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/hive/hivebush3/hivebush3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hive Eggs"
+    }
+  }
+]

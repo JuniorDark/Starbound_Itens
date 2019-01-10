@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/chainsaw.harvestingtool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chainsaw"
+    }
+  }
+]

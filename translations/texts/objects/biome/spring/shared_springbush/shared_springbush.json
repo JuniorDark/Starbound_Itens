@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/spring/springbush1/springbush1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/spring/springbush2/springbush2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/spring/springbush3/springbush3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/spring/springbush4/springbush4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/spring/springbush5/springbush5.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/spring/springbush6/springbush6.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flowery Bush"
+    }
+  }
+]

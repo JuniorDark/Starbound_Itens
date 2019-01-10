@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/telescope/telescope.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Astronomy Telescope"
+    }
+  }
+]

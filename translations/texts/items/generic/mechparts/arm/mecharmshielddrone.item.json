@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmshielddrone.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shield Drone Mech Arm"
+    }
+  }
+]

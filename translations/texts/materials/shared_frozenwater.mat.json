@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozenwater.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/frozenwater.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smooth Ice"
+    }
+  }
+]

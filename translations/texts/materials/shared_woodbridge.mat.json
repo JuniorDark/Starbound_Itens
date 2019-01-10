@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodbridge.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/woodbridge.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Bridge Block"
+    }
+  }
+]

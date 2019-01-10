@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/foundry/foundrychest/foundrychest.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foundry Chestpiece"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/autochip.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Auto Chip"
+    }
+  }
+]

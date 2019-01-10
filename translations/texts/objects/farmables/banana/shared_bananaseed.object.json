@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/banana/bananaseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/banana/wildbananaseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Banana Seed"
+    }
+  }
+]

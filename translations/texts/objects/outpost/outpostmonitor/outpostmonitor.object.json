@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostmonitor/outpostmonitor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall Mounted Monitor"
+    }
+  }
+]

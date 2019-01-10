@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/poisonblockaugment.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Resist Augment"
+    }
+  }
+]

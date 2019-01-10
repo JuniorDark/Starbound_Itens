@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingweeds/ceilingweeds.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ceiling/decorative/ceilingweedy/ceilingweedy.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weeds."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/xor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "XOR Switch"
+    }
+  }
+]

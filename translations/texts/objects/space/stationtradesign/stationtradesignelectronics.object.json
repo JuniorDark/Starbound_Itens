@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationtradesign/stationtradesignelectronics.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electronics Station Sign"
+    }
+  }
+]

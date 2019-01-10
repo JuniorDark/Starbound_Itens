@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/treasurehoard.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/treasurehoard.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Treasure Hoard"
+    }
+  }
+]

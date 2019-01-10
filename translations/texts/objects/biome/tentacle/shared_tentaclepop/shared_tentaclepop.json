@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclepopmed/tentaclepopmed.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/tentacle/tentaclepopsmall/tentaclepopsmall.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medium Tentacle Capsule"
+    }
+  }
+]

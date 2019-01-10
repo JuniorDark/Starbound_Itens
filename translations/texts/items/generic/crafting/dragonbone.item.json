@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/dragonbone.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dragon Bone"
+    }
+  }
+]

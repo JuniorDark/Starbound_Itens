@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junk.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/junk.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Junk Pile"
+    }
+  }
+]

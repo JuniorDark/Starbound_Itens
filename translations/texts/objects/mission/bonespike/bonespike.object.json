@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/bonespike/bonespike.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone Spike"
+    }
+  }
+]

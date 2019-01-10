@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/cotton/cottonseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/cotton/wildcottonseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cotton Seed"
+    }
+  }
+]

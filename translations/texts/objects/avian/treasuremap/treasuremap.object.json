@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/treasuremap/treasuremap.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Treasure Map"
+    }
+  }
+]

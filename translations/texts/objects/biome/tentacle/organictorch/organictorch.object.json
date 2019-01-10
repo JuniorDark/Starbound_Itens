@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/organictorch/organictorch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Organic Torch"
+    }
+  }
+]

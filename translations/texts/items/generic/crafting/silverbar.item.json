@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/silverbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silver Bar"
+    }
+  }
+]

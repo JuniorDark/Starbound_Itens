@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/goldbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold Bar"
+    }
+  }
+]

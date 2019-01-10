@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/mannequin/mannequin.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mannequin"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/fireextinguisher/fireextinguisher.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fire Extinguisher"
+    }
+  }
+]

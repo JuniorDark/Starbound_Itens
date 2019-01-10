@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabconsole1.object": [
+        "/shortdescription"
+      ],
+      "objects/outpost/techlab/techlabconsole1offline.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech Console Dispenser"
+    }
+  }
+]

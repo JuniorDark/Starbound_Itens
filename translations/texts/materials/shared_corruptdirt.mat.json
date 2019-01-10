@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/corruptdirt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/corruptdirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corrupt Dirt"
+    }
+  }
+]

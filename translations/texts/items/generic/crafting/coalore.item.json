@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/coalore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coal"
+    }
+  }
+]

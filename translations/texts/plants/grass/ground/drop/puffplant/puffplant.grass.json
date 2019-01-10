@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/drop/puffplant/puffplant.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A puffball."
+    }
+  }
+]

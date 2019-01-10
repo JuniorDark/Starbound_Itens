@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bookpiles.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/bookpiles.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pile of Books"
+    }
+  }
+]

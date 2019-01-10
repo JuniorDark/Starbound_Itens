@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebrokendisplay1/protectoratebrokendisplay1.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectoratebrokendisplay2/protectoratebrokendisplay2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protectorate Broken Display"
+    }
+  }
+]

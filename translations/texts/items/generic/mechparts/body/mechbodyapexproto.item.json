@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyapexproto.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dominion-00 Mech Body"
+    }
+  }
+]

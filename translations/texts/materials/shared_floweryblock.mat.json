@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/floweryblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/floweryblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flower Block"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shroomblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/shroomblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mushroom Block"
+    }
+  }
+]

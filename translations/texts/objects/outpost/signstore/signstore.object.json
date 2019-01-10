@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/signstore/signstore.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "EASEL"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cheapwallpaper.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/cheapwallpaper.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tacky Wallpaper"
+    }
+  }
+]

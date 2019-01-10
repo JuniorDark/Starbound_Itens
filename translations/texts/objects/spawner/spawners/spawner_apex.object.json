@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_apex.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apex Spawner"
+    }
+  }
+]

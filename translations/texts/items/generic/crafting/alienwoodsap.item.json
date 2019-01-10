@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/alienwoodsap.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien Wood Sap"
+    }
+  }
+]

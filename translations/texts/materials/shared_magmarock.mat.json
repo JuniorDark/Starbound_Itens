@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/magmarock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/magmarock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magmarock"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sandstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/sandstone01.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandstone"
+    }
+  }
+]

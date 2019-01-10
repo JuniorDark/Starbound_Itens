@@ -1,0 +1,169 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/safe/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Am I safe now?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/helpme/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flee, like the wolf!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/rent/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here's something I found while I was out gathering supplies!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/rent/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I came across this whilst out hunting and gathering!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/beacon/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was gathering. Did you need me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/helpme/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will escape!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/converse/apex/default/0",
+        "/converse/default/default/0",
+        "/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a hunter-gatherer. I'll bring you some of the things I find!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm planning my next gathering trip! I'll bring some nice things back for you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/beacon/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been out scavenging - Did you need me for something?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/converse/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Life under the Miniknog is too restrained, I prefer to live with more freedom!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/helpthem/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh no!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Technology is overrated, the life of the hunter-gatherer is the one for me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/rent/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is for you, from my recent scavenging trip!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/converse/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why live as a slave with the rest of my people when I can be one with nature?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/beacon/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have need of me? I've been gathering supplies."
+    }
+  }
+]

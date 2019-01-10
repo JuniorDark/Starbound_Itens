@@ -1,0 +1,2039 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/severe/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aggrevated. You need to improve these conditions, it is impossible to work here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Allow me to lead you to my store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/welcome/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alright, now we're here, what can I get you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Always glad to see a friendly face. What can I get you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you buying maybe, or do you hope to sell?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Be seein' you, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/rent/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Business is good. This is your thank you present."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buy things! Sssell things!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can I sell you anything? I buy too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can I show you to my shop? It's this way."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you fix the walls? The damage is putting off customers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheap buys!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come again!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come again. Stay safe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come and see my wares."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come and trade!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back when you can."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back, stay here, ssspend more!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come here, customer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come in, come in and see what I've got!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come say hi next time you're around, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come see Floran's waresss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come with me, we can do business in my shop!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come! Buy things!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. These broken walls a putting off trade, I need them fixed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. But this is my shop, I can't share it..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. My shop is different."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cordial. Please follow me to my shop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Despondent. The walls are damaged and custom is down. Could you fix up the shop?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. You're not going to buy more?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discontent. I dislike the changes you have made, restore my shop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enticing. Come, buy!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enticing. Please allow me to lead you to my shop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Are you a customer?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/welcome/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Now we can do business."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/severe/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can't work like thisss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/final/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran givess up! Floran can't work like this!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hopess you come back soon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/severe/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is angry, fix Floran's shop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/rent/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likes shop, Floran ssay thank you with present."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess pixels, can't get pixelss with walls like this. Can you fix walls?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran pleased, hopes you come again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sells besst things, you come back soon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran welcomes you to ssstore."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's not sharing shop! Take ssecond deed down."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's shop is broken. Can you fix it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's sstore was great before. Make it right again!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's store is the best! Come and buy!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Follow Floran to shop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Follow me, I can lead you to my shop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Follow me, I'll show you my store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/rent/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. Take this, for your continued patronage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. What can I do for you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Genial. You know you want to buy everything!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Goods for sale!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Goods for sale, come and see!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/rent/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grateful. Please take this gift as a thank you for helping with my shop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, partner! You need to buy anythin'?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you stolen something from my shop?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello again! What can I help you with?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/welcome/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here we are, and welcome. What did you wish to buy?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/welcome/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here'sss my shop. What did you need?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey there. Need to buy or sell anything?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey there. See anything you like?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey you, come check out my amazing wares!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi! Do you want to buy something?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi, nice to see you. You hoping to buy something?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopeful. Can you fix my shop? Then my customers might come back."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Howdy, friend. Need any wares?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I ain't gonna get no customers with a store that has holes in it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/final/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't do this any longer. I'm going."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/severe/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't put up with this much longer - look at the state of my shop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't wish to share my shop with a stranger."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I got goods to spare - you interested?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I got some mighty fine merch, right here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have many goods available, I'm sure you'd find something to please you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope I'll be seein' you again soon, friend!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope to see you again soon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope to see you again, my friend."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope we can make an exchange that contributes to your happiness."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I look forward to seeing you again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need the wall fixed if I want customers to shop here. Can you help?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/rent/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I really appreciate everything you've done, here have a gift."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I thought this was single tenancy!? I can't share the store!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/rent/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I thought you might like this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will see you again, save your pixels for me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I would be most pleased to sell you what you need."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/final/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd rather sleep on a cactus than work here one more night."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you follow me to my store, we can trade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you have some pixels to spend, then I'm your friend!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need to buy anything, I have a great selection."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ingratiating. Welcome to my store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Insistent. Return soon!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It ain't right to go rearrangin' a store like this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/severe/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is foolish to ignore an angry Apex. I suggest you fix my store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is not ok to do this. I will not share my store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is profoundly upsetting and thoroughly immoral to dismantle my shop in this way."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/rent/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a mighty fine store you've helped me secure. I gotta thank you for it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's hard to trade in a shop with no walls. Can you repair the damage?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/severe/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's impossible to work like this!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jovial. Here I am! Are you buying or selling?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/severe/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Look at this place! Fix my shop, or I leave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Many thanks for your patronage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Many things for sssale!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Melancholy. Until next time, customer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/rent/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "My business is flourishing! Please take this gift, with my thanks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My shop is open to the elements, I can't maintain a business with damaged walls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My shop is resplendent with wares. Come and see."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/severe/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "My store jus' ain't what it used to be. You better make it right."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/severe/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "My usually resilient patience is beginning to wear thin. Fix my shop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My wares are in my shop. Follow me, I'll show you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/welcome/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now we are in private, we can talk business."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/welcome/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now we're at my store, you feelin' like makin' some trades?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/welcome/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now we're here you can browse and find what you like."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/welcome/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now we're here, care to make some trades?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/welcome/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ok, now we can trade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/final/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outraged. I deserve a better shop to do business in!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Passive or not, I cannot stand by as you ensconce a second merchant in my shop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps you might find some of my stock enriching."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please come again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please do not sell me anything illegal, I don't need that kind of trouble."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please feel free to peruse my wares."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please feel welcome to peruse my wares."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please fix up these walls, the shop is no good to me like this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please put my things back."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/rent/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please take this gift as a token of my thanks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A customer!."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/welcome/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. Now we can trade to our hearts' content."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. Thank you for your patronage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Polite. What did you need to purchase?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. Come and buy from this merchant of great renown!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Put my shop back how it wasss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Right this way, partner."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "See anything you like?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstop sstealing stuff..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstore is thisss way, follow Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop taking things... You need to fix my store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for your custom, please return soon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for your custom. Come again soon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for your visit, I very much look forward to our future transactions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/default/default/4",
+        "/merchantEnd/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks for visiting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "That wall is badly damaged, I'm worried I'll lose custom... Can you fix it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/final/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's it. I'm leaving. It's time I found a better shop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The arrangement of my shop has changed, this isn't alright..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is a hole in my shop..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/severe/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "These are unacceptable working conditions..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here's my store, don't make no sense to go movin' someone else in here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is my shop. I rent it from you. You can not move someone else in."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is my store dagnabbit, I ain't sharing it with no one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/severe/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is simply disgraceful, I demand you fix my shop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ol' store don't feel right just now. You been messin' around in here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/rent/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This present is a thank you for all your help."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/final/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This store is more run down than a Fluffalo's waterin' hole! I'm leavin' any minute now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/final/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thisss is unprofessional, Floran will sssell on some other planet!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Um, this isn't what my shop was like before..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Understandably, this damage is putting of my customers - Please fix my walls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/severe/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unhappy. The fixes to my store haven't been made."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warm greetings. Were you hoping to trade with me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We can do business at my store. Please follow me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/welcome/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We're here! What can Floran get you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to my shop!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/welcome/default/default/0",
+        "/welcome/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to my store!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/welcome/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the seclusion of my store, I hope we can find what you need."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome, What can I sell you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcoming. Come and view my wares!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a flying visit. I hope to see you again soon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What can Floran get for you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "What can I do to hasten this trade?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "What can I get for you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What can I help you with today?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "What can I help you with?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What is it you need?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What is it, my friend? Do you want to buy something?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What would you like to discuss? Or is there something you're looking for?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why have you disrupted my shop? Please fix what you have broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wistful. I wish my shop was how it used to be."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Y'all want any goods?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You break it you buy it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You called and I came a-running. You need to buy somethin'?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You feelin' lucky? You should be, 'cause I got some fine wares!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You give Floran pixels, Floran gives you sstuff."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You need Floran to sell you sssomething?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You needin' to do some tradin'?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/severe/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You sssstill haven't fixed things in Floran's shop!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You take care of yourself out there!"
+    }
+  }
+]

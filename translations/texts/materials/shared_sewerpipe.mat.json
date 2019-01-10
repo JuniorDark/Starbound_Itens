@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sewerpipe.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/sewerpipe.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sewer Pipe"
+    }
+  }
+]

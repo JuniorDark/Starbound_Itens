@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/protectorateflyer.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Graduation Flyer"
+    }
+  }
+]

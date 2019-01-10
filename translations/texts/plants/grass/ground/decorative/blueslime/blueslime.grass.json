@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/blueslime/blueslime.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slimy root."
+    }
+  }
+]

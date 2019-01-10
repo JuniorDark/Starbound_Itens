@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/signarmorshop/signarmorshop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Armour Shop Sign"
+    }
+  }
+]

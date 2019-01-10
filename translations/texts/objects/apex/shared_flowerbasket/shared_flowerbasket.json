@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/flowerbasket1/flowerbasket1.object": [
+        "/shortdescription"
+      ],
+      "objects/apex/flowerbasket2/flowerbasket2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hanging Basket"
+    }
+  }
+]

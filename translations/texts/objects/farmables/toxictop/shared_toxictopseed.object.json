@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/toxictop/toxictopseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/toxictop/wildtoxictopseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxictop Seed"
+    }
+  }
+]

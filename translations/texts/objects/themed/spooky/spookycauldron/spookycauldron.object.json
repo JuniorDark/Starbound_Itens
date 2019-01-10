@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/spooky/spookycauldron/spookycauldron.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spooky Cauldron"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/diodia/diodiaseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/diodia/wilddiodiaseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Diodia Seed"
+    }
+  }
+]

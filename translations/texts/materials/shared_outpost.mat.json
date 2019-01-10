@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpost.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/outpost.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outpost Wall"
+    }
+  }
+]

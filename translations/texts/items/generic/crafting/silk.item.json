@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/silk.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silk"
+    }
+  }
+]

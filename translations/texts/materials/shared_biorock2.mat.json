@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biorock2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/biorock2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blue Glow Rock"
+    }
+  }
+]

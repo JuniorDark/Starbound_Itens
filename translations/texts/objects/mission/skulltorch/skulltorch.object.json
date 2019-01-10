@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/skulltorch/skulltorch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skull Torch Stand"
+    }
+  }
+]

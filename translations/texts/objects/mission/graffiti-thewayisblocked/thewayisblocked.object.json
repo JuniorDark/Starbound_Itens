@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/graffiti-thewayisblocked/thewayisblocked.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "thewayisblocked"
+    }
+  }
+]

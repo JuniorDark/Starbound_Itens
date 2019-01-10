@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/hive/hivebed/hivebed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hive Bed"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/coconutblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/coconutblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coconut Block"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonradiator/prisonradiator.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old Radiator"
+    }
+  }
+]

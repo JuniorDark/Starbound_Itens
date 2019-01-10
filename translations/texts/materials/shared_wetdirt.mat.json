@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wetdirt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/wetdirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wet Dirt"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cactiblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/cactiblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cacti Block"
+    }
+  }
+]

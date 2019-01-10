@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/biohazardsign/biohazardsign.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Biohazard Sign"
+    }
+  }
+]

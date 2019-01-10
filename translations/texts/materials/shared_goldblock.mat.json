@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/goldblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/goldblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold Block"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewall.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ornatewall.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ornate Wall"
+    }
+  }
+]

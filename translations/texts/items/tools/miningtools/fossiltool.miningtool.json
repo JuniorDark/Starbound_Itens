@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/miningtools/fossiltool.miningtool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fossil Extractor"
+    }
+  }
+]

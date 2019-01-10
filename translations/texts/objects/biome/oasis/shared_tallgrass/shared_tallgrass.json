@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/oasis/tallgrass1/tallgrass1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/oasis/tallgrass2/tallgrass2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/oasis/tallgrass3/tallgrass3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/oasis/tallgrass4/tallgrass4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tall Grass"
+    }
+  }
+]

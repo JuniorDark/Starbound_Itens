@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_floran.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran Spawner"
+    }
+  }
+]

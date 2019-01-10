@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/terraformer/terraformerjungle.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jungle Terraformer"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/sprinkler/sprinkler.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sprinkler"
+    }
+  }
+]

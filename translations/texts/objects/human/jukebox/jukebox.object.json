@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/jukebox/jukebox.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jukebox"
+    }
+  }
+]

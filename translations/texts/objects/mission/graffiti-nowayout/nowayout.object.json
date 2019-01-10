@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/graffiti-nowayout/nowayout.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "nowayout"
+    }
+  }
+]

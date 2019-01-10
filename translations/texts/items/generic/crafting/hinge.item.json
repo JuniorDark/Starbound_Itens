@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/hinge.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Hinge"
+    }
+  }
+]

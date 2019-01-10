@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerwires/bunkerwires.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wires"
+    }
+  }
+]

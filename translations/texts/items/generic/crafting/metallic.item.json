@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/metallic.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal Coated Wood"
+    }
+  }
+]

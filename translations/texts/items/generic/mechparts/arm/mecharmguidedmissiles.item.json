@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmguidedmissiles.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guided Missile Mech Arm"
+    }
+  }
+]

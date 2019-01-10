@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_wizard.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wizard Spawner"
+    }
+  }
+]

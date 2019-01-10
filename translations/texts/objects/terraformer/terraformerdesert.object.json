@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/terraformer/terraformerdesert.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandy Terraformer"
+    }
+  }
+]

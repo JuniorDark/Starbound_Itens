@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/mysteriousfossil3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unidentified Legs"
+    }
+  }
+]

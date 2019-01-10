@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wallpaper.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/wallpaper.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Classic Wallpaper"
+    }
+  }
+]

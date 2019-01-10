@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/monsterdrops/cryonicextract.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cryonic Extract"
+    }
+  }
+]

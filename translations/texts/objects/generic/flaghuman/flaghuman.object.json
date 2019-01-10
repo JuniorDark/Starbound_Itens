@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flaghuman/flaghuman.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Human Flag"
+    }
+  }
+]

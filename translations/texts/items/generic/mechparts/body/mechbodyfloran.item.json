@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyfloran.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Golem Mech Body"
+    }
+  }
+]

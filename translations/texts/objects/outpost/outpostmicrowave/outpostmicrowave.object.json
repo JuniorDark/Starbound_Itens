@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostmicrowave/outpostmicrowave.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Microwave Oven"
+    }
+  }
+]

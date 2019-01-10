@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverscrew.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/silverscrew.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silver Screw"
+    }
+  }
+]

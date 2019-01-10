@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/processor.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Processor"
+    }
+  }
+]

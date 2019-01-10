@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_chef.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chef Spawner"
+    }
+  }
+]

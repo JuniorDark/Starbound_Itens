@@ -1,0 +1,431 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adventure ahoy!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adventure awaits!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/penguin/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adventure! Excitement! Dubloons!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/penguin/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alright, biggun? In need of some security?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/penguin/default/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Both my parents were mercenaries, and all four of their parents before them. I'm a pretty good pedigree."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't worry, you'll be safe with me around!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. I have so much scheduled for today!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Let's do some quests!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. There is so much questing to be done!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss eager to sstab things soon!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss very professional!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess to hunt among the sstars."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flying through space, running into misadventure... This is the life!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. You'll be safe if you stay close to me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/penguin/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, big guy! I'll keep you safe, don't you worry!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/penguin/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am the consummate professional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I got a mighty thirst for a shoot out. Hopefully we'll find ourselves some action."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I soar across the stars, not on feather wings but among the company of friends."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/penguin/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a merc born and bred."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/penguin/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a tough old bird, don't you worry about me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a wanderin' soul at heart, so this is the job for me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/penguin/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm just your typical spacefaring penguin mercenary."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/penguin/default/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm loyal as long as the pay's good."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/penguin/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm worth my fee, ask anyone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/penguin/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm worth my weight in gold! Actually, I'm worth YOUR weight in gold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is very good to be here, my friend."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Life aboard a spaceship... Is anything more exciting?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/penguin/default/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mercenary work runs in my family! You're safer with me around, no doubt about it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/penguin/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "My gun's all shined up, ready for the next job."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing calms the spirit more than travelling with friends."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Our futures are unwritten, our fates set loose amongst the stars!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "So what is today's mission?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "So, what's the next mission?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is poetry in battle. Perhaps I shall sing some verses soon!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/penguin/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's no one like a penguin for keeping a body safe, and no penguin better at doing it than me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is true freedom."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What do we have planned for today?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "What lies next on the road ahead? Adventure, intrigue, pillaging? Not pillaging, right?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/penguin/default/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're never safer than when there's a penguin by your side."
+    }
+  }
+]

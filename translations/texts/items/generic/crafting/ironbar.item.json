@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ironbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Bar"
+    }
+  }
+]

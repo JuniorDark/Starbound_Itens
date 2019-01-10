@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/uraniumrod.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uranium Rod"
+    }
+  }
+]

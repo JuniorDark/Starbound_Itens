@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/monsterdrops/stickofram.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stick of RAM"
+    }
+  }
+]

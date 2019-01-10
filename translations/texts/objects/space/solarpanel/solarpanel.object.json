@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/solarpanel/solarpanel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solar Panel"
+    }
+  }
+]

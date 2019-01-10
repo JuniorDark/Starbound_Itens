@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/ocean/seashell1/seashell1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/ocean/seashell2/seashell2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/ocean/seashell3/seashell3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/ocean/seashell4/seashell4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/ocean/seashell5/seashell5.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/ocean/seashell6/seashell6.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/ocean/seashell7/seashell7.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/ocean/seashell8/seashell8.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seashell"
+    }
+  }
+]

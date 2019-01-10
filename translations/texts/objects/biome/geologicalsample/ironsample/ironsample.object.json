@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/ironsample/ironsample.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Sample"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/copperblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Gear Block"
+    }
+  }
+]

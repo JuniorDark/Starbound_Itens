@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sewage.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/sewage.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw Sewage"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mirror.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/mirror.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mirror Block"
+    }
+  }
+]

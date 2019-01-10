@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rooftiles.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rooftiles.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Roof Tiles"
+    }
+  }
+]

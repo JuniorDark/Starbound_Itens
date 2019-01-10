@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/jungle/beanstalk/beanstalk.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beanstalk"
+    }
+  }
+]

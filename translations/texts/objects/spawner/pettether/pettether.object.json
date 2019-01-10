@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/pettether/pettether.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pet Tether"
+    }
+  }
+]

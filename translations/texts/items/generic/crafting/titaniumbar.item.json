@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/titaniumbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium Bar"
+    }
+  }
+]

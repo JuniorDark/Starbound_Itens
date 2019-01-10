@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/medic/medic.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Combat Medic Helmet"
+    }
+  }
+]

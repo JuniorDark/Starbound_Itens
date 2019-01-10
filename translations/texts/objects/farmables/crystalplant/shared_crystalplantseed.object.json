@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/crystalplant/crystalplantseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/crystalplant/wildcrystalplantseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal Plant Seed"
+    }
+  }
+]

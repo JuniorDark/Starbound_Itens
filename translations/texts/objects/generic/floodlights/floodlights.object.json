@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/floodlights/floodlights.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floodlights"
+    }
+  }
+]

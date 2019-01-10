@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/syringe.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medical Syringe"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/robotlegs.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Robot Legs"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/medic/medic.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medic Backpack"
+    }
+  }
+]

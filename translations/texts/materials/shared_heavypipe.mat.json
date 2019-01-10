@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/heavypipe.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/heavypipe.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heavy Pipe"
+    }
+  }
+]

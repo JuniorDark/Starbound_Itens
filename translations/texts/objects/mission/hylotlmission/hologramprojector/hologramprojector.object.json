@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/hylotlmission/hologramprojector/hologramprojector.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hologram Projector"
+    }
+  }
+]

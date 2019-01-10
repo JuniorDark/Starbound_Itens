@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/rainbowwood.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rainbow Wood"
+    }
+  }
+]

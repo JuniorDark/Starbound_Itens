@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_guard.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guard Spawner"
+    }
+  }
+]

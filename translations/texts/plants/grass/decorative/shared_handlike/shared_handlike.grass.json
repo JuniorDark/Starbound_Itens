@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilinghandlike/ceilinghandlike.grass": [
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/handlike/handlike.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A root that looks like a hand."
+    }
+  }
+]

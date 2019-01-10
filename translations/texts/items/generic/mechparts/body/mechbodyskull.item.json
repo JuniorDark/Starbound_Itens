@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyskull.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nightwinder Mech Body"
+    }
+  }
+]

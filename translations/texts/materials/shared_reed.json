@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/reedblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/reeds.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reed Block"
+    }
+  }
+]

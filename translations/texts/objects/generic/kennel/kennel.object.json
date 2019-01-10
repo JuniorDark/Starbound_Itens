@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/kennel/kennel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kennel"
+    }
+  }
+]

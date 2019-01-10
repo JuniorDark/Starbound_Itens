@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stoneplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/stoneplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone Platform"
+    }
+  }
+]

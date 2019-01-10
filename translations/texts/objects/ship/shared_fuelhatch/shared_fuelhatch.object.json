@@ -1,0 +1,60 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/brokenapexfuelhatch/brokenapexfuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/brokenavianfuelhatch/brokenavianfuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/brokenfloranfuelhatch/brokenfloranfuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/brokenglitchfuelhatch/brokenglitchfuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/brokenhumanfuelhatch/brokenhumanfuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/brokenhylotlfuelhatch/brokenhylotlfuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/brokennovakidfuelhatch/brokennovakidfuelhatch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken FTL Fuel Hatch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/apexfuelhatch/apexfuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/avianfuelhatch/avianfuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/floranfuelhatch/floranfuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/glitchfuelhatch/glitchfuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/humanfuelhatch/humanfuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/hylotlfuelhatch/hylotlfuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/novakidfuelhatch/novakidfuelhatch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL Fuel Hatch"
+    }
+  }
+]

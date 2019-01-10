@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/horn/mechhornclownhorn.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clown Mech Horn"
+    }
+  }
+]

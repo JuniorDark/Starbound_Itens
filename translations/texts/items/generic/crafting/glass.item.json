@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/glass.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass"
+    }
+  }
+]

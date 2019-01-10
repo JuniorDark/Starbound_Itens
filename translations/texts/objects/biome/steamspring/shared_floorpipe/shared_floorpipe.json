@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/floorpipe1/floorpipe1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/steamspring/floorpipe2/floorpipe2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/steamspring/floorpipe3/floorpipe3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floor Pipe"
+    }
+  }
+]

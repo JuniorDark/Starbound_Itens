@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/2stopteleshop/2stoptele.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "2 Stop Teleshop Teleporter"
+    }
+  }
+]

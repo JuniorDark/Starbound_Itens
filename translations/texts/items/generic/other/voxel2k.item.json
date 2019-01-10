@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/voxel2k.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "2k Voxel"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/glasscoffeemug.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass Coffee Mug"
+    }
+  }
+]

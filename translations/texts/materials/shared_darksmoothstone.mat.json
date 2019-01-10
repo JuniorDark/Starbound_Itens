@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darksmoothstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/darksmoothstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Smooth Stone"
+    }
+  }
+]

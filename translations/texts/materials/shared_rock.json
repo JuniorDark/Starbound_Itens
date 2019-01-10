@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rock01.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/rock02.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/rock03.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/rock04.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/rock12.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/rock15.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/rock17.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/rock19.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/rock20.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rock01.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rock02.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rock03.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rock04.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rock12.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rock15.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rock17.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rock19.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rock20.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rough Stone"
+    }
+  }
+]

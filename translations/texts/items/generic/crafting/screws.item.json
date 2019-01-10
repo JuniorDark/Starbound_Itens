@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/screws.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Screws"
+    }
+  }
+]

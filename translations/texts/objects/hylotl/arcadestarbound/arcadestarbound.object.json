@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/arcadestarbound/arcadestarbound.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Starbound Arcade Machine"
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectorateincap1/protectorateincap1.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectorateincap2/protectorateincap2.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectorateincap3/protectorateincap3.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectorateincap4/protectorateincap4.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectorateincap5/protectorateincap5.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectorateincap6/protectorateincap6.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protectorate Body"
+    }
+  }
+]

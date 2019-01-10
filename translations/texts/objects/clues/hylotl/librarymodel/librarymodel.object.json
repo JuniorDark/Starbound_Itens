@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/hylotl/librarymodel/librarymodel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hylotl Library Model"
+    }
+  }
+]

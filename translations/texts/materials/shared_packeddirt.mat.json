@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/packeddirt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/packeddirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Packed Dirt"
+    }
+  }
+]

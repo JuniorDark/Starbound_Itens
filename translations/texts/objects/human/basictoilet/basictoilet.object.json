@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/basictoilet/basictoilet.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Basic Toilet"
+    }
+  }
+]

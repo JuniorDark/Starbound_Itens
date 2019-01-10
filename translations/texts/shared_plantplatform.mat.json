@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/plantplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mossy Platform"
+    }
+  }
+]

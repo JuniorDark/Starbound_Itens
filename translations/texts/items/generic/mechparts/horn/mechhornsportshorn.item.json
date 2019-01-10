@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/horn/mechhornsportshorn.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sports Mech Horn"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisoncamerastation/prisoncamerastation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Security Camera Station"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/platinumblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/platinumblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platinum Block"
+    }
+  }
+]
