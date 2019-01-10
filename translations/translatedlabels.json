@@ -140,7 +140,7 @@
               "bow.activeitem.json": 1
             },
             "cavebow": {
-              "cavebow.activeitem.json": 0
+              "cavebow.activeitem.json": 1
             },
             "compoundbow": {
               "compoundbow.activeitem.json": 0
