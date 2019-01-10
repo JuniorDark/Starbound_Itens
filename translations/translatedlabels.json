@@ -179,7 +179,7 @@
             "clawglove.activeitem.json": 1,
             "gauntlet.activeitem.json": 1,
             "stunglove.activeitem.json": 1,
-            "supernovaglove.activeitem.json": 0,
+            "supernovaglove.activeitem.json": 1,
             "vinefist.activeitem.json": 0
           },
           "melee": {
