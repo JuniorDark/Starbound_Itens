@@ -53,7 +53,7 @@
             "shared_capturepod.activeitem.json": 1
           },
           "geode": {
-            "geode.activeitem.json": 0
+            "geode.activeitem.json": 1
           },
           "oredetector": {
             "cavedetector.activeitem.json": 0,
