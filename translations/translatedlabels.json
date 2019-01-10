@@ -158,7 +158,7 @@
               "lightbow.activeitem.json": 1
             },
             "poisonbow": {
-              "poisonbow.activeitem.json": 0
+              "poisonbow.activeitem.json": 1
             },
             "pollenpump": {
               "pollenpump.activeitem.json": 0
