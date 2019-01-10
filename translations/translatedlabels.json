@@ -219,7 +219,7 @@
               "uncommonshortsword.activeitem.json": 1
             },
             "spear": {
-              "commonspear.activeitem.json": 0,
+              "commonspear.activeitem.json": 1,
               "rarespear.activeitem.json": 0,
               "uncommonspear.activeitem.json": 0
             }
