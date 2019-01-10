@@ -137,7 +137,7 @@
           },
           "bow": {
             "bow": {
-              "bow.activeitem.json": 0
+              "bow.activeitem.json": 1
             },
             "cavebow": {
               "cavebow.activeitem.json": 0
