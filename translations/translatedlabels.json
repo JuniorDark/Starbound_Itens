@@ -16,7 +16,7 @@
         },
         "grapplinghooks": {
           "climbingrope": {
-            "climbingrope.activeitem.json": 0
+            "climbingrope.activeitem.json": 1
           },
           "grapplinghook": {
             "grapplinghook.activeitem.json": 0
