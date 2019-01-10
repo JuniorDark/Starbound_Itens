@@ -191,7 +191,7 @@
             },
             "broadsword": {
               "astrosabredeluxe.activeitem.json": 1,
-              "commonbroadsword.activeitem.json": 0,
+              "commonbroadsword.activeitem.json": 1,
               "hokucide.activeitem.json": 0,
               "legendblade.activeitem.json": 0,
               "rarebroadsword.activeitem.json": 0,
