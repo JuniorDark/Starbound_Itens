@@ -91,7 +91,7 @@
           }
         },
         "vehiclecontroller": {
-          "boatcontrollergreen.activeitem.json": 0,
+          "boatcontrollergreen.activeitem.json": 1,
           "hoverbikecontrollergreen.activeitem.json": 0,
           "hoverbikecontrollerkhaki.activeitem.json": 0,
           "hoverbikecontrollerred.activeitem.json": 0
