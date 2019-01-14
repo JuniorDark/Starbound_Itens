@@ -311,7 +311,7 @@
               "soulseeker.activeitem.json": 1
             },
             "tentaclegun": {
-              "tentaclegun.activeitem.json": 0,
+              "tentaclegun.activeitem.json": 1,
               "wormgun.activeitem.json": 0
             }
           },
