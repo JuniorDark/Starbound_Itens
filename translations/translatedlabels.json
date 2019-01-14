@@ -362,7 +362,7 @@
               "uncommongrenadelauncher.activeitem.json": 1
             },
             "machinepistol": {
-              "commonmachinepistol.activeitem.json": 0,
+              "commonmachinepistol.activeitem.json": 1,
               "raremachinepistol.activeitem.json": 0,
               "uncommonmachinepistol.activeitem.json": 0
             },
