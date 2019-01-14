@@ -334,7 +334,7 @@
             "ironbroadsword.activeitem.json": 1,
             "ironshortsword.activeitem.json": 1,
             "protectoratebroadsword": {
-              "protectoratebroadsword.activeitem.json": 0
+              "protectoratebroadsword.activeitem.json": 1
             },
             "titaniumdagger.activeitem.json": 0,
             "titaniumspear.activeitem.json": 0,
