@@ -391,7 +391,7 @@
                 "bubblegun.activeitem.json": 1
               },
               "doomcannon": {
-                "doomcannon.activeitem.json": 0
+                "doomcannon.activeitem.json": 1
               },
               "paintgun": {
                 "paintgunblue.activeitem.json": 0,
