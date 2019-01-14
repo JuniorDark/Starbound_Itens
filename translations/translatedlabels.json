@@ -2307,7 +2307,7 @@
           "metallic.item.json": 1,
           "moltencore.item.json": 1,
           "monsterdrops": {
-            "cryonicextract.item.json": 0,
+            "cryonicextract.item.json": 1,
             "hardenedcarapace.item.json": 0,
             "livingroot.item.json": 0,
             "phasematter.item.json": 0,
