@@ -2133,7 +2133,7 @@
           "fireblockaugment.augment.json": 1,
           "gravityaugment.augment.json": 1,
           "healingaugment1.augment.json": 1,
-          "healingaugment2.augment.json": 0,
+          "healingaugment2.augment.json": 1,
           "healingaugment3.augment.json": 0,
           "healthaugment1.augment.json": 0,
           "healthaugment2.augment.json": 0,
