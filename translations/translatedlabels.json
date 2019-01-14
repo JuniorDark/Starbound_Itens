@@ -2260,7 +2260,7 @@
           "battery.item.json": 1,
           "biosample.item.json": 1,
           "bolt.item.json": 1,
-          "bone.item.json": 0,
+          "bone.item.json": 1,
           "bottle.item.json": 0,
           "brain.item.json": 0,
           "bugshell.item.json": 0,
