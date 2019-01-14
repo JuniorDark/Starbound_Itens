@@ -230,7 +230,7 @@
             "ironassaultrifle.activeitem.json": 1,
             "ironrevolver.activeitem.json": 1,
             "titaniummachinepistol.activeitem.json": 1,
-            "titaniumsniperrifle.activeitem.json": 0,
+            "titaniumsniperrifle.activeitem.json": 1,
             "tungstenmagnum.activeitem.json": 0,
             "tungstenshotgun.activeitem.json": 0
           },
