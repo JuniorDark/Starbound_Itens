@@ -326,7 +326,7 @@
             "durasteelbroadsword.activeitem.json": 1,
             "durasteelshortsword.activeitem.json": 1,
             "feroziumstaff": {
-              "feroziumstaff.activeitem.json": 0
+              "feroziumstaff.activeitem.json": 1
             },
             "feroziumwand": {
               "feroziumwand.activeitem.json": 0
