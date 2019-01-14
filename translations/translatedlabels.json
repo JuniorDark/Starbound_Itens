@@ -2145,7 +2145,7 @@
           "lightaugment3.augment.json": 1,
           "mobilityaugment.augment.json": 1,
           "poisonblockaugment.augment.json": 1,
-          "speedaugment.augment.json": 0,
+          "speedaugment.augment.json": 1,
           "swimaugment.augment.json": 0,
           "thornsaugment.augment.json": 0
         },
