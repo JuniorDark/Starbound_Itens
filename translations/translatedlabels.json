@@ -2299,7 +2299,7 @@
           "icecrystal.item.json": 1,
           "inferiorbrain.item.json": 1,
           "ironbar.item.json": 1,
-          "ironore.item.json": 0,
+          "ironore.item.json": 1,
           "larva.item.json": 0,
           "laserdiode.item.json": 0,
           "lead.item.json": 0,
