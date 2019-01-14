@@ -2338,7 +2338,7 @@
           "refinedferozium.item.json": 1,
           "refinedviolium.item.json": 1,
           "robotarms.item.json": 1,
-          "robotchest.item.json": 0,
+          "robotchest.item.json": 1,
           "robothead.item.json": 0,
           "robotlegs.item.json": 0,
           "screws.item.json": 0,
