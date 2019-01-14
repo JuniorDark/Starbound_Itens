@@ -2300,7 +2300,7 @@
           "inferiorbrain.item.json": 1,
           "ironbar.item.json": 1,
           "ironore.item.json": 1,
-          "larva.item.json": 0,
+          "larva.item.json": 1,
           "laserdiode.item.json": 0,
           "lead.item.json": 0,
           "leather.item.json": 0,
