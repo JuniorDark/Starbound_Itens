@@ -378,7 +378,7 @@
             },
             "shotgun": {
               "commonshotgun.activeitem.json": 1,
-              "rareshotgun.activeitem.json": 0,
+              "rareshotgun.activeitem.json": 1,
               "uncommonshotgun.activeitem.json": 0
             },
             "sniperrifle": {
