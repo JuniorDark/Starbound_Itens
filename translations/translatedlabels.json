@@ -2278,7 +2278,7 @@
           "crystal.item.json": 1,
           "diamond.item.json": 1,
           "dragonbone.item.json": 1,
-          "durasteelbar.item.json": 0,
+          "durasteelbar.item.json": 1,
           "durasteelore.item.json": 0,
           "endomorphicjelly.item.json": 0,
           "fabric.item.json": 0,
