@@ -2839,7 +2839,7 @@
         "lava.liqitem.json": 1,
         "liquidfuel.liqitem.json": 1,
         "milk.liqitem.json": 1,
-        "oil.liqitem.json": 0,
+        "oil.liqitem.json": 1,
         "poison.liqitem.json": 0,
         "slime.liqitem.json": 0,
         "swampwater.liqitem.json": 0,
