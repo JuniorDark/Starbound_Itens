@@ -2141,7 +2141,7 @@
           "iceblockaugment.augment.json": 1,
           "jumpaugment.augment.json": 1,
           "lightaugment1.augment.json": 1,
-          "lightaugment2.augment.json": 0,
+          "lightaugment2.augment.json": 1,
           "lightaugment3.augment.json": 0,
           "mobilityaugment.augment.json": 0,
           "poisonblockaugment.augment.json": 0,
