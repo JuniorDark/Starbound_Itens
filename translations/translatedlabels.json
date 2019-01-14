@@ -354,7 +354,7 @@
               "uncommonassaultrifle.activeitem.json": 1
             },
             "flamethrower": {
-              "flamethrower.activeitem.json": 0
+              "flamethrower.activeitem.json": 1
             },
             "grenadelauncher": {
               "commongrenadelauncher.activeitem.json": 0,
