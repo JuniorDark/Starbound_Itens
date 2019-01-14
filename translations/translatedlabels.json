@@ -2263,7 +2263,7 @@
           "bone.item.json": 1,
           "bottle.item.json": 1,
           "brain.item.json": 1,
-          "bugshell.item.json": 0,
+          "bugshell.item.json": 1,
           "canvas.item.json": 0,
           "cellmateria.item.json": 0,
           "cellmatter.item.json": 0,
