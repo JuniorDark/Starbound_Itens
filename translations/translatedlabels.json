@@ -363,7 +363,7 @@
             },
             "machinepistol": {
               "commonmachinepistol.activeitem.json": 1,
-              "raremachinepistol.activeitem.json": 0,
+              "raremachinepistol.activeitem.json": 1,
               "uncommonmachinepistol.activeitem.json": 0
             },
             "pistol": {
