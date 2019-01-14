@@ -399,7 +399,7 @@
                 "paintgunorange.activeitem.json": 1,
                 "paintgunpurple.activeitem.json": 1,
                 "paintgunred.activeitem.json": 1,
-                "paintgunyellow.activeitem.json": 0
+                "paintgunyellow.activeitem.json": 1
               },
               "raygun": {
                 "raygun.activeitem.json": 0
