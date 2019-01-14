@@ -312,7 +312,7 @@
             },
             "tentaclegun": {
               "tentaclegun.activeitem.json": 1,
-              "wormgun.activeitem.json": 0
+              "wormgun.activeitem.json": 1
             }
           },
           "protectorate": {
