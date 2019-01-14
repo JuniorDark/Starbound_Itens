@@ -237,7 +237,7 @@
           "npc": {
             "npcassaultrifle.activeitem.json": 1,
             "npcavianbroadsword.activeitem.json": 1,
-            "npcaxe.activeitem.json": 0,
+            "npcaxe.activeitem.json": 1,
             "npcbow.activeitem.json": 0,
             "npcbroadsword.activeitem.json": 0,
             "npcbruisersword.activeitem.json": 0,
