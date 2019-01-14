@@ -351,7 +351,7 @@
             "assaultrifle": {
               "commonassaultrifle.activeitem.json": 1,
               "rareassaultrifle.activeitem.json": 1,
-              "uncommonassaultrifle.activeitem.json": 0
+              "uncommonassaultrifle.activeitem.json": 1
             },
             "flamethrower": {
               "flamethrower.activeitem.json": 0
