@@ -2173,7 +2173,7 @@
           "healthcollar3.augment.json": 1,
           "icebombcollar.augment.json": 1,
           "lightcollar.augment.json": 1,
-          "obliviouscollar.augment.json": 0,
+          "obliviouscollar.augment.json": 1,
           "poisonbombcollar.augment.json": 0
         }
       },
