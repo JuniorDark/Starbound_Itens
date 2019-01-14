@@ -266,7 +266,7 @@
               "adaptablecrossbow.activeitem.json": 1
             },
             "chargegun": {
-              "chargegun.activeitem.json": 0
+              "chargegun.activeitem.json": 1
             },
             "drillspear": {
               "drillspear.activeitem.json": 0
