@@ -2313,7 +2313,7 @@
             "phasematter.item.json": 1,
             "scorchedcore.item.json": 1,
             "sharpenedclaw.item.json": 1,
-            "staticcell.item.json": 0,
+            "staticcell.item.json": 1,
             "stickofram.item.json": 0,
             "venomsample.item.json": 0
           },
