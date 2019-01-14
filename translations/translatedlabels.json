@@ -2252,7 +2252,7 @@
       "generic": {
         "crafting": {
           "aegisaltore.item.json": 1,
-          "alienweirdwood.item.json": 0,
+          "alienweirdwood.item.json": 1,
           "alienwoodsap.item.json": 0,
           "ancientbones.item.json": 0,
           "artificialbrain.item.json": 0,
