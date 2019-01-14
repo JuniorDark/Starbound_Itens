@@ -377,7 +377,7 @@
               "uncommonrocketlauncher.activeitem.json": 1
             },
             "shotgun": {
-              "commonshotgun.activeitem.json": 0,
+              "commonshotgun.activeitem.json": 1,
               "rareshotgun.activeitem.json": 0,
               "uncommonshotgun.activeitem.json": 0
             },
