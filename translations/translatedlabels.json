@@ -263,7 +263,7 @@
           },
           "other": {
             "adaptablecrossbow": {
-              "adaptablecrossbow.activeitem.json": 0
+              "adaptablecrossbow.activeitem.json": 1
             },
             "chargegun": {
               "chargegun.activeitem.json": 0
