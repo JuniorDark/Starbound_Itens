@@ -2841,7 +2841,7 @@
         "milk.liqitem.json": 1,
         "oil.liqitem.json": 1,
         "poison.liqitem.json": 1,
-        "slime.liqitem.json": 0,
+        "slime.liqitem.json": 1,
         "swampwater.liqitem.json": 0,
         "water.liqitem.json": 0
       },
