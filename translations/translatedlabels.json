@@ -2262,7 +2262,7 @@
           "bolt.item.json": 1,
           "bone.item.json": 1,
           "bottle.item.json": 1,
-          "brain.item.json": 0,
+          "brain.item.json": 1,
           "bugshell.item.json": 0,
           "canvas.item.json": 0,
           "cellmateria.item.json": 0,
