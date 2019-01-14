@@ -2314,7 +2314,7 @@
             "scorchedcore.item.json": 1,
             "sharpenedclaw.item.json": 1,
             "staticcell.item.json": 1,
-            "stickofram.item.json": 0,
+            "stickofram.item.json": 1,
             "venomsample.item.json": 0
           },
           "monsterplating.item.json": 1,
