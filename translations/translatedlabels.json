@@ -2138,7 +2138,7 @@
           "healthaugment1.augment.json": 1,
           "healthaugment2.augment.json": 1,
           "healthaugment3.augment.json": 1,
-          "iceblockaugment.augment.json": 0,
+          "iceblockaugment.augment.json": 1,
           "jumpaugment.augment.json": 0,
           "lightaugment1.augment.json": 0,
           "lightaugment2.augment.json": 0,
