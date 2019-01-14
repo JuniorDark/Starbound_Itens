@@ -232,7 +232,7 @@
             "titaniummachinepistol.activeitem.json": 1,
             "titaniumsniperrifle.activeitem.json": 1,
             "tungstenmagnum.activeitem.json": 1,
-            "tungstenshotgun.activeitem.json": 0
+            "tungstenshotgun.activeitem.json": 1
           },
           "npc": {
             "npcassaultrifle.activeitem.json": 0,
