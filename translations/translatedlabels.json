@@ -2368,7 +2368,7 @@
           "violiumore.item.json": 1,
           "volatilepowder.item.json": 1,
           "wildvines.item.json": 1,
-          "wire.item.json": 0
+          "wire.item.json": 1
         },
         "dyes": {
           "blackdye.augment.json": 0,
