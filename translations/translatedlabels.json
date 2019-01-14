@@ -2265,7 +2265,7 @@
           "brain.item.json": 1,
           "bugshell.item.json": 1,
           "canvas.item.json": 1,
-          "cellmateria.item.json": 0,
+          "cellmateria.item.json": 1,
           "cellmatter.item.json": 0,
           "coalore.item.json": 0,
           "cog.item.json": 0,
