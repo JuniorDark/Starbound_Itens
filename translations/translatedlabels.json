@@ -2856,7 +2856,7 @@
       },
       "shared_toxicwaste.json": 1,
       "ship": {
-        "FTLrepairkit.unlock.json": 0,
+        "FTLrepairkit.unlock.json": 1,
         "shared_shipupgrade.json": 0,
         "shiprepairkit.unlock.json": 0
       },
