@@ -2251,7 +2251,7 @@
       },
       "generic": {
         "crafting": {
-          "aegisaltore.item.json": 0,
+          "aegisaltore.item.json": 1,
           "alienweirdwood.item.json": 0,
           "alienwoodsap.item.json": 0,
           "ancientbones.item.json": 0,
