@@ -382,7 +382,7 @@
               "uncommonshotgun.activeitem.json": 1
             },
             "sniperrifle": {
-              "commonsniperrifle.activeitem.json": 0,
+              "commonsniperrifle.activeitem.json": 1,
               "raresniperrifle.activeitem.json": 0,
               "uncommonsniperrifle.activeitem.json": 0
             },
