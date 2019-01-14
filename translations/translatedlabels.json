@@ -2843,7 +2843,7 @@
         "poison.liqitem.json": 1,
         "slime.liqitem.json": 1,
         "swampwater.liqitem.json": 1,
-        "water.liqitem.json": 0
+        "water.liqitem.json": 1
       },
       "materials": {
         "alienstripedwood.matitem.json": 0,
