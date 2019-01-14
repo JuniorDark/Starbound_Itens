@@ -251,7 +251,7 @@
             "npcfirebow.activeitem.json": 1,
             "npcfloranassaultrifle.activeitem.json": 1,
             "npchammer.activeitem.json": 1,
-            "npcmachinepistol.activeitem.json": 0,
+            "npcmachinepistol.activeitem.json": 1,
             "npcpistol.activeitem.json": 0,
             "npcrocketlauncher.activeitem.json": 0,
             "npcshortsword.activeitem.json": 0,
