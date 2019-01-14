@@ -2161,7 +2161,7 @@
           "bouncycollar.augment.json": 1,
           "damagecollar1.augment.json": 1,
           "damagecollar2.augment.json": 1,
-          "damagecollar3.augment.json": 0,
+          "damagecollar3.augment.json": 1,
           "electricbombcollar.augment.json": 0,
           "firebombcollar.augment.json": 0,
           "ghostlycollar.augment.json": 0,
