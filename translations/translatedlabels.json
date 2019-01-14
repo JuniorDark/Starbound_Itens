@@ -253,7 +253,7 @@
             "npchammer.activeitem.json": 1,
             "npcmachinepistol.activeitem.json": 1,
             "npcpistol.activeitem.json": 1,
-            "npcrocketlauncher.activeitem.json": 0,
+            "npcrocketlauncher.activeitem.json": 1,
             "npcshortsword.activeitem.json": 0,
             "npcshotgun.activeitem.json": 0,
             "npcsniperrifle.activeitem.json": 0,
