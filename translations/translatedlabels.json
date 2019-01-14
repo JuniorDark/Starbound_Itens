@@ -226,7 +226,7 @@
           },
           "novakid": {
             "durasteelassaultrifle.activeitem.json": 1,
-            "durasteelrevolver.activeitem.json": 0,
+            "durasteelrevolver.activeitem.json": 1,
             "ironassaultrifle.activeitem.json": 0,
             "ironrevolver.activeitem.json": 0,
             "titaniummachinepistol.activeitem.json": 0,
