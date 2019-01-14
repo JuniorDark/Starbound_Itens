@@ -2340,7 +2340,7 @@
           "robotarms.item.json": 1,
           "robotchest.item.json": 1,
           "robothead.item.json": 1,
-          "robotlegs.item.json": 0,
+          "robotlegs.item.json": 1,
           "screws.item.json": 0,
           "seaweed.item.json": 0,
           "siliconboard.item.json": 0,
