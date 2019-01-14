@@ -2367,7 +2367,7 @@
           "uraniumrod.item.json": 1,
           "violiumore.item.json": 1,
           "volatilepowder.item.json": 1,
-          "wildvines.item.json": 0,
+          "wildvines.item.json": 1,
           "wire.item.json": 0
         },
         "dyes": {
