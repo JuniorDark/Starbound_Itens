@@ -431,7 +431,7 @@
           "whip": {
             "energywhip.activeitem.json": 1,
             "intestinewhip.activeitem.json": 1,
-            "ropewhip.activeitem.json": 0,
+            "ropewhip.activeitem.json": 1,
             "vinewhip.activeitem.json": 0
           }
         }
