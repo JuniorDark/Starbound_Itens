@@ -259,7 +259,7 @@
             "npcsniperrifle.activeitem.json": 1,
             "npcspear.activeitem.json": 1,
             "npctungstenbow.activeitem.json": 1,
-            "npcwrench.activeitem.json": 0
+            "npcwrench.activeitem.json": 1
           },
           "other": {
             "adaptablecrossbow": {
