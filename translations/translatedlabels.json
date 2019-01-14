@@ -2253,7 +2253,7 @@
         "crafting": {
           "aegisaltore.item.json": 1,
           "alienweirdwood.item.json": 1,
-          "alienwoodsap.item.json": 0,
+          "alienwoodsap.item.json": 1,
           "ancientbones.item.json": 0,
           "artificialbrain.item.json": 0,
           "basicpelt.item.json": 0,
