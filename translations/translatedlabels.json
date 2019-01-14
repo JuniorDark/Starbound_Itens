@@ -2835,7 +2835,7 @@
         "violin.instrument.json": 0
       },
       "liquids": {
-        "healingwater.liqitem.json": 0,
+        "healingwater.liqitem.json": 1,
         "lava.liqitem.json": 0,
         "liquidfuel.liqitem.json": 0,
         "milk.liqitem.json": 0,
