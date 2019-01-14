@@ -2842,7 +2842,7 @@
         "oil.liqitem.json": 1,
         "poison.liqitem.json": 1,
         "slime.liqitem.json": 1,
-        "swampwater.liqitem.json": 0,
+        "swampwater.liqitem.json": 1,
         "water.liqitem.json": 0
       },
       "materials": {
