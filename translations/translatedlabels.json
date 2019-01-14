@@ -383,7 +383,7 @@
             },
             "sniperrifle": {
               "commonsniperrifle.activeitem.json": 1,
-              "raresniperrifle.activeitem.json": 0,
+              "raresniperrifle.activeitem.json": 1,
               "uncommonsniperrifle.activeitem.json": 0
             },
             "unrand": {
