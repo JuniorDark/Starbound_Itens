@@ -2128,7 +2128,7 @@
           "damageaugment3.augment.json": 1,
           "electricblockaugment.augment.json": 1,
           "energyaugment1.augment.json": 1,
-          "energyaugment2.augment.json": 0,
+          "energyaugment2.augment.json": 1,
           "energyaugment3.augment.json": 0,
           "fireblockaugment.augment.json": 0,
           "gravityaugment.augment.json": 0,
