@@ -2309,7 +2309,7 @@
           "monsterdrops": {
             "cryonicextract.item.json": 1,
             "hardenedcarapace.item.json": 1,
-            "livingroot.item.json": 0,
+            "livingroot.item.json": 1,
             "phasematter.item.json": 0,
             "scorchedcore.item.json": 0,
             "sharpenedclaw.item.json": 0,
