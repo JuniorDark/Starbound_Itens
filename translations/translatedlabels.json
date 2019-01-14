@@ -373,7 +373,7 @@
             },
             "rocketlauncher": {
               "commonrocketlauncher.activeitem.json": 1,
-              "rarerocketlauncher.activeitem.json": 0,
+              "rarerocketlauncher.activeitem.json": 1,
               "uncommonrocketlauncher.activeitem.json": 0
             },
             "shotgun": {
