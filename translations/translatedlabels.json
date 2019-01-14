@@ -2147,7 +2147,7 @@
           "poisonblockaugment.augment.json": 1,
           "speedaugment.augment.json": 1,
           "swimaugment.augment.json": 1,
-          "thornsaugment.augment.json": 0
+          "thornsaugment.augment.json": 1
         },
         "fishing": {
           "fishinglurecontrol.augment.json": 0,
