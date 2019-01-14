@@ -2151,7 +2151,7 @@
         },
         "fishing": {
           "fishinglurecontrol.augment.json": 1,
-          "fishinglurelight.augment.json": 0,
+          "fishinglurelight.augment.json": 1,
           "fishingluresinking.augment.json": 0,
           "fishingreelfast.augment.json": 0,
           "fishingreellong.augment.json": 0,
