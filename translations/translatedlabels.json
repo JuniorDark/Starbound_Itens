@@ -231,7 +231,7 @@
             "ironrevolver.activeitem.json": 1,
             "titaniummachinepistol.activeitem.json": 1,
             "titaniumsniperrifle.activeitem.json": 1,
-            "tungstenmagnum.activeitem.json": 0,
+            "tungstenmagnum.activeitem.json": 1,
             "tungstenshotgun.activeitem.json": 0
           },
           "npc": {
