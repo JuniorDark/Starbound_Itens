@@ -349,7 +349,7 @@
           },
           "ranged": {
             "assaultrifle": {
-              "commonassaultrifle.activeitem.json": 0,
+              "commonassaultrifle.activeitem.json": 1,
               "rareassaultrifle.activeitem.json": 0,
               "uncommonassaultrifle.activeitem.json": 0
             },
