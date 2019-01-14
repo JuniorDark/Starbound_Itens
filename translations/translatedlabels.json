@@ -2124,7 +2124,7 @@
       "augments": {
         "back": {
           "damageaugment1.augment.json": 1,
-          "damageaugment2.augment.json": 0,
+          "damageaugment2.augment.json": 1,
           "damageaugment3.augment.json": 0,
           "electricblockaugment.augment.json": 0,
           "energyaugment1.augment.json": 0,
