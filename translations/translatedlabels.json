@@ -250,7 +250,7 @@
             "npcfeneroxspear.activeitem.json": 1,
             "npcfirebow.activeitem.json": 1,
             "npcfloranassaultrifle.activeitem.json": 1,
-            "npchammer.activeitem.json": 0,
+            "npchammer.activeitem.json": 1,
             "npcmachinepistol.activeitem.json": 0,
             "npcpistol.activeitem.json": 0,
             "npcrocketlauncher.activeitem.json": 0,
