@@ -2288,7 +2288,7 @@
           "fleshstrand.item.json": 1,
           "fossilore.item.json": 1,
           "giantflowerpetal.item.json": 1,
-          "glass.item.json": 0,
+          "glass.item.json": 1,
           "glasscoffeemug.item.json": 0,
           "glowfibre.item.json": 0,
           "gnome.item.json": 0,
