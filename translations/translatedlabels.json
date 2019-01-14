@@ -2275,7 +2275,7 @@
           "corefragmentore.item.json": 1,
           "cotton.item.json": 1,
           "cottonwool.item.json": 1,
-          "crystal.item.json": 0,
+          "crystal.item.json": 1,
           "diamond.item.json": 0,
           "dragonbone.item.json": 0,
           "durasteelbar.item.json": 0,
