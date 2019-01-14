@@ -258,7 +258,7 @@
             "npcshotgun.activeitem.json": 1,
             "npcsniperrifle.activeitem.json": 1,
             "npcspear.activeitem.json": 1,
-            "npctungstenbow.activeitem.json": 0,
+            "npctungstenbow.activeitem.json": 1,
             "npcwrench.activeitem.json": 0
           },
           "other": {
