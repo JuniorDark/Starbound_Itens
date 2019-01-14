@@ -322,7 +322,7 @@
             "aegisaltpistol": {
               "aegisaltpistol.activeitem.json": 1
             },
-            "brokenprotectoratebroadsword.activeitem.json": 0,
+            "brokenprotectoratebroadsword.activeitem.json": 1,
             "durasteelbroadsword.activeitem.json": 0,
             "durasteelshortsword.activeitem.json": 0,
             "feroziumstaff": {
