@@ -350,7 +350,7 @@
           "ranged": {
             "assaultrifle": {
               "commonassaultrifle.activeitem.json": 1,
-              "rareassaultrifle.activeitem.json": 0,
+              "rareassaultrifle.activeitem.json": 1,
               "uncommonassaultrifle.activeitem.json": 0
             },
             "flamethrower": {
