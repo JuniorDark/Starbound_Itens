@@ -2366,7 +2366,7 @@
           "uraniumore.item.json": 1,
           "uraniumrod.item.json": 1,
           "violiumore.item.json": 1,
-          "volatilepowder.item.json": 0,
+          "volatilepowder.item.json": 1,
           "wildvines.item.json": 0,
           "wire.item.json": 0
         },
