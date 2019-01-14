@@ -388,7 +388,7 @@
             },
             "unrand": {
               "bubblegun": {
-                "bubblegun.activeitem.json": 0
+                "bubblegun.activeitem.json": 1
               },
               "doomcannon": {
                 "doomcannon.activeitem.json": 0
