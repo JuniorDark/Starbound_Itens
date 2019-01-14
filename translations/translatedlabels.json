@@ -2344,7 +2344,7 @@
           "screws.item.json": 1,
           "seaweed.item.json": 1,
           "siliconboard.item.json": 1,
-          "silk.item.json": 0,
+          "silk.item.json": 1,
           "silkfibre.item.json": 0,
           "silverbar.item.json": 0,
           "silverore.item.json": 0,
