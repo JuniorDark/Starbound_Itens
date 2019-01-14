@@ -2155,7 +2155,7 @@
           "fishingluresinking.augment.json": 1,
           "fishingreelfast.augment.json": 1,
           "fishingreellong.augment.json": 1,
-          "fishingreelstrong.augment.json": 0
+          "fishingreelstrong.augment.json": 1
         },
         "pet": {
           "bouncycollar.augment.json": 0,
