@@ -2317,7 +2317,7 @@
             "stickofram.item.json": 0,
             "venomsample.item.json": 0
           },
-          "monsterplating.item.json": 0,
+          "monsterplating.item.json": 1,
           "moonstoneore.item.json": 0,
           "paper.item.json": 0,
           "petalblue.item.json": 0,
