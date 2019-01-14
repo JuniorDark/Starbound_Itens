@@ -357,7 +357,7 @@
               "flamethrower.activeitem.json": 1
             },
             "grenadelauncher": {
-              "commongrenadelauncher.activeitem.json": 0,
+              "commongrenadelauncher.activeitem.json": 1,
               "raregrenadelauncher.activeitem.json": 0,
               "uncommongrenadelauncher.activeitem.json": 0
             },
