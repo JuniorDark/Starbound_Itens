@@ -411,7 +411,7 @@
                 "spaceplasmarifle.activeitem.json": 1
               },
               "watergun": {
-                "watergun.activeitem.json": 0
+                "watergun.activeitem.json": 1
               }
             }
           },
