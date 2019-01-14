@@ -2158,7 +2158,7 @@
           "fishingreelstrong.augment.json": 1
         },
         "pet": {
-          "bouncycollar.augment.json": 0,
+          "bouncycollar.augment.json": 1,
           "damagecollar1.augment.json": 0,
           "damagecollar2.augment.json": 0,
           "damagecollar3.augment.json": 0,
