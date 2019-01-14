@@ -240,7 +240,7 @@
             "npcaxe.activeitem.json": 1,
             "npcbow.activeitem.json": 1,
             "npcbroadsword.activeitem.json": 1,
-            "npcbruisersword.activeitem.json": 0,
+            "npcbruisersword.activeitem.json": 1,
             "npccultistbroadsword.activeitem.json": 0,
             "npccultistshortsword.activeitem.json": 0,
             "npcdagger.activeitem.json": 0,
