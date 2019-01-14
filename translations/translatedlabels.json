@@ -2257,7 +2257,7 @@
           "ancientbones.item.json": 1,
           "artificialbrain.item.json": 1,
           "basicpelt.item.json": 1,
-          "battery.item.json": 0,
+          "battery.item.json": 1,
           "biosample.item.json": 0,
           "bolt.item.json": 0,
           "bone.item.json": 0,
