@@ -2304,7 +2304,7 @@
           "laserdiode.item.json": 1,
           "lead.item.json": 1,
           "leather.item.json": 1,
-          "metallic.item.json": 0,
+          "metallic.item.json": 1,
           "moltencore.item.json": 0,
           "monsterdrops": {
             "cryonicextract.item.json": 0,
