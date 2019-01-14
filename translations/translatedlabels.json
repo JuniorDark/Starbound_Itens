@@ -2852,7 +2852,7 @@
         "hive.matitem.json": 1,
         "petalblock.matitem.json": 1,
         "rock14.matitem.json": 1,
-        "wicker.matitem.json": 0
+        "wicker.matitem.json": 1
       },
       "shared_toxicwaste.json": 1,
       "ship": {
