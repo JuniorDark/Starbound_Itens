@@ -2179,7 +2179,7 @@
       },
       "currency": {
         "essence.currency.json": 1,
-        "money.currency.json": 0
+        "money.currency.json": 1
       },
       "fossils": {
         "humanoid": {
