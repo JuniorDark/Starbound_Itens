@@ -2259,7 +2259,7 @@
           "basicpelt.item.json": 1,
           "battery.item.json": 1,
           "biosample.item.json": 1,
-          "bolt.item.json": 0,
+          "bolt.item.json": 1,
           "bone.item.json": 0,
           "bottle.item.json": 0,
           "brain.item.json": 0,
