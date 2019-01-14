@@ -2302,7 +2302,7 @@
           "ironore.item.json": 1,
           "larva.item.json": 1,
           "laserdiode.item.json": 1,
-          "lead.item.json": 0,
+          "lead.item.json": 1,
           "leather.item.json": 0,
           "metallic.item.json": 0,
           "moltencore.item.json": 0,
