@@ -339,7 +339,7 @@
             "titaniumdagger.activeitem.json": 1,
             "titaniumspear.activeitem.json": 1,
             "tungstenaxe.activeitem.json": 1,
-            "tungstenhammer.activeitem.json": 0,
+            "tungstenhammer.activeitem.json": 1,
             "violiumbroadsword": {
               "violiumbroadsword.activeitem.json": 0
             },
