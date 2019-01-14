@@ -368,7 +368,7 @@
             },
             "pistol": {
               "commonpistol.activeitem.json": 1,
-              "rarepistol.activeitem.json": 0,
+              "rarepistol.activeitem.json": 1,
               "uncommonpistol.activeitem.json": 0
             },
             "rocketlauncher": {
