@@ -429,7 +429,7 @@
             }
           },
           "whip": {
-            "energywhip.activeitem.json": 0,
+            "energywhip.activeitem.json": 1,
             "intestinewhip.activeitem.json": 0,
             "ropewhip.activeitem.json": 0,
             "vinewhip.activeitem.json": 0
