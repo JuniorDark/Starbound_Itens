@@ -2258,7 +2258,7 @@
           "artificialbrain.item.json": 1,
           "basicpelt.item.json": 1,
           "battery.item.json": 1,
-          "biosample.item.json": 0,
+          "biosample.item.json": 1,
           "bolt.item.json": 0,
           "bone.item.json": 0,
           "bottle.item.json": 0,
