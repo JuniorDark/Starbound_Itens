@@ -396,7 +396,7 @@
               "paintgun": {
                 "paintgunblue.activeitem.json": 1,
                 "paintgungreen.activeitem.json": 1,
-                "paintgunorange.activeitem.json": 0,
+                "paintgunorange.activeitem.json": 1,
                 "paintgunpurple.activeitem.json": 0,
                 "paintgunred.activeitem.json": 0,
                 "paintgunyellow.activeitem.json": 0
