@@ -2276,7 +2276,7 @@
           "cotton.item.json": 1,
           "cottonwool.item.json": 1,
           "crystal.item.json": 1,
-          "diamond.item.json": 0,
+          "diamond.item.json": 1,
           "dragonbone.item.json": 0,
           "durasteelbar.item.json": 0,
           "durasteelore.item.json": 0,
