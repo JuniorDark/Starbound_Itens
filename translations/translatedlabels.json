@@ -2837,7 +2837,7 @@
       "liquids": {
         "healingwater.liqitem.json": 1,
         "lava.liqitem.json": 1,
-        "liquidfuel.liqitem.json": 0,
+        "liquidfuel.liqitem.json": 1,
         "milk.liqitem.json": 0,
         "oil.liqitem.json": 0,
         "poison.liqitem.json": 0,
