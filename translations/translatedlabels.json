@@ -2351,7 +2351,7 @@
           "smallbattery.item.json": 1,
           "snowflake.item.json": 1,
           "solariumore.item.json": 1,
-          "solariumstar.item.json": 0,
+          "solariumstar.item.json": 1,
           "string.item.json": 0,
           "sulphur.item.json": 0,
           "syntheticmaterial.item.json": 0,
