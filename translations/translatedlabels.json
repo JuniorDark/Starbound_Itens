@@ -2305,7 +2305,7 @@
           "lead.item.json": 1,
           "leather.item.json": 1,
           "metallic.item.json": 1,
-          "moltencore.item.json": 0,
+          "moltencore.item.json": 1,
           "monsterdrops": {
             "cryonicextract.item.json": 0,
             "hardenedcarapace.item.json": 0,
