@@ -2851,7 +2851,7 @@
         "greenneonsymbol.matitem.json": 1,
         "hive.matitem.json": 1,
         "petalblock.matitem.json": 1,
-        "rock14.matitem.json": 0,
+        "rock14.matitem.json": 1,
         "wicker.matitem.json": 0
       },
       "shared_toxicwaste.json": 1,
