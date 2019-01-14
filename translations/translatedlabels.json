@@ -2159,7 +2159,7 @@
         },
         "pet": {
           "bouncycollar.augment.json": 1,
-          "damagecollar1.augment.json": 0,
+          "damagecollar1.augment.json": 1,
           "damagecollar2.augment.json": 0,
           "damagecollar3.augment.json": 0,
           "electricbombcollar.augment.json": 0,
