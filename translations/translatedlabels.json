@@ -324,7 +324,7 @@
             },
             "brokenprotectoratebroadsword.activeitem.json": 1,
             "durasteelbroadsword.activeitem.json": 1,
-            "durasteelshortsword.activeitem.json": 0,
+            "durasteelshortsword.activeitem.json": 1,
             "feroziumstaff": {
               "feroziumstaff.activeitem.json": 0
             },
