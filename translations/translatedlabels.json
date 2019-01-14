@@ -359,7 +359,7 @@
             "grenadelauncher": {
               "commongrenadelauncher.activeitem.json": 1,
               "raregrenadelauncher.activeitem.json": 1,
-              "uncommongrenadelauncher.activeitem.json": 0
+              "uncommongrenadelauncher.activeitem.json": 1
             },
             "machinepistol": {
               "commonmachinepistol.activeitem.json": 0,
