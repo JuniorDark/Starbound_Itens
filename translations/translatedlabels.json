@@ -2846,7 +2846,7 @@
         "water.liqitem.json": 1
       },
       "materials": {
-        "alienstripedwood.matitem.json": 0,
+        "alienstripedwood.matitem.json": 1,
         "blaststone.matitem.json": 0,
         "greenneonsymbol.matitem.json": 0,
         "hive.matitem.json": 0,
