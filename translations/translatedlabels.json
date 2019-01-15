@@ -2706,7 +2706,7 @@
           "secretnote.item.json": 1,
           "sheetmusic.item.json": 1,
           "shroomremedy.consumable.json": 1,
-          "soggypaper.item.json": 0,
+          "soggypaper.item.json": 1,
           "solidfuel.item.json": 0,
           "synthesisstim.consumable.json": 0,
           "techcard.item.json": 0,
