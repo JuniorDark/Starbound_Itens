@@ -2568,7 +2568,7 @@
           "license5.item.json": 1
         },
         "meat": {
-          "alienmeat.consumable.json": 0,
+          "alienmeat.consumable.json": 1,
           "cookedalienmeat.consumable.json": 0,
           "cookedbacon.consumable.json": 0,
           "cookedfish.consumable.json": 0,
