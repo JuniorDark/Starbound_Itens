@@ -2788,7 +2788,7 @@
           "electronicgoods.item.json": 1,
           "foodgoods.item.json": 1,
           "medicalgoods.item.json": 1,
-          "militarygoods.item.json": 0
+          "militarygoods.item.json": 1
         },
         "tradingcards": {
           "card01.item.json": 1
