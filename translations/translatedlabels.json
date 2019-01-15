@@ -2772,7 +2772,7 @@
           "salvagelegs.item.json": 1,
           "salvagetier4.item.json": 1,
           "salvagetier5.item.json": 1,
-          "salvagetier6.item.json": 0
+          "salvagetier6.item.json": 1
         },
         "shop": {
           "cannedfood.consumable.json": 1,
