@@ -2570,7 +2570,7 @@
         "meat": {
           "alienmeat.consumable.json": 1,
           "cookedalienmeat.consumable.json": 1,
-          "cookedbacon.consumable.json": 0,
+          "cookedbacon.consumable.json": 1,
           "cookedfish.consumable.json": 0,
           "cookedham.consumable.json": 0,
           "cookedpoultry.consumable.json": 0,
