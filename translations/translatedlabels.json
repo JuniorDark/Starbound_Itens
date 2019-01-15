@@ -2571,7 +2571,7 @@
           "alienmeat.consumable.json": 1,
           "cookedalienmeat.consumable.json": 1,
           "cookedbacon.consumable.json": 1,
-          "cookedfish.consumable.json": 0,
+          "cookedfish.consumable.json": 1,
           "cookedham.consumable.json": 0,
           "cookedpoultry.consumable.json": 0,
           "cookedribmeat.consumable.json": 0,
