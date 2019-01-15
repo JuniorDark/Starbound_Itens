@@ -2781,7 +2781,7 @@
           "egg.consumable.json": 1,
           "milk.consumable.json": 1,
           "oculemonade.consumable.json": 1,
-          "reefcola.consumable.json": 0,
+          "reefcola.consumable.json": 1,
           "soda.consumable.json": 0
         },
         "tradegoods": {
