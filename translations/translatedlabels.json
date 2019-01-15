@@ -2794,7 +2794,7 @@
           "card01.item.json": 0
         },
         "trophies": {
-          "monsterclaw.item.json": 0
+          "monsterclaw.item.json": 1
         },
         "unlock": {
           "portable3dprinter.unlock.json": 1
