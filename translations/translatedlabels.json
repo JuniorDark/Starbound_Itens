@@ -2915,7 +2915,7 @@
         },
         "mininglantern.flashlight.json": 1,
         "miningtools": {
-          "copperdrill.miningtool.json": 0,
+          "copperdrill.miningtool.json": 1,
           "copperpickaxe.miningtool.json": 0,
           "diamonddrill.miningtool.json": 0,
           "diamondpickaxe.miningtool.json": 0,
