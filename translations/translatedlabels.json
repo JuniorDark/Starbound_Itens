@@ -2565,7 +2565,7 @@
           "license2.item.json": 1,
           "license3.item.json": 1,
           "license4.item.json": 1,
-          "license5.item.json": 0
+          "license5.item.json": 1
         },
         "meat": {
           "alienmeat.consumable.json": 0,
