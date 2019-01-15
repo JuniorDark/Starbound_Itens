@@ -2910,7 +2910,7 @@
         "chainsaw.harvestingtool.json": 1,
         "hoe.tillingtool.json": 1,
         "inspectiontool": {
-          "inspectionmode.inspectiontool.json": 0,
+          "inspectionmode.inspectiontool.json": 1,
           "scanmode.inspectiontool.json": 0
         },
         "mininglantern.flashlight.json": 0,
