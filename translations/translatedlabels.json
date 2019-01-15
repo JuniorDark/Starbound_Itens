@@ -2690,7 +2690,7 @@
           "comedyscript.item.json": 1,
           "dubloon.item.json": 1,
           "fungusstim.consumable.json": 1,
-          "grassremedy.consumable.json": 0,
+          "grassremedy.consumable.json": 1,
           "greenstim.consumable.json": 1,
           "manipulatormodule.item.json": 0,
           "medkit.consumable.json": 0,
