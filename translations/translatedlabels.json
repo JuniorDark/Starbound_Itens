@@ -2701,7 +2701,7 @@
           "parcel.item.json": 1,
           "protectorateflyer.item.json": 1,
           "redstim.consumable.json": 1,
-          "rottenfood.item.json": 0,
+          "rottenfood.item.json": 1,
           "salve.consumable.json": 0,
           "secretnote.item.json": 0,
           "sheetmusic.item.json": 0,
