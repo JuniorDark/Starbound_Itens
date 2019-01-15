@@ -2908,7 +2908,7 @@
       },
       "tools": {
         "chainsaw.harvestingtool.json": 1,
-        "hoe.tillingtool.json": 0,
+        "hoe.tillingtool.json": 1,
         "inspectiontool": {
           "inspectionmode.inspectiontool.json": 0,
           "scanmode.inspectiontool.json": 0
