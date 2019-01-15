@@ -2687,7 +2687,7 @@
           "bottledhealingwater.consumable.json": 1,
           "bottledwater.consumable.json": 1,
           "burnspray.consumable.json": 1,
-          "comedyscript.item.json": 0,
+          "comedyscript.item.json": 1,
           "dubloon.item.json": 0,
           "fungusstim.consumable.json": 0,
           "grassremedy.consumable.json": 0,
