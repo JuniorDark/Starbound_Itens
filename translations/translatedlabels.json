@@ -2804,7 +2804,7 @@
         "accordion.instrument.json": 1,
         "acousticguitar.instrument.json": 1,
         "banjo.instrument.json": 1,
-        "bassguitar.instrument.json": 0,
+        "bassguitar.instrument.json": 1,
         "bones.instrument.json": 0,
         "brightpiano.instrument.json": 0,
         "clarinet.instrument.json": 0,
