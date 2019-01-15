@@ -2695,7 +2695,7 @@
           "manipulatormodule.item.json": 1,
           "medkit.consumable.json": 1,
           "mysteriousashes.item.json": 1,
-          "mysterioustrashbag.item.json": 0,
+          "mysterioustrashbag.item.json": 1,
           "nanowrap.consumable.json": 0,
           "orangestim.consumable.json": 0,
           "parcel.item.json": 0,
