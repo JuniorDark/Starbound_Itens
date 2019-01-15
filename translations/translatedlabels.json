@@ -2682,7 +2682,7 @@
           "antidote.consumable.json": 1,
           "autochip.item.json": 1,
           "autodrive.item.json": 1,
-          "bandage.consumable.json": 0,
+          "bandage.consumable.json": 1,
           "bluestim.consumable.json": 0,
           "bottledhealingwater.consumable.json": 0,
           "bottledwater.consumable.json": 0,
