@@ -2679,7 +2679,7 @@
           }
         },
         "other": {
-          "antidote.consumable.json": 0,
+          "antidote.consumable.json": 1,
           "autochip.item.json": 0,
           "autodrive.item.json": 0,
           "bandage.consumable.json": 0,
