@@ -2933,7 +2933,7 @@
         },
         "painttool.painttool.json": 1,
         "shared_flashlight.flashlight.json": 1,
-        "wiretool.wiretool.json": 0
+        "wiretool.wiretool.json": 1
       }
     },
     "items.json": 1,
