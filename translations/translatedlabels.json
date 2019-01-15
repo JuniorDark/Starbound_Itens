@@ -2931,7 +2931,7 @@
           "silverpickaxe.miningtool.json": 0,
           "superfishaxedrop.miningtool.json": 0
         },
-        "painttool.painttool.json": 0,
+        "painttool.painttool.json": 1,
         "shared_flashlight.flashlight.json": 0,
         "wiretool.wiretool.json": 0
       }
