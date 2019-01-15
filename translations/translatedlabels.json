@@ -2581,7 +2581,7 @@
           "rawham.consumable.json": 1,
           "rawpoultry.consumable.json": 1,
           "rawribmeat.consumable.json": 1,
-          "rawtentacle.consumable.json": 0
+          "rawtentacle.consumable.json": 1
         },
         "mechparts": {
           "arm": {
