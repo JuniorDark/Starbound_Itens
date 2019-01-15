@@ -2785,7 +2785,7 @@
           "soda.consumable.json": 0
         },
         "tradegoods": {
-          "electronicgoods.item.json": 0,
+          "electronicgoods.item.json": 1,
           "foodgoods.item.json": 0,
           "medicalgoods.item.json": 0,
           "militarygoods.item.json": 0
