@@ -2700,7 +2700,7 @@
           "orangestim.consumable.json": 0,
           "parcel.item.json": 0,
           "protectorateflyer.item.json": 0,
-          "redstim.consumable.json": 0,
+          "redstim.consumable.json": 1,
           "rottenfood.item.json": 0,
           "salve.consumable.json": 0,
           "secretnote.item.json": 0,
