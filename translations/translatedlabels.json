@@ -2563,7 +2563,7 @@
           "fakelicense5.item.json": 1,
           "license1.item.json": 1,
           "license2.item.json": 1,
-          "license3.item.json": 0,
+          "license3.item.json": 1,
           "license4.item.json": 0,
           "license5.item.json": 0
         },
