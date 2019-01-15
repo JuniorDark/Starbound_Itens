@@ -2775,7 +2775,7 @@
           "salvagetier6.item.json": 0
         },
         "shop": {
-          "cannedfood.consumable.json": 0,
+          "cannedfood.consumable.json": 1,
           "cheese.consumable.json": 0,
           "chocolate.consumable.json": 0,
           "egg.consumable.json": 0,
