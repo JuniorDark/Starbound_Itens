@@ -2911,7 +2911,7 @@
         "hoe.tillingtool.json": 1,
         "inspectiontool": {
           "inspectionmode.inspectiontool.json": 1,
-          "scanmode.inspectiontool.json": 0
+          "scanmode.inspectiontool.json": 1
         },
         "mininglantern.flashlight.json": 0,
         "miningtools": {
