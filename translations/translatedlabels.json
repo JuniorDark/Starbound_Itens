@@ -2556,7 +2556,7 @@
           }
         },
         "licenses": {
-          "fakelicense1.item.json": 0,
+          "fakelicense1.item.json": 1,
           "fakelicense2.item.json": 1,
           "fakelicense3.item.json": 1,
           "fakelicense4.item.json": 1,
