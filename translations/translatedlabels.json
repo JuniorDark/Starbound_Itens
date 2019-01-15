@@ -2797,7 +2797,7 @@
           "monsterclaw.item.json": 0
         },
         "unlock": {
-          "portable3dprinter.unlock.json": 0
+          "portable3dprinter.unlock.json": 1
         }
       },
       "instruments": {

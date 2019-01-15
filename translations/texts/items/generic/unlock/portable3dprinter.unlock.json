@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Portable Pixel Printer^white;"
+      "Eng": "^orange;Portable Pixel Printer^white;",
+      "Por": "Impressora de Pixel Portátil"
     }
   }
 ]
