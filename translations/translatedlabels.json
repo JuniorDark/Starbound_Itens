@@ -2371,7 +2371,7 @@
           "wire.item.json": 1
         },
         "dyes": {
-          "blackdye.augment.json": 0,
+          "blackdye.augment.json": 1,
           "bluedye.augment.json": 0,
           "browndye.augment.json": 0,
           "dyeremover.augment.json": 0,
