@@ -2766,7 +2766,7 @@
           "wheat.item.json": 0
         },
         "salvage": {
-          "salvagearm.item.json": 0,
+          "salvagearm.item.json": 1,
           "salvagebody.item.json": 0,
           "salvagebooster.item.json": 0,
           "salvagelegs.item.json": 0,
