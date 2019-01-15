@@ -2767,7 +2767,7 @@
         },
         "salvage": {
           "salvagearm.item.json": 1,
-          "salvagebody.item.json": 0,
+          "salvagebody.item.json": 1,
           "salvagebooster.item.json": 0,
           "salvagelegs.item.json": 0,
           "salvagetier4.item.json": 0,
