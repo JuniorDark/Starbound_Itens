@@ -2380,7 +2380,7 @@
           "orangedye.augment.json": 1,
           "pinkdye.augment.json": 1,
           "purpledye.augment.json": 1,
-          "reddye.augment.json": 0,
+          "reddye.augment.json": 1,
           "whitedye.augment.json": 0,
           "yellowdye.augment.json": 0
         },
