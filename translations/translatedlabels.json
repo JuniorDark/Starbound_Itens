@@ -2780,7 +2780,7 @@
           "chocolate.consumable.json": 1,
           "egg.consumable.json": 1,
           "milk.consumable.json": 1,
-          "oculemonade.consumable.json": 0,
+          "oculemonade.consumable.json": 1,
           "reefcola.consumable.json": 0,
           "soda.consumable.json": 0
         },
