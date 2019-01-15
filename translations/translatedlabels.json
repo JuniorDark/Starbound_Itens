@@ -2927,7 +2927,7 @@
           "platinumdrill.miningtool.json": 1,
           "platinumpickaxe.miningtool.json": 1,
           "shared_fishaxe.miningtool.json": 1,
-          "silverdrill.miningtool.json": 0,
+          "silverdrill.miningtool.json": 1,
           "silverpickaxe.miningtool.json": 0,
           "superfishaxedrop.miningtool.json": 0
         },
