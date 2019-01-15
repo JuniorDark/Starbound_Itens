@@ -2801,7 +2801,7 @@
         }
       },
       "instruments": {
-        "accordion.instrument.json": 0,
+        "accordion.instrument.json": 1,
         "acousticguitar.instrument.json": 0,
         "banjo.instrument.json": 0,
         "bassguitar.instrument.json": 0,
