@@ -2720,7 +2720,7 @@
           "voxel2k.item.json": 1,
           "voxel5k.item.json": 1,
           "winningticket.item.json": 1,
-          "yellowstim.consumable.json": 0
+          "yellowstim.consumable.json": 1
         },
         "produce": {
           "alienfruit.consumable.json": 0,
