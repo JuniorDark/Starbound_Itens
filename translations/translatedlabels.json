@@ -2689,7 +2689,7 @@
           "burnspray.consumable.json": 1,
           "comedyscript.item.json": 1,
           "dubloon.item.json": 1,
-          "fungusstim.consumable.json": 0,
+          "fungusstim.consumable.json": 1,
           "grassremedy.consumable.json": 0,
           "greenstim.consumable.json": 1,
           "manipulatormodule.item.json": 0,
