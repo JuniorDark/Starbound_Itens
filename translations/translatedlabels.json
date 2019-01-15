@@ -2693,7 +2693,7 @@
           "grassremedy.consumable.json": 1,
           "greenstim.consumable.json": 1,
           "manipulatormodule.item.json": 1,
-          "medkit.consumable.json": 0,
+          "medkit.consumable.json": 1,
           "mysteriousashes.item.json": 0,
           "mysterioustrashbag.item.json": 0,
           "nanowrap.consumable.json": 0,
