@@ -2381,7 +2381,7 @@
           "pinkdye.augment.json": 1,
           "purpledye.augment.json": 1,
           "reddye.augment.json": 1,
-          "whitedye.augment.json": 0,
+          "whitedye.augment.json": 1,
           "yellowdye.augment.json": 0
         },
         "food": {
