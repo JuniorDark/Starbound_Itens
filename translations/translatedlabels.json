@@ -2576,7 +2576,7 @@
           "cookedpoultry.consumable.json": 1,
           "cookedribmeat.consumable.json": 1,
           "cookedtentacle.consumable.json": 1,
-          "rawbacon.consumable.json": 0,
+          "rawbacon.consumable.json": 1,
           "rawfish.consumable.json": 0,
           "rawham.consumable.json": 0,
           "rawpoultry.consumable.json": 0,
