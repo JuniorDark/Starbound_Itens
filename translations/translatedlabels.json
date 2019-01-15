@@ -2377,7 +2377,7 @@
           "dyeremover.augment.json": 1,
           "greendye.augment.json": 1,
           "greydye.augment.json": 1,
-          "orangedye.augment.json": 0,
+          "orangedye.augment.json": 1,
           "pinkdye.augment.json": 0,
           "purpledye.augment.json": 0,
           "reddye.augment.json": 0,
