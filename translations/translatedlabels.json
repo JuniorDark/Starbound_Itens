@@ -2569,7 +2569,7 @@
         },
         "meat": {
           "alienmeat.consumable.json": 1,
-          "cookedalienmeat.consumable.json": 0,
+          "cookedalienmeat.consumable.json": 1,
           "cookedbacon.consumable.json": 0,
           "cookedfish.consumable.json": 0,
           "cookedham.consumable.json": 0,
