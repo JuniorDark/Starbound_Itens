@@ -2709,7 +2709,7 @@
           "soggypaper.item.json": 1,
           "solidfuel.item.json": 1,
           "synthesisstim.consumable.json": 1,
-          "techcard.item.json": 0,
+          "techcard.item.json": 1,
           "translator1.item.json": 0,
           "translator2.item.json": 0,
           "upgrademodule.item.json": 0,
