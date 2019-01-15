@@ -2913,7 +2913,7 @@
           "inspectionmode.inspectiontool.json": 1,
           "scanmode.inspectiontool.json": 1
         },
-        "mininglantern.flashlight.json": 0,
+        "mininglantern.flashlight.json": 1,
         "miningtools": {
           "copperdrill.miningtool.json": 0,
           "copperpickaxe.miningtool.json": 0,
