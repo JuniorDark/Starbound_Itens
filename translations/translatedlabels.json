@@ -2776,7 +2776,7 @@
         },
         "shop": {
           "cannedfood.consumable.json": 1,
-          "cheese.consumable.json": 0,
+          "cheese.consumable.json": 1,
           "chocolate.consumable.json": 0,
           "egg.consumable.json": 0,
           "milk.consumable.json": 0,
