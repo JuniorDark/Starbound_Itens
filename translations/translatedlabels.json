@@ -2907,7 +2907,7 @@
         "waterballoon.thrownitem.json": 0
       },
       "tools": {
-        "chainsaw.harvestingtool.json": 0,
+        "chainsaw.harvestingtool.json": 1,
         "hoe.tillingtool.json": 0,
         "inspectiontool": {
           "inspectionmode.inspectiontool.json": 0,
