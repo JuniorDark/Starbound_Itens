@@ -2718,7 +2718,7 @@
           "voxel10k.item.json": 1,
           "voxel1k.item.json": 1,
           "voxel2k.item.json": 1,
-          "voxel5k.item.json": 0,
+          "voxel5k.item.json": 1,
           "winningticket.item.json": 0,
           "yellowstim.consumable.json": 0
         },
