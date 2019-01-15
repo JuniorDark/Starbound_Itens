@@ -2770,7 +2770,7 @@
           "salvagebody.item.json": 1,
           "salvagebooster.item.json": 1,
           "salvagelegs.item.json": 1,
-          "salvagetier4.item.json": 0,
+          "salvagetier4.item.json": 1,
           "salvagetier5.item.json": 0,
           "salvagetier6.item.json": 0
         },
