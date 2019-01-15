@@ -2680,7 +2680,7 @@
         },
         "other": {
           "antidote.consumable.json": 1,
-          "autochip.item.json": 0,
+          "autochip.item.json": 1,
           "autodrive.item.json": 0,
           "bandage.consumable.json": 0,
           "bluestim.consumable.json": 0,
