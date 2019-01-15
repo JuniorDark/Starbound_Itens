@@ -2698,7 +2698,7 @@
           "mysterioustrashbag.item.json": 1,
           "nanowrap.consumable.json": 1,
           "orangestim.consumable.json": 1,
-          "parcel.item.json": 0,
+          "parcel.item.json": 1,
           "protectorateflyer.item.json": 0,
           "redstim.consumable.json": 1,
           "rottenfood.item.json": 0,
