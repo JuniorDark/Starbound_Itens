@@ -2703,7 +2703,7 @@
           "redstim.consumable.json": 1,
           "rottenfood.item.json": 1,
           "salve.consumable.json": 1,
-          "secretnote.item.json": 0,
+          "secretnote.item.json": 1,
           "sheetmusic.item.json": 0,
           "shroomremedy.consumable.json": 0,
           "soggypaper.item.json": 0,
