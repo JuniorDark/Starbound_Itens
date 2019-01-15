@@ -2691,7 +2691,7 @@
           "dubloon.item.json": 0,
           "fungusstim.consumable.json": 0,
           "grassremedy.consumable.json": 0,
-          "greenstim.consumable.json": 0,
+          "greenstim.consumable.json": 1,
           "manipulatormodule.item.json": 0,
           "medkit.consumable.json": 0,
           "mysteriousashes.item.json": 0,
