@@ -2791,7 +2791,7 @@
           "militarygoods.item.json": 0
         },
         "tradingcards": {
-          "card01.item.json": 0
+          "card01.item.json": 1
         },
         "trophies": {
           "monsterclaw.item.json": 1
