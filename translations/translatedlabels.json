@@ -2711,7 +2711,7 @@
           "synthesisstim.consumable.json": 1,
           "techcard.item.json": 1,
           "translator1.item.json": 1,
-          "translator2.item.json": 0,
+          "translator2.item.json": 1,
           "upgrademodule.item.json": 0,
           "valentinechocolates.consumable.json": 0,
           "vaultkey.item.json": 0,
