@@ -2862,7 +2862,7 @@
       },
       "throwables": {
         "beachball.thrownitem.json": 1,
-        "bomb.thrownitem.json": 0,
+        "bomb.thrownitem.json": 1,
         "bouncyball.thrownitem.json": 0,
         "bowlingball.thrownitem.json": 0,
         "capturepod.thrownitem.json": 0,
