@@ -2861,7 +2861,7 @@
         "shiprepairkit.unlock.json": 1
       },
       "throwables": {
-        "beachball.thrownitem.json": 0,
+        "beachball.thrownitem.json": 1,
         "bomb.thrownitem.json": 0,
         "bouncyball.thrownitem.json": 0,
         "bowlingball.thrownitem.json": 0,
