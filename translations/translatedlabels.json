@@ -2870,7 +2870,7 @@
         "energyjavelin.thrownitem.json": 1,
         "firework.thrownitem.json": 1,
         "fireworkblue.thrownitem.json": 0,
-        "fireworkgreen.thrownitem.json": 0,
+        "fireworkgreen.thrownitem.json": 1,
         "flare.thrownitem.json": 0,
         "flowerygrassseeds.thrownitem.json": 0,
         "glowbomb.thrownitem.json": 0,
