@@ -2876,7 +2876,7 @@
         "glowbomb.thrownitem.json": 1,
         "glowstickblue.thrownitem.json": 1,
         "glowstickgreen.thrownitem.json": 0,
-        "glowstickorange.thrownitem.json": 0,
+        "glowstickorange.thrownitem.json": 1,
         "glowstickyellow.thrownitem.json": 0,
         "grassseeds.thrownitem.json": 0,
         "hivebomb.thrownitem.json": 0,
