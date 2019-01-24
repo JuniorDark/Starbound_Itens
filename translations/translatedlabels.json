@@ -2387,7 +2387,7 @@
         "food": {
           "tier1": {
             "bakedpotato.consumable.json": 1,
-            "boiledpearlpeas.consumable.json": 0,
+            "boiledpearlpeas.consumable.json": 1,
             "boiledrice.consumable.json": 0,
             "bread.consumable.json": 0,
             "cookedtomato.consumable.json": 0,
