@@ -2391,7 +2391,7 @@
             "boiledrice.consumable.json": 1,
             "bread.consumable.json": 1,
             "cookedtomato.consumable.json": 1,
-            "corncob.consumable.json": 0,
+            "corncob.consumable.json": 1,
             "fishdumplings.consumable.json": 0,
             "fishfingers.consumable.json": 0,
             "fishnchips.consumable.json": 0,
