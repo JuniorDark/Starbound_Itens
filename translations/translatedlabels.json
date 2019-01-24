@@ -2889,7 +2889,7 @@
         "petball.thrownitem.json": 1,
         "snowball.thrownitem.json": 1,
         "snowballgigantic.thrownitem.json": 1,
-        "snowballlarge.thrownitem.json": 0,
+        "snowballlarge.thrownitem.json": 1,
         "snowballmedium.thrownitem.json": 1,
         "snowflakeshuriken.thrownitem.json": 0,
         "tarball.thrownitem.json": 0,
