@@ -2410,7 +2410,7 @@
             "toast.consumable.json": 1
           },
           "tier2": {
-            "applecrumble.consumable.json": 0,
+            "applecrumble.consumable.json": 1,
             "baconpancakes.consumable.json": 0,
             "beakseedbread.consumable.json": 0,
             "beakseedjam.consumable.json": 0,
