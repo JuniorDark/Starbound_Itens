@@ -2394,7 +2394,7 @@
             "corncob.consumable.json": 1,
             "fishdumplings.consumable.json": 1,
             "fishfingers.consumable.json": 1,
-            "fishnchips.consumable.json": 0,
+            "fishnchips.consumable.json": 1,
             "fishpie.consumable.json": 0,
             "fishstew.consumable.json": 0,
             "mashedpotato.consumable.json": 0,
