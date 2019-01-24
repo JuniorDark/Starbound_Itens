@@ -2421,7 +2421,7 @@
             "cake.consumable.json": 1,
             "candiedcorn.consumable.json": 1,
             "candyapple.consumable.json": 1,
-            "carrotbread.consumable.json": 0,
+            "carrotbread.consumable.json": 1,
             "carrotcake.consumable.json": 0,
             "carrotjuice.consumable.json": 0,
             "carrotsoup.consumable.json": 0,
