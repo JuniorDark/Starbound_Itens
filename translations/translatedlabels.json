@@ -2411,7 +2411,7 @@
           },
           "tier2": {
             "applecrumble.consumable.json": 1,
-            "baconpancakes.consumable.json": 0,
+            "baconpancakes.consumable.json": 1,
             "beakseedbread.consumable.json": 0,
             "beakseedjam.consumable.json": 0,
             "beakseedtart.consumable.json": 0,
