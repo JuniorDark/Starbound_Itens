@@ -2904,7 +2904,7 @@
         "throwingkunai.thrownitem.json": 1,
         "throwingspear.thrownitem.json": 1,
         "throwingstar.thrownitem.json": 1,
-        "waterballoon.thrownitem.json": 0
+        "waterballoon.thrownitem.json": 1
       },
       "tools": {
         "chainsaw.harvestingtool.json": 1,
