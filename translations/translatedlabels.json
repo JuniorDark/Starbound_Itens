@@ -2396,7 +2396,7 @@
             "fishfingers.consumable.json": 1,
             "fishnchips.consumable.json": 1,
             "fishpie.consumable.json": 1,
-            "fishstew.consumable.json": 0,
+            "fishstew.consumable.json": 1,
             "mashedpotato.consumable.json": 0,
             "meatdumplings.consumable.json": 0,
             "meatpie.consumable.json": 0,
