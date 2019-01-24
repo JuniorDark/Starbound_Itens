@@ -2879,7 +2879,7 @@
         "glowstickorange.thrownitem.json": 1,
         "glowstickyellow.thrownitem.json": 1,
         "grassseeds.thrownitem.json": 1,
-        "hivebomb.thrownitem.json": 0,
+        "hivebomb.thrownitem.json": 1,
         "huntingspear.thrownitem.json": 0,
         "javelin.thrownitem.json": 0,
         "lavaballoon.thrownitem.json": 0,
