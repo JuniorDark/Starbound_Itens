@@ -2403,7 +2403,7 @@
             "meatstew.consumable.json": 1,
             "pearlpeabroth.consumable.json": 1,
             "pearlpearisotto.consumable.json": 1,
-            "popcorn.consumable.json": 0,
+            "popcorn.consumable.json": 1,
             "potatogrids.consumable.json": 0,
             "roastedcarrot.consumable.json": 0,
             "roastedmushrooms.consumable.json": 0,
