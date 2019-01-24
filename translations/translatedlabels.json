@@ -2903,7 +2903,7 @@
         "throwingknife.thrownitem.json": 1,
         "throwingkunai.thrownitem.json": 1,
         "throwingspear.thrownitem.json": 1,
-        "throwingstar.thrownitem.json": 0,
+        "throwingstar.thrownitem.json": 1,
         "waterballoon.thrownitem.json": 0
       },
       "tools": {
