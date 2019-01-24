@@ -2398,7 +2398,7 @@
             "fishpie.consumable.json": 1,
             "fishstew.consumable.json": 1,
             "mashedpotato.consumable.json": 1,
-            "meatdumplings.consumable.json": 0,
+            "meatdumplings.consumable.json": 1,
             "meatpie.consumable.json": 0,
             "meatstew.consumable.json": 0,
             "pearlpeabroth.consumable.json": 0,
