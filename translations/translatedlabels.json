@@ -2407,7 +2407,7 @@
             "potatogrids.consumable.json": 1,
             "roastedcarrot.consumable.json": 1,
             "roastedmushrooms.consumable.json": 1,
-            "toast.consumable.json": 0
+            "toast.consumable.json": 1
           },
           "tier2": {
             "applecrumble.consumable.json": 0,
