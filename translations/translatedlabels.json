@@ -2406,7 +2406,7 @@
             "popcorn.consumable.json": 1,
             "potatogrids.consumable.json": 1,
             "roastedcarrot.consumable.json": 1,
-            "roastedmushrooms.consumable.json": 0,
+            "roastedmushrooms.consumable.json": 1,
             "toast.consumable.json": 0
           },
           "tier2": {
