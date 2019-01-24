@@ -2427,7 +2427,7 @@
             "carrotsoup.consumable.json": 1,
             "cheeseburger.consumable.json": 1,
             "chocolatecake.consumable.json": 1,
-            "coffee.consumable.json": 0,
+            "coffee.consumable.json": 1,
             "coffeecake.consumable.json": 0,
             "cornpeckers.consumable.json": 0,
             "feathercrownjam.consumable.json": 0,
