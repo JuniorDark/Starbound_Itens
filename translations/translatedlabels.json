@@ -2390,7 +2390,7 @@
             "boiledpearlpeas.consumable.json": 1,
             "boiledrice.consumable.json": 1,
             "bread.consumable.json": 1,
-            "cookedtomato.consumable.json": 0,
+            "cookedtomato.consumable.json": 1,
             "corncob.consumable.json": 0,
             "fishdumplings.consumable.json": 0,
             "fishfingers.consumable.json": 0,
