@@ -2463,7 +2463,7 @@
             "tomatosoup.consumable.json": 1
           },
           "tier3": {
-            "2kbpotage.consumable.json": 0,
+            "2kbpotage.consumable.json": 1,
             "apegrapes.consumable.json": 0,
             "apexfritter.consumable.json": 0,
             "automatoshake.consumable.json": 0,
