@@ -2525,7 +2525,7 @@
             "toxicjamdonut.consumable.json": 1,
             "toxicjuice.consumable.json": 1,
             "toxictart.consumable.json": 1,
-            "toxictopjam.consumable.json": 0
+            "toxictopjam.consumable.json": 1
           },
           "tier5": {
             "16GBpasty.consumable.json": 0,
