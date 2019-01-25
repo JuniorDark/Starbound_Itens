@@ -2458,7 +2458,7 @@
             "stickyribs.consumable.json": 1,
             "stuffedtomato.consumable.json": 1,
             "sweetmeat.consumable.json": 1,
-            "sweetpopcorn.consumable.json": 0,
+            "sweetpopcorn.consumable.json": 1,
             "tomatojuice.consumable.json": 0,
             "tomatosoup.consumable.json": 0
           },
