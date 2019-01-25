@@ -2497,7 +2497,7 @@
             "tropicalpunch.consumable.json": 1
           },
           "tier4": {
-            "alienfruitjam.consumable.json": 0,
+            "alienfruitjam.consumable.json": 1,
             "alienfruitjuice.consumable.json": 0,
             "avesmingoicecream.consumable.json": 0,
             "avesmingojuice.consumable.json": 0,
