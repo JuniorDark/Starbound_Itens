@@ -2441,7 +2441,7 @@
             "mocha.consumable.json": 1,
             "mushroombread.consumable.json": 1,
             "mushroomquiche.consumable.json": 1,
-            "mushroomrice.consumable.json": 0,
+            "mushroomrice.consumable.json": 1,
             "omelette.consumable.json": 0,
             "pasty.consumable.json": 0,
             "pearlpeajam.consumable.json": 0,
