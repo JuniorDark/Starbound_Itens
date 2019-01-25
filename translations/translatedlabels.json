@@ -2528,7 +2528,7 @@
             "toxictopjam.consumable.json": 1
           },
           "tier5": {
-            "16GBpasty.consumable.json": 0,
+            "16GBpasty.consumable.json": 1,
             "8gbpizzap.consumable.json": 0,
             "boltos.consumable.json": 0,
             "eggshooticecream.consumable.json": 0,
