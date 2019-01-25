@@ -2524,7 +2524,7 @@
             "sushi.consumable.json": 1,
             "toxicjamdonut.consumable.json": 1,
             "toxicjuice.consumable.json": 1,
-            "toxictart.consumable.json": 0,
+            "toxictart.consumable.json": 1,
             "toxictopjam.consumable.json": 0
           },
           "tier5": {
