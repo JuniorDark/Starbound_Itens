@@ -2460,7 +2460,7 @@
             "sweetmeat.consumable.json": 1,
             "sweetpopcorn.consumable.json": 1,
             "tomatojuice.consumable.json": 1,
-            "tomatosoup.consumable.json": 0
+            "tomatosoup.consumable.json": 1
           },
           "tier3": {
             "2kbpotage.consumable.json": 0,
