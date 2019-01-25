@@ -2488,7 +2488,7 @@
             "pineapplejam.consumable.json": 1,
             "pineapplejuice.consumable.json": 1,
             "pineapplepizzaslice.consumable.json": 1,
-            "snowcone.consumable.json": 0,
+            "snowcone.consumable.json": 1,
             "spookydonut.consumable.json": 0,
             "spookypie.consumable.json": 0,
             "stuffedautomato.consumable.json": 0,
