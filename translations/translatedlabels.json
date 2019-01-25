@@ -2499,7 +2499,7 @@
           "tier4": {
             "alienfruitjam.consumable.json": 1,
             "alienfruitjuice.consumable.json": 1,
-            "avesmingoicecream.consumable.json": 0,
+            "avesmingoicecream.consumable.json": 1,
             "avesmingojuice.consumable.json": 0,
             "bananasplit.consumable.json": 0,
             "bloodypuss.consumable.json": 0,
