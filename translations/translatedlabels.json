@@ -2443,7 +2443,7 @@
             "mushroomquiche.consumable.json": 1,
             "mushroomrice.consumable.json": 1,
             "omelette.consumable.json": 1,
-            "pasty.consumable.json": 0,
+            "pasty.consumable.json": 1,
             "pearlpeajam.consumable.json": 0,
             "pearlpeapancakes.consumable.json": 0,
             "pizza.consumable.json": 0,
