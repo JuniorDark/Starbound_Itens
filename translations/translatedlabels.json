@@ -2493,7 +2493,7 @@
             "spookypie.consumable.json": 1,
             "stuffedautomato.consumable.json": 1,
             "sweetpunch.consumable.json": 1,
-            "thornjuice.consumable.json": 0,
+            "thornjuice.consumable.json": 1,
             "tropicalpunch.consumable.json": 0
           },
           "tier4": {
