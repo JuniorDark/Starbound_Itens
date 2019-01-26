@@ -2598,7 +2598,7 @@
             "mecharmflakcannon.item.json": 1,
             "mecharmgatling.item.json": 1,
             "mecharmgravitymine.item.json": 1,
-            "mecharmguidedmissiles.item.json": 0,
+            "mecharmguidedmissiles.item.json": 1,
             "mecharmheatrifle.item.json": 0,
             "mecharmhomingmissile.item.json": 0,
             "mecharmmissilerack.item.json": 0,
