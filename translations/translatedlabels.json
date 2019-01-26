@@ -2759,7 +2759,7 @@
           "rice.item.json": 1,
           "shroom.item.json": 1,
           "sugar.item.json": 1,
-          "thornfruit.consumable.json": 0,
+          "thornfruit.consumable.json": 1,
           "tomato.consumable.json": 0,
           "toxictop.consumable.json": 0,
           "wartweed.consumable.json": 0,
