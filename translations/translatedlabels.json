@@ -2539,7 +2539,7 @@
             "smash.consumable.json": 1
           },
           "tier6": {
-            "burningeyeballs.consumable.json": 0,
+            "burningeyeballs.consumable.json": 1,
             "coralcreepcurry.consumable.json": 0,
             "hotbone.consumable.json": 0,
             "hothothotpot.consumable.json": 0,
