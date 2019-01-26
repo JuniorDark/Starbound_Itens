@@ -2605,7 +2605,7 @@
             "mecharmmultidrone.item.json": 1,
             "mecharmplasmadrone.item.json": 1,
             "mecharmshielddrone.item.json": 1,
-            "mecharmspikefist.item.json": 0,
+            "mecharmspikefist.item.json": 1,
             "mecharmsplitshot.item.json": 0,
             "mecharmteslastream.item.json": 0,
             "mecharmtommygun.item.json": 0,
