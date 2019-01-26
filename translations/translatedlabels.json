@@ -2729,7 +2729,7 @@
           "banana.consumable.json": 1,
           "beakseed.consumable.json": 1,
           "boltbulb.consumable.json": 1,
-          "boneboo.consumable.json": 0,
+          "boneboo.consumable.json": 1,
           "cacti.item.json": 0,
           "carrot.consumable.json": 0,
           "chili.consumable.json": 0,
