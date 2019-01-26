@@ -2762,7 +2762,7 @@
           "thornfruit.consumable.json": 1,
           "tomato.consumable.json": 1,
           "toxictop.consumable.json": 1,
-          "wartweed.consumable.json": 0,
+          "wartweed.consumable.json": 1,
           "wheat.item.json": 0
         },
         "salvage": {
