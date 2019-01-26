@@ -2763,7 +2763,7 @@
           "tomato.consumable.json": 1,
           "toxictop.consumable.json": 1,
           "wartweed.consumable.json": 1,
-          "wheat.item.json": 0
+          "wheat.item.json": 1
         },
         "salvage": {
           "salvagearm.item.json": 1,
