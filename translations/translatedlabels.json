@@ -2586,7 +2586,7 @@
         "mechparts": {
           "arm": {
             "mecharmbeamdrill.item.json": 1,
-            "mecharmbeamsniper.item.json": 0,
+            "mecharmbeamsniper.item.json": 1,
             "mecharmcannon.item.json": 0,
             "mecharmchainsaw.item.json": 0,
             "mecharmclustermine.item.json": 0,
