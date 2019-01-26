@@ -2760,7 +2760,7 @@
           "shroom.item.json": 1,
           "sugar.item.json": 1,
           "thornfruit.consumable.json": 1,
-          "tomato.consumable.json": 0,
+          "tomato.consumable.json": 1,
           "toxictop.consumable.json": 0,
           "wartweed.consumable.json": 0,
           "wheat.item.json": 0
