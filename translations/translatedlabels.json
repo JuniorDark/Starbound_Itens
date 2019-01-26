@@ -2724,7 +2724,7 @@
         },
         "produce": {
           "alienfruit.consumable.json": 1,
-          "automato.consumable.json": 0,
+          "automato.consumable.json": 1,
           "avesmingo.consumable.json": 0,
           "banana.consumable.json": 0,
           "beakseed.consumable.json": 0,
