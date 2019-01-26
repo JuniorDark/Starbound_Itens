@@ -2609,7 +2609,7 @@
             "mecharmsplitshot.item.json": 1,
             "mecharmteslastream.item.json": 1,
             "mecharmtommygun.item.json": 1,
-            "mecharmwobbleshot.item.json": 0
+            "mecharmwobbleshot.item.json": 1
           },
           "body": {
             "mechbodyapex.item.json": 0,
