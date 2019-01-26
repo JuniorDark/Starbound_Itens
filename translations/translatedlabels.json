@@ -2541,7 +2541,7 @@
           "tier6": {
             "burningeyeballs.consumable.json": 1,
             "coralcreepcurry.consumable.json": 1,
-            "hotbone.consumable.json": 0,
+            "hotbone.consumable.json": 1,
             "hothothotpot.consumable.json": 0,
             "neonmelonjam.consumable.json": 0,
             "pearlpeaparcels.consumable.json": 0,
