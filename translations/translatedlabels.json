@@ -2599,7 +2599,7 @@
             "mecharmgatling.item.json": 1,
             "mecharmgravitymine.item.json": 1,
             "mecharmguidedmissiles.item.json": 1,
-            "mecharmheatrifle.item.json": 0,
+            "mecharmheatrifle.item.json": 1,
             "mecharmhomingmissile.item.json": 0,
             "mecharmmissilerack.item.json": 0,
             "mecharmmultidrone.item.json": 0,
