@@ -2536,7 +2536,7 @@
             "eyebowls.consumable.json": 0,
             "nutsandbolts.consumable.json": 1,
             "piodia.consumable.json": 1,
-            "smash.consumable.json": 0
+            "smash.consumable.json": 1
           },
           "tier6": {
             "burningeyeballs.consumable.json": 0,
