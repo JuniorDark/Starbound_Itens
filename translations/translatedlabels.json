@@ -2592,7 +2592,7 @@
             "mecharmclustermine.item.json": 1,
             "mecharmdespawn.item.json": 1,
             "mecharmdrill.item.json": 1,
-            "mecharmdualrifle.item.json": 0,
+            "mecharmdualrifle.item.json": 1,
             "mecharmenergyblade.item.json": 0,
             "mecharmenergyrifle.item.json": 0,
             "mecharmflakcannon.item.json": 0,
