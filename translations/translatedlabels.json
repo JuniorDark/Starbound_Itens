@@ -2595,7 +2595,7 @@
             "mecharmdualrifle.item.json": 1,
             "mecharmenergyblade.item.json": 1,
             "mecharmenergyrifle.item.json": 1,
-            "mecharmflakcannon.item.json": 0,
+            "mecharmflakcannon.item.json": 1,
             "mecharmgatling.item.json": 0,
             "mecharmgravitymine.item.json": 0,
             "mecharmguidedmissiles.item.json": 0,
