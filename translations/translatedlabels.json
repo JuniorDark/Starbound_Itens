@@ -2733,7 +2733,7 @@
           "cacti.item.json": 1,
           "carrot.consumable.json": 1,
           "chili.consumable.json": 1,
-          "cocoa.item.json": 0,
+          "cocoa.item.json": 1,
           "coffeebeans.consumable.json": 0,
           "coralcreep.consumable.json": 0,
           "corn.consumable.json": 0,
