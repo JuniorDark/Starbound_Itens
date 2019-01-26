@@ -2757,7 +2757,7 @@
           "redapple.consumable.json": 1,
           "reefpod.consumable.json": 1,
           "rice.item.json": 1,
-          "shroom.item.json": 0,
+          "shroom.item.json": 1,
           "sugar.item.json": 0,
           "thornfruit.consumable.json": 0,
           "tomato.consumable.json": 0,
