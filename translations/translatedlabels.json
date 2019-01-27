@@ -2648,7 +2648,7 @@
             "mechboostersimple.item.json": 1,
             "mechboostersleek.item.json": 1,
             "mechboosterstalwart.item.json": 1,
-            "mechboosterzed.item.json": 0,
+            "mechboosterzed.item.json": 1,
             "mechboosterzero.item.json": 0
           },
           "horn": {
