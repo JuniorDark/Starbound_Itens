@@ -2819,7 +2819,7 @@
         "leadguitar.instrument.json": 1,
         "microphone.instrument.json": 1,
         "microphonefem.instrument.json": 1,
-        "musicbox.instrument.json": 0,
+        "musicbox.instrument.json": 1,
         "nylonguitar.instrument.json": 0,
         "oboe.instrument.json": 0,
         "ocarina.instrument.json": 0,
