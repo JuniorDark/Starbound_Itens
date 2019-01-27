@@ -2976,7 +2976,7 @@
       "shared_composite01.mat.json": 1,
       "shared_concrete.mat.json": 1,
       "shared_copperblock.mat.json": 1,
-      "shared_copperfence.mat.json": 0,
+      "shared_copperfence.mat.json": 1,
       "shared_copperroofing.mat.json": 0,
       "shared_copperwindow.mat.json": 0,
       "shared_corruptdirt.mat.json": 0,
