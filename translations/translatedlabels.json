@@ -2638,7 +2638,7 @@
             "mechbodypirate.item.json": 1,
             "mechbodyprotector.item.json": 1,
             "mechbodyreactor.item.json": 1,
-            "mechbodyshark.item.json": 0,
+            "mechbodyshark.item.json": 1,
             "mechbodyskull.item.json": 0
           },
           "booster": {
