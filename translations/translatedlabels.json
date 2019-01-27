@@ -2649,7 +2649,7 @@
             "mechboostersleek.item.json": 1,
             "mechboosterstalwart.item.json": 1,
             "mechboosterzed.item.json": 1,
-            "mechboosterzero.item.json": 0
+            "mechboosterzero.item.json": 1
           },
           "horn": {
             "mechhornairhorn.item.json": 0,
