@@ -2653,7 +2653,7 @@
           },
           "horn": {
             "mechhornairhorn.item.json": 1,
-            "mechhornbikebell.item.json": 0,
+            "mechhornbikebell.item.json": 1,
             "mechhornbull.item.json": 0,
             "mechhorncharge.item.json": 0,
             "mechhornclownhorn.item.json": 0,
