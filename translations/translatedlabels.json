@@ -2644,7 +2644,7 @@
           "booster": {
             "mechboosterastro.item.json": 1,
             "mechboostergallant.item.json": 1,
-            "mechboosterhammer.item.json": 0,
+            "mechboosterhammer.item.json": 1,
             "mechboostersimple.item.json": 0,
             "mechboostersleek.item.json": 0,
             "mechboosterstalwart.item.json": 0,
