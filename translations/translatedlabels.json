@@ -2939,7 +2939,7 @@
     "items.json": 1,
     "materials": {
       "shared_.mat.json": 1,
-      "shared_alienrock.mat.json": 0,
+      "shared_alienrock.mat.json": 1,
       "shared_ancientblock.mat.json": 0,
       "shared_ancientbrick.mat.json": 0,
       "shared_apexshipdetails.mat.json": 0,
