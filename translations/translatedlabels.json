@@ -3026,7 +3026,7 @@
       "shared_metallic.mat.json": 1,
       "shared_meteoriterock.mat.json": 1,
       "shared_mirror.mat.json": 1,
-      "shared_moondust.mat.json": 0,
+      "shared_moondust.mat.json": 1,
       "shared_moonrock.mat.json": 0,
       "shared_moonstone.mat.json": 0,
       "shared_mossypackeddirt.mat.json": 0,
