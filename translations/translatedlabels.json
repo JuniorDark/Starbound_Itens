@@ -2995,7 +2995,7 @@
       "shared_fleshblock.mat.json": 1,
       "shared_floweryblock.mat.json": 1,
       "shared_frozendirt.mat.json": 1,
-      "shared_frozenwater.mat.json": 0,
+      "shared_frozenwater.mat.json": 1,
       "shared_fullwood1.mat.json": 0,
       "shared_fullwood2.mat.json": 0,
       "shared_geodeblock.mat.json": 0,
