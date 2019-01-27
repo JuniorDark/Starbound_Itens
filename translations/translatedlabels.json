@@ -2829,7 +2829,7 @@
         "rockorgan.instrument.json": 1,
         "saxophone.instrument.json": 1,
         "spaceorgan.instrument.json": 1,
-        "squareorgan.instrument.json": 0,
+        "squareorgan.instrument.json": 1,
         "steeldrum.instrument.json": 0,
         "trumpet.instrument.json": 0,
         "violin.instrument.json": 0
