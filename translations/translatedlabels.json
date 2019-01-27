@@ -2652,7 +2652,7 @@
             "mechboosterzero.item.json": 1
           },
           "horn": {
-            "mechhornairhorn.item.json": 0,
+            "mechhornairhorn.item.json": 1,
             "mechhornbikebell.item.json": 0,
             "mechhornbull.item.json": 0,
             "mechhorncharge.item.json": 0,
