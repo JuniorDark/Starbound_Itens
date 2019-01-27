@@ -2639,7 +2639,7 @@
             "mechbodyprotector.item.json": 1,
             "mechbodyreactor.item.json": 1,
             "mechbodyshark.item.json": 1,
-            "mechbodyskull.item.json": 0
+            "mechbodyskull.item.json": 1
           },
           "booster": {
             "mechboosterastro.item.json": 0,
