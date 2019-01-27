@@ -3060,7 +3060,7 @@
       "shared_rockbrick.mat.json": 1,
       "shared_rooftiles.mat.json": 1,
       "shared_rustyblock.mat.json": 1,
-      "shared_rustymetal.mat.json": 0,
+      "shared_rustymetal.mat.json": 1,
       "shared_sand.mat.json": 0,
       "shared_sand2.mat.json": 0,
       "shared_sandstone.json": 0,
