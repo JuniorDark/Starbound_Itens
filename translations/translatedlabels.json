@@ -2674,7 +2674,7 @@
             "mechlegsintrepid.item.json": 1,
             "mechlegsronin.item.json": 1,
             "mechlegssimple.item.json": 1,
-            "mechlegssleek.item.json": 0,
+            "mechlegssleek.item.json": 1,
             "mechlegstwinjet.item.json": 0
           }
         },
