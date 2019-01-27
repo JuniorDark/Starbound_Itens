@@ -3023,7 +3023,7 @@
       "shared_lunarbaseblock.mat.json": 1,
       "shared_magmarock.mat.json": 1,
       "shared_mediummetal.mat.json": 1,
-      "shared_metallic.mat.json": 0,
+      "shared_metallic.mat.json": 1,
       "shared_meteoriterock.mat.json": 0,
       "shared_mirror.mat.json": 0,
       "shared_moondust.mat.json": 0,
