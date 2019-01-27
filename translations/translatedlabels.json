@@ -2831,7 +2831,7 @@
         "spaceorgan.instrument.json": 1,
         "squareorgan.instrument.json": 1,
         "steeldrum.instrument.json": 1,
-        "trumpet.instrument.json": 0,
+        "trumpet.instrument.json": 1,
         "violin.instrument.json": 0
       },
       "liquids": {
