@@ -2614,7 +2614,7 @@
           "body": {
             "mechbodyapex.item.json": 1,
             "mechbodyapexproto.item.json": 1,
-            "mechbodyavian.item.json": 0,
+            "mechbodyavian.item.json": 1,
             "mechbodyavianproto.item.json": 0,
             "mechbodybad.item.json": 0,
             "mechbodycultist.item.json": 0,
