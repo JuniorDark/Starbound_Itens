@@ -2814,7 +2814,7 @@
         "flute.instrument.json": 1,
         "harmonica.instrument.json": 1,
         "harp.instrument.json": 1,
-        "keyboard.instrument.json": 0,
+        "keyboard.instrument.json": 1,
         "koto.instrument.json": 0,
         "leadguitar.instrument.json": 0,
         "microphone.instrument.json": 0,
