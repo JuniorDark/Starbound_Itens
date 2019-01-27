@@ -2669,7 +2669,7 @@
           },
           "legs": {
             "mechlegsarc.item.json": 1,
-            "mechlegshermes.item.json": 0,
+            "mechlegshermes.item.json": 1,
             "mechlegshopper.item.json": 0,
             "mechlegsintrepid.item.json": 0,
             "mechlegsronin.item.json": 0,
