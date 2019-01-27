@@ -2823,7 +2823,7 @@
         "nylonguitar.instrument.json": 1,
         "oboe.instrument.json": 1,
         "ocarina.instrument.json": 1,
-        "overdriveguitar.instrument.json": 0,
+        "overdriveguitar.instrument.json": 1,
         "piano.instrument.json": 0,
         "reedorgan.instrument.json": 0,
         "rockorgan.instrument.json": 0,
