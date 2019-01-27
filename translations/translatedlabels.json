@@ -2826,7 +2826,7 @@
         "overdriveguitar.instrument.json": 1,
         "piano.instrument.json": 1,
         "reedorgan.instrument.json": 1,
-        "rockorgan.instrument.json": 0,
+        "rockorgan.instrument.json": 1,
         "saxophone.instrument.json": 0,
         "spaceorgan.instrument.json": 0,
         "squareorgan.instrument.json": 0,
