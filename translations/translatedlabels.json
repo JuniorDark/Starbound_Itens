@@ -2654,7 +2654,7 @@
           "horn": {
             "mechhornairhorn.item.json": 1,
             "mechhornbikebell.item.json": 1,
-            "mechhornbull.item.json": 0,
+            "mechhornbull.item.json": 1,
             "mechhorncharge.item.json": 0,
             "mechhornclownhorn.item.json": 0,
             "mechhornfoghorn.item.json": 0,
