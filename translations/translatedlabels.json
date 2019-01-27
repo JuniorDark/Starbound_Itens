@@ -2808,7 +2808,7 @@
         "bones.instrument.json": 1,
         "brightpiano.instrument.json": 1,
         "clarinet.instrument.json": 1,
-        "drumkit.instrument.json": 0,
+        "drumkit.instrument.json": 1,
         "dulcimer.instrument.json": 0,
         "electricbass.instrument.json": 0,
         "flute.instrument.json": 0,
