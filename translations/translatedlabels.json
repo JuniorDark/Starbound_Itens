@@ -2818,7 +2818,7 @@
         "koto.instrument.json": 1,
         "leadguitar.instrument.json": 1,
         "microphone.instrument.json": 1,
-        "microphonefem.instrument.json": 0,
+        "microphonefem.instrument.json": 1,
         "musicbox.instrument.json": 0,
         "nylonguitar.instrument.json": 0,
         "oboe.instrument.json": 0,
