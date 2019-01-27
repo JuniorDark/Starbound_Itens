@@ -3049,7 +3049,7 @@
       "shared_plate.mat.json": 1,
       "shared_platinumblock.mat.json": 1,
       "shared_pressurisedbeam.mat.json": 1,
-      "shared_pressuriseddurasteel.mat.json": 0,
+      "shared_pressuriseddurasteel.mat.json": 1,
       "shared_pressurisedgirder.mat.json": 0,
       "shared_purplecrystal.mat.json": 0,
       "shared_rainbowwoodblock.mat.json": 0,
