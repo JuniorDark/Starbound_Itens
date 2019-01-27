@@ -2811,7 +2811,7 @@
         "drumkit.instrument.json": 1,
         "dulcimer.instrument.json": 1,
         "electricbass.instrument.json": 1,
-        "flute.instrument.json": 0,
+        "flute.instrument.json": 1,
         "harmonica.instrument.json": 0,
         "harp.instrument.json": 0,
         "keyboard.instrument.json": 0,
