@@ -2622,7 +2622,7 @@
             "mechbodyexodus.item.json": 1,
             "mechbodyfloran.item.json": 1,
             "mechbodyfloranproto.item.json": 1,
-            "mechbodyglitch.item.json": 0,
+            "mechbodyglitch.item.json": 1,
             "mechbodyglitchproto.item.json": 0,
             "mechbodyhero.item.json": 0,
             "mechbodyhuman.item.json": 0,
