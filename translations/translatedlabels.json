@@ -2830,7 +2830,7 @@
         "saxophone.instrument.json": 1,
         "spaceorgan.instrument.json": 1,
         "squareorgan.instrument.json": 1,
-        "steeldrum.instrument.json": 0,
+        "steeldrum.instrument.json": 1,
         "trumpet.instrument.json": 0,
         "violin.instrument.json": 0
       },
