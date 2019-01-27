@@ -2664,7 +2664,7 @@
             "mechhornsportshorn.item.json": 1,
             "mechhornsteamwhistle.item.json": 1,
             "mechhorntoy.item.json": 1,
-            "mechhorntrain.item.json": 0,
+            "mechhorntrain.item.json": 1,
             "mechhorntruck.item.json": 0
           },
           "legs": {
