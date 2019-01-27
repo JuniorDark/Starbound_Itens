@@ -2642,7 +2642,7 @@
             "mechbodyskull.item.json": 1
           },
           "booster": {
-            "mechboosterastro.item.json": 0,
+            "mechboosterastro.item.json": 1,
             "mechboostergallant.item.json": 0,
             "mechboosterhammer.item.json": 0,
             "mechboostersimple.item.json": 0,
