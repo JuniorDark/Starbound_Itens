@@ -3046,7 +3046,7 @@
       "shared_pillarblock.mat.json": 1,
       "shared_plantblock.mat.json": 1,
       "shared_plantmatter.mat.json": 1,
-      "shared_plate.mat.json": 0,
+      "shared_plate.mat.json": 1,
       "shared_platinumblock.mat.json": 0,
       "shared_pressurisedbeam.mat.json": 0,
       "shared_pressuriseddurasteel.mat.json": 0,
