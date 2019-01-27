@@ -2828,7 +2828,7 @@
         "reedorgan.instrument.json": 1,
         "rockorgan.instrument.json": 1,
         "saxophone.instrument.json": 1,
-        "spaceorgan.instrument.json": 0,
+        "spaceorgan.instrument.json": 1,
         "squareorgan.instrument.json": 0,
         "steeldrum.instrument.json": 0,
         "trumpet.instrument.json": 0,
