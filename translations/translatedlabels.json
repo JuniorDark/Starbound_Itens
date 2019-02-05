@@ -10067,7 +10067,7 @@
         },
         "ground": {
           "algae": {
-            "algae.bush.json": 0
+            "algae.bush.json": 1
           },
           "alpinestone": {
             "alpinestone.bush.json": 0
