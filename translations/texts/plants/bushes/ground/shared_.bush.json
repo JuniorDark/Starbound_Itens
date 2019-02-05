@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A shrub."
+      "Eng": "A shrub.",
+      "Por": "Um arbusto."
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Flowery."
+      "Eng": "Flowery.",
+      "Por": "Florido."
     }
   },
   {
@@ -41,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The bones of a long-dead creature."
+      "Eng": "The bones of a long-dead creature.",
+      "Por": "Os ossos de uma criatura morta há muito tempo."
     }
   }
 ]
