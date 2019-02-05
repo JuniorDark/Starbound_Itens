@@ -10379,7 +10379,7 @@
               "toxicplains.grass.json": 1
             },
             "weedy": {
-              "weedy.grass.json": 0
+              "weedy.grass.json": 1
             }
           },
           "drop": {
