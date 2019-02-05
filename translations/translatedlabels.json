@@ -10193,7 +10193,7 @@
         }
       },
       "ceiling": {
-        "shared_ceiling.json": 0
+        "shared_ceiling.json": 1
       },
       "grass": {
         "ceiling": {
