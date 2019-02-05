@@ -10217,7 +10217,7 @@
               "ceilingnest.grass.json": 1
             },
             "ceilingsnow": {
-              "ceilingsnow.grass.json": 0
+              "ceilingsnow.grass.json": 1
             },
             "glowceiling": {
               "glowceiling.grass.json": 0
