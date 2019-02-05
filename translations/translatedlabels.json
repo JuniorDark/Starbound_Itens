@@ -10062,7 +10062,7 @@
             "ceilingwicked.bush.json": 1
           },
           "shared_ceiling": {
-            "shared_ceiling.json": 0
+            "shared_ceiling.json": 1
           }
         },
         "ground": {
