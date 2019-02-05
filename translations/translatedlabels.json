@@ -10384,7 +10384,7 @@
           },
           "drop": {
             "eyeplant": {
-              "eyeplant.grass.json": 0
+              "eyeplant.grass.json": 1
             },
             "floatingcrystal": {
               "floatingcrystal.grass.json": 0
