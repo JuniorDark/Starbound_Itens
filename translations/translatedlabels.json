@@ -10167,7 +10167,7 @@
             "testbush2.bush.json": 1
           },
           "thorns": {
-            "thorns.bush.json": 0
+            "thorns.bush.json": 1
           },
           "toxic": {
             "toxiccreep.bush.json": 0
