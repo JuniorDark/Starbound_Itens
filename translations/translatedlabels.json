@@ -10182,7 +10182,7 @@
             "coral.bush.json": 1,
             "oshroom.bush.json": 1,
             "seagrass.bush.json": 1,
-            "seaweed.bush.json": 0
+            "seaweed.bush.json": 1
           },
           "toxicseabush": {
             "toxiccone.bush.json": 0,
