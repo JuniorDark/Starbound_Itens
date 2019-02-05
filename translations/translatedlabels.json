@@ -10007,7 +10007,7 @@
     "plants": {
       "bushes": {
         "alien": {
-          "alienbush.bush.json": 0
+          "alienbush.bush.json": 1
         },
         "ceiling": {
           "ceilingarchrock": {
