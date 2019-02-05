@@ -10179,7 +10179,7 @@
         "groundocean": {
           "seabush": {
             "cone.bush.json": 1,
-            "coral.bush.json": 0,
+            "coral.bush.json": 1,
             "oshroom.bush.json": 0,
             "seagrass.bush.json": 0,
             "seaweed.bush.json": 0
