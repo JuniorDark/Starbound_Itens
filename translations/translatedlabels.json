@@ -10185,7 +10185,7 @@
             "seaweed.bush.json": 1
           },
           "toxicseabush": {
-            "toxiccone.bush.json": 0,
+            "toxiccone.bush.json": 1,
             "toxiccoral.bush.json": 0,
             "toxicoshroom.bush.json": 0,
             "toxicseagrass.bush.json": 0
