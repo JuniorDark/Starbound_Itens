@@ -10223,7 +10223,7 @@
               "glowceiling.grass.json": 1
             },
             "shared_ceilingweed": {
-              "shared_ceilingweed.json": 0
+              "shared_ceilingweed.json": 1
             }
           }
         },
