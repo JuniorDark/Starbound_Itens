@@ -10059,7 +10059,7 @@
             "ceilingthinspiral.bush.json": 1
           },
           "ceilingwicked": {
-            "ceilingwicked.bush.json": 0
+            "ceilingwicked.bush.json": 1
           },
           "shared_ceiling": {
             "shared_ceiling.json": 0
