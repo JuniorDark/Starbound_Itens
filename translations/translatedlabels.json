@@ -10235,7 +10235,7 @@
             "shared_fleshplant.grass.json": 1
           },
           "shared_handlike": {
-            "shared_handlike.grass.json": 0
+            "shared_handlike.grass.json": 1
           }
         },
         "ground": {
