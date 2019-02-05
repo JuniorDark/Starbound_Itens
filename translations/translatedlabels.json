@@ -10331,7 +10331,7 @@
               "shared_waterplant.json": 1
             },
             "signplant": {
-              "signplant.grass.json": 0
+              "signplant.grass.json": 1
             },
             "skeletonflower": {
               "skeletonflower.grass.json": 0
