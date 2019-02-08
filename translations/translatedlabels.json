@@ -9003,7 +9003,7 @@
       "shared_liquidsensor": {
         "shared_liquidsensor.object.json": 1
       },
-      "shared_root.json": 0,
+      "shared_root.json": 1,
       "shared_sink": {
         "shared_sink.object.json": 0
       },
