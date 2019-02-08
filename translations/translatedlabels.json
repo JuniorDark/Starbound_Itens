@@ -2111,7 +2111,7 @@
           },
           "protectorateuniform": {
             "protectorate.chest.json": 1,
-            "protectorate.legs.json": 0
+            "protectorate.legs.json": 1
           },
           "protectoratevest": {
             "protectoratevest.chest.json": 0
