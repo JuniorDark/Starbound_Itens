@@ -8987,7 +8987,7 @@
           "railtramstop.object.json": 0
         }
       },
-      "shared_.object.json": 0,
+      "shared_.object.json": 1,
       "shared_cabinet": {
         "shared_cabinet.json": 0
       },
