@@ -8998,7 +8998,7 @@
         "shared_generator.object.json": 1
       },
       "shared_light": {
-        "shared_light.object.json": 0
+        "shared_light.object.json": 1
       },
       "shared_liquidsensor": {
         "shared_liquidsensor.object.json": 0
