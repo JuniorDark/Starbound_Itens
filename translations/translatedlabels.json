@@ -2117,7 +2117,7 @@
             "protectoratevest.chest.json": 1
           },
           "raggedprotectoratecape": {
-            "raggedprotectoratecape.back.json": 0
+            "raggedprotectoratecape.back.json": 1
           }
         }
       },
