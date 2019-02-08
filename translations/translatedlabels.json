@@ -2210,7 +2210,7 @@
           "hylotlfossil2.item.json": 1,
           "hylotlfossil3.item.json": 1,
           "mysteriousfossil1.item.json": 1,
-          "mysteriousfossil2.item.json": 0,
+          "mysteriousfossil2.item.json": 1,
           "mysteriousfossil3.item.json": 0
         },
         "large": {
