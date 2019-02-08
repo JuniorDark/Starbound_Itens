@@ -2114,7 +2114,7 @@
             "protectorate.legs.json": 1
           },
           "protectoratevest": {
-            "protectoratevest.chest.json": 0
+            "protectoratevest.chest.json": 1
           },
           "raggedprotectoratecape": {
             "raggedprotectoratecape.back.json": 0
