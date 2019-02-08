@@ -2237,7 +2237,7 @@
           }
         },
         "small": {
-          "amberfossil.item.json": 0,
+          "amberfossil.item.json": 1,
           "ammonitefossil.item.json": 0,
           "eggfossil.item.json": 0,
           "fernfossil.item.json": 0,
