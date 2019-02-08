@@ -2241,7 +2241,7 @@
           "ammonitefossil.item.json": 1,
           "eggfossil.item.json": 1,
           "fernfossil.item.json": 1,
-          "fishfossil.item.json": 0,
+          "fishfossil.item.json": 1,
           "mysteriousalienfossil.item.json": 0,
           "penguinfossil.item.json": 0,
           "sabertoothfossil.item.json": 0,
