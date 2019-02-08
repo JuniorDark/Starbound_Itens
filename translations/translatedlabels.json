@@ -2184,7 +2184,7 @@
       "fossils": {
         "humanoid": {
           "alpacafossil1.item.json": 1,
-          "alpacafossil2.item.json": 0,
+          "alpacafossil2.item.json": 1,
           "alpacafossil3.item.json": 0,
           "apexfossil1.item.json": 0,
           "apexfossil2.item.json": 0,
