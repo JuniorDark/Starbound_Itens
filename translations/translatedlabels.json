@@ -2107,7 +2107,7 @@
         },
         "protectorate": {
           "protectorateshirt": {
-            "protectorateshirt.chest.json": 0
+            "protectorateshirt.chest.json": 1
           },
           "protectorateuniform": {
             "protectorate.chest.json": 0,
