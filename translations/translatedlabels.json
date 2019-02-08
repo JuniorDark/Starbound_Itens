@@ -2245,7 +2245,7 @@
           "mysteriousalienfossil.item.json": 1,
           "penguinfossil.item.json": 1,
           "sabertoothfossil.item.json": 1,
-          "trackfossil.item.json": 0,
+          "trackfossil.item.json": 1,
           "trilobitefossil.item.json": 0
         }
       },
