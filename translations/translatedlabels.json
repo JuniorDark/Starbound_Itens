@@ -9005,7 +9005,7 @@
       },
       "shared_root.json": 1,
       "shared_sink": {
-        "shared_sink.object.json": 0
+        "shared_sink.object.json": 1
       },
       "shared_smoke": {
         "shared_.object.json": 0
