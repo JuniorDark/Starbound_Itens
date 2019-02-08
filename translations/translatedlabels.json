@@ -2110,7 +2110,7 @@
             "protectorateshirt.chest.json": 1
           },
           "protectorateuniform": {
-            "protectorate.chest.json": 0,
+            "protectorate.chest.json": 1,
             "protectorate.legs.json": 0
           },
           "protectoratevest": {
