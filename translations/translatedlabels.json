@@ -526,7 +526,7 @@
           },
           "apex-tier6manipulator": {
             "apextier6manipulator.chest.json": 1,
-            "apextier6manipulator.head.json": 0,
+            "apextier6manipulator.head.json": 1,
             "apextier6manipulator.legs.json": 0
           },
           "apex-tier6separator": {
