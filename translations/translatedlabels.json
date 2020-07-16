@@ -561,7 +561,7 @@
             "aviancommoner.legs.json": 1
           },
           "avian-fancy": {
-            "avianfancy.chest.json": 0,
+            "avianfancy.chest.json": 1,
             "avianfancy.legs.json": 0
           },
           "avian-tier1": {
