@@ -539,7 +539,7 @@
             "apexcommander.legs.json": 1
           },
           "apexnavy": {
-            "apexnavy.chest.json": 0,
+            "apexnavy.chest.json": 1,
             "apexnavy.legs.json": 0
           },
           "apexofficer": {
