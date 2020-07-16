@@ -535,7 +535,7 @@
             "apextier6separator.legs.json": 1
           },
           "apexcommander": {
-            "apexcommander.chest.json": 0,
+            "apexcommander.chest.json": 1,
             "apexcommander.legs.json": 0
           },
           "apexnavy": {
