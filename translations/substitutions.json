@@ -5,11 +5,41 @@
   "items/active/unsorted/filledcapturepod/npcpetcapturepod.activeitem": {
     "/shortdescription": "texts/items/active/unsorted/filledcapturepod/shared_capturepod.activeitem.json"
   },
+  "items/active/unsorted/laserminer/laserminer.activeitem": {
+    "/shortdescription": "texts/shared_laser.json"
+  },
+  "items/active/weapons/melee/broadsword/commonbroadsword.activeitem": {
+    "/shortdescription": "texts/items/active/weapons/melee/broadsword/shared_broadsword.activeitem.json"
+  },
+  "items/active/weapons/melee/broadsword/gangbroadsword.activeitem": {
+    "/shortdescription": "texts/items/active/weapons/melee/broadsword/shared_broadsword.activeitem.json"
+  },
   "items/active/weapons/other/nurusspear/nurusspear.activeitem": {
     "/shortdescription": "texts/items/active/weapons/other/nurusspear/shared_.activeitem.json"
   },
   "items/active/weapons/other/nurusspear/nurusspearmelee.activeitem": {
     "/shortdescription": "texts/items/active/weapons/other/nurusspear/shared_.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neomagnum/neomagnum1.activeitem": {
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/shared_neo/shared_.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neopistol/neopistol.activeitem": {
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/neopistol/shared_neopistol.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neopistol/npcneopistol.activeitem": {
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/neopistol/shared_neopistol.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neoshotgun/npcneoshotgun.activeitem": {
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/shared_neo/shared_.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neotommygun/npcneotommygun.activeitem": {
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/shared_neo/shared_.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neouzi/neouzi.activeitem": {
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/neouzi/shared_neouzi.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neouzi/npcneouzi.activeitem": {
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/neouzi/shared_neouzi.activeitem.json"
   },
   "items/armors/backitems/toxicwaste/toxicwaste.back": {
     "/shortdescription": "texts/items/shared_toxicwaste.json"
@@ -446,6 +476,9 @@
   "items/materials/platinumblock.matitem": {
     "/shortdescription": "texts/materials/shared_platinumblock.mat.json"
   },
+  "items/materials/polygonplatform.matitem": {
+    "/shortdescription": "texts/shared_polygonplatform.mat.json"
+  },
   "items/materials/pressurisedbeam.matitem": {
     "/shortdescription": "texts/materials/shared_pressurisedbeam.mat.json"
   },
@@ -565,6 +598,9 @@
   },
   "items/materials/slime.matitem": {
     "/shortdescription": "texts/materials/shared_slime.mat.json"
+  },
+  "items/materials/slopedglasspanel.matitem": {
+    "/shortdescription": "texts/materials/shared_slopedglasspanel.mat.json"
   },
   "items/materials/slopedhullpanel.matitem": {
     "/shortdescription": "texts/materials/shared_slopedhullpanel.mat.json"
@@ -1601,6 +1637,12 @@
   "objects/biome/zen/zenrock5/zenrock5.object": {
     "/shortdescription": "texts/objects/biome/zen/shared_zenrock/shared_zenrock.json"
   },
+  "objects/cultist/cultistairlockdoor/cultistairlockbossdoor.object": {
+    "/shortdescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json"
+  },
+  "objects/cultist/cultistairlockdoor/cultistairlockdoor.object": {
+    "/shortdescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json"
+  },
   "objects/farmables/automato/automatoseed.object": {
     "/shortdescription": "texts/objects/farmables/automato/shared_automatoseed.object.json"
   },
@@ -1958,6 +2000,9 @@
   "objects/hylotl/hylotlliquidsensor/hylotlliquidsensor.object": {
     "/shortdescription": "texts/objects/shared_liquidsensor/shared_liquidsensor.object.json"
   },
+  "objects/mission/lunarbaselaser/lunarbaselaser.object": {
+    "/shortdescription": "texts/shared_laser.json"
+  },
   "objects/mission/root1/root1.object": {
     "/shortdescription": "texts/objects/shared_root.json"
   },
@@ -2197,6 +2242,18 @@
   },
   "objects/outpost/watercooler/watercooler.object": {
     "/shortdescription": "texts/objects/shared_water/shared_.object.json"
+  },
+  "objects/peacekeeper/peacekeeperstore/peacekeeperstore1.object": {
+    "/shortdescription": "texts/objects/peacekeeper/peacekeeperstore/shared_peacekeeperstore.json"
+  },
+  "objects/peacekeeper/peacekeeperstore/peacekeeperstore2.object": {
+    "/shortdescription": "texts/objects/peacekeeper/peacekeeperstore/shared_peacekeeperstore.json"
+  },
+  "objects/peacekeeper/peacekeeperstore/peacekeeperstore3.object": {
+    "/shortdescription": "texts/objects/peacekeeper/peacekeeperstore/shared_peacekeeperstore.json"
+  },
+  "objects/peacekeeper/peacekeeperstore/peacekeeperstore4.object": {
+    "/shortdescription": "texts/objects/peacekeeper/peacekeeperstore/shared_peacekeeperstore.json"
   },
   "objects/protectorate/00/00back.object": {
     "/shortdescription": "texts/objects/protectorate/shared_back.object.json"
@@ -3371,6 +3428,9 @@
   "tiles/materials/slime.material": {
     "/shortdescription": "texts/materials/shared_slime.mat.json"
   },
+  "tiles/materials/slopedglasspanel.material": {
+    "/shortdescription": "texts/materials/shared_slopedglasspanel.mat.json"
+  },
   "tiles/materials/slopedhullpanel.material": {
     "/shortdescription": "texts/materials/shared_slopedhullpanel.mat.json"
   },
@@ -3517,6 +3577,9 @@
   },
   "tiles/platforms/platform2.material": {
     "/shortdescription": "texts/shared_platform.json"
+  },
+  "tiles/platforms/polygonplatform.material": {
+    "/shortdescription": "texts/shared_polygonplatform.mat.json"
   },
   "tiles/platforms/pressurisedplatform.material": {
     "/shortdescription": "texts/shared_pressurisedplatform.mat.json"

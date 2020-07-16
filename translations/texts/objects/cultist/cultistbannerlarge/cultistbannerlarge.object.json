@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/cultist/cultistbannerlarge/cultistbannerlarge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cultist Banner"
+    }
+  }
+]

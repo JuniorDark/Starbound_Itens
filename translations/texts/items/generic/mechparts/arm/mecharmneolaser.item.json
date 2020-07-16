@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmneolaser.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neo Laser Mech Arm"
+    }
+  }
+]

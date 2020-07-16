@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/slopedpolygon.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Polygon Panel"
+    }
+  }
+]

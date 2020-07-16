@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostpeacekeeperposter/outpostpeacekeeperposter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peacekeeper Poster"
+    }
+  }
+]

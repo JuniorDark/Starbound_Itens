@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/darkcomputer/darkcomputer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Computer"
+    }
+  }
+]

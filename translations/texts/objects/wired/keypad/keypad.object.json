@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/keypad/keypad.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Numeric Keypad"
+    }
+  }
+]

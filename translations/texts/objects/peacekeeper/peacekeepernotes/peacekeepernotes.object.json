@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/peacekeeper/peacekeepernotes/peacekeepernotes.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peacekeeper Notes"
+    }
+  }
+]

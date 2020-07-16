@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/hangingguardian/hangingguardian.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hanging Guardian"
+    }
+  }
+]

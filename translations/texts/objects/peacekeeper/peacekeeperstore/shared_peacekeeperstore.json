@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/peacekeeper/peacekeeperstore/peacekeeperstore1.object": [
+        "/shortdescription"
+      ],
+      "objects/peacekeeper/peacekeeperstore/peacekeeperstore2.object": [
+        "/shortdescription"
+      ],
+      "objects/peacekeeper/peacekeeperstore/peacekeeperstore3.object": [
+        "/shortdescription"
+      ],
+      "objects/peacekeeper/peacekeeperstore/peacekeeperstore4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peacekeeper Store"
+    }
+  }
+]

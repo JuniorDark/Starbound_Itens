@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/cultist/cultistairlockdoor/cultistairlockbossdoor.object": [
+        "/shortdescription"
+      ],
+      "objects/cultist/cultistairlockdoor/cultistairlockdoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cultist Airlock Door"
+    }
+  }
+]

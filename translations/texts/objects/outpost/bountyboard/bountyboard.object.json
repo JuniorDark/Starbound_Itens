@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bountyboard/bountyboard.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bounty Board"
+    }
+  }
+]

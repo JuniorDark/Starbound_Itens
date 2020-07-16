@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmsoluskatana.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solus Katana Mech Arm"
+    }
+  }
+]

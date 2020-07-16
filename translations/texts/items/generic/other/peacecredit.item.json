@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/peacecredit.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peace Credit"
+    }
+  }
+]
