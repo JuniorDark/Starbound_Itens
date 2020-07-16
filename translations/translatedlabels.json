@@ -500,7 +500,7 @@
             "apextier3.legs.json": 1
           },
           "apex-tier4": {
-            "apextier4.chest.json": 0,
+            "apextier4.chest.json": 1,
             "apextier4.head.json": 0,
             "apextier4.legs.json": 0
           },
