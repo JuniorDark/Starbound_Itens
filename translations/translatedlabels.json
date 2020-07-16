@@ -570,7 +570,7 @@
             "aviantier1.legs.json": 1
           },
           "avian-tier2": {
-            "aviantier2.chest.json": 0,
+            "aviantier2.chest.json": 1,
             "aviantier2.head.json": 0,
             "aviantier2.legs.json": 0
           },
