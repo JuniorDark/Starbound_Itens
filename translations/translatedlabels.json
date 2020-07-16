@@ -531,7 +531,7 @@
           },
           "apex-tier6separator": {
             "apextier6separator.chest.json": 1,
-            "apextier6separator.head.json": 0,
+            "apextier6separator.head.json": 1,
             "apextier6separator.legs.json": 0
           },
           "apexcommander": {
