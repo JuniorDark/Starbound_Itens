@@ -517,7 +517,7 @@
           "apex-tier5separator": {
             "apextier5separator.chest.json": 1,
             "apextier5separator.head.json": 1,
-            "apextier5separator.legs.json": 0
+            "apextier5separator.legs.json": 1
           },
           "apex-tier6accelerator": {
             "apextier6accelerator.chest.json": 0,
