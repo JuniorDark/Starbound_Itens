@@ -485,7 +485,7 @@
       "armors": {
         "apex": {
           "apex-tier1": {
-            "apextier1.chest.json": 0,
+            "apextier1.chest.json": 1,
             "apextier1.head.json": 0,
             "apextier1.legs.json": 0
           },
