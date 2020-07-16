@@ -515,7 +515,7 @@
             "apextier5manipulator.legs.json": 1
           },
           "apex-tier5separator": {
-            "apextier5separator.chest.json": 0,
+            "apextier5separator.chest.json": 1,
             "apextier5separator.head.json": 0,
             "apextier5separator.legs.json": 0
           },
