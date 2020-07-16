@@ -587,7 +587,7 @@
           "avian-tier5accelerator": {
             "aviantier5accelerator.chest.json": 1,
             "aviantier5accelerator.head.json": 1,
-            "aviantier5accelerator.legs.json": 0
+            "aviantier5accelerator.legs.json": 1
           },
           "avian-tier5manipulator": {
             "aviantier5manipulator.chest.json": 0,
