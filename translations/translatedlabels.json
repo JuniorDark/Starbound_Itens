@@ -554,7 +554,7 @@
         "avian": {
           "avian-adventurer": {
             "avianadventurer.chest.json": 1,
-            "avianadventurer.legs.json": 0
+            "avianadventurer.legs.json": 1
           },
           "avian-commoner": {
             "aviancommoner.chest.json": 0,
