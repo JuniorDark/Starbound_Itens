@@ -505,7 +505,7 @@
             "apextier4.legs.json": 1
           },
           "apex-tier5accelerator": {
-            "apextier5accelerator.chest.json": 0,
+            "apextier5accelerator.chest.json": 1,
             "apextier5accelerator.head.json": 0,
             "apextier5accelerator.legs.json": 0
           },
