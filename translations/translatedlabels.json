@@ -580,7 +580,7 @@
             "aviantier3.legs.json": 1
           },
           "avian-tier4": {
-            "aviantier4.chest.json": 0,
+            "aviantier4.chest.json": 1,
             "aviantier4.head.json": 0,
             "aviantier4.legs.json": 0
           },
