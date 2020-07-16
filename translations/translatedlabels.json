@@ -543,7 +543,7 @@
             "apexnavy.legs.json": 1
           },
           "apexofficer": {
-            "apexofficer.chest.json": 0,
+            "apexofficer.chest.json": 1,
             "apexofficer.legs.json": 0
           },
           "apexspecialist": {
