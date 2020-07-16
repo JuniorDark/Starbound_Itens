@@ -510,7 +510,7 @@
             "apextier5accelerator.legs.json": 1
           },
           "apex-tier5manipulator": {
-            "apextier5manipulator.chest.json": 0,
+            "apextier5manipulator.chest.json": 1,
             "apextier5manipulator.head.json": 0,
             "apextier5manipulator.legs.json": 0
           },
