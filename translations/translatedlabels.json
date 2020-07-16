@@ -492,7 +492,7 @@
           "apex-tier2": {
             "apextier2.chest.json": 1,
             "apextier2.head.json": 1,
-            "apextier2.legs.json": 0
+            "apextier2.legs.json": 1
           },
           "apex-tier3": {
             "apextier3.chest.json": 0,
