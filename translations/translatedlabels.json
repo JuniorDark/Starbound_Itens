@@ -2215,7 +2215,7 @@
           "mobilityaugment.augment.json": 1,
           "peacekeeper1.augment.json": 1,
           "peacekeeper2.augment.json": 1,
-          "peacekeeper3.augment.json": 0,
+          "peacekeeper3.augment.json": 1,
           "poisonblockaugment.augment.json": 1,
           "speedaugment.augment.json": 1,
           "swimaugment.augment.json": 1,
