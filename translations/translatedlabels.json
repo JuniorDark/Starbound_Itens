@@ -562,7 +562,7 @@
           },
           "avian-fancy": {
             "avianfancy.chest.json": 1,
-            "avianfancy.legs.json": 0
+            "avianfancy.legs.json": 1
           },
           "avian-tier1": {
             "aviantier1.chest.json": 0,
