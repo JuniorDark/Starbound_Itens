@@ -62,7 +62,7 @@
             "geode.activeitem.json": 1
           },
           "handcuffs": {
-            "handcuffs.activeitem.json": 0
+            "handcuffs.activeitem.json": 1
           },
           "miningdrone": {
             "miningdrone.activeitem.json": 0
