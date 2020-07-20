@@ -1226,7 +1226,7 @@
             },
             "betty": {
               "betty.chest.json": 1,
-              "betty.head.json": 0,
+              "betty.head.json": 1,
               "betty.legs.json": 0
             },
             "buccaneer": {
