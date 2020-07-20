@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Larva Chest"
+      "Eng": "Larva Chest",
+      "Por": "Tórax de Larva"
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Larva Legs"
+      "Eng": "Larva Legs",
+      "Por": "Pernas de Larva"
     }
   },
   {
@@ -38,7 +40,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Larva Mask"
+      "Eng": "Larva Mask",
+      "Por": "Máscara de Larva"
     }
   }
 ]
