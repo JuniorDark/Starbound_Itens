@@ -1134,7 +1134,7 @@
               "tarblob.head.json": 1
             },
             "woolly": {
-              "woolly.back.json": 0,
+              "woolly.back.json": 1,
               "woolly.chest.json": 0,
               "woolly.legs.json": 0
             }
