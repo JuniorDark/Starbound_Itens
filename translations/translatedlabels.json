@@ -1082,7 +1082,7 @@
           },
           "slime": {
             "slime": {
-              "slime.chest.json": 0,
+              "slime.chest.json": 1,
               "slime.head.json": 0,
               "slime.legs.json": 0
             }
