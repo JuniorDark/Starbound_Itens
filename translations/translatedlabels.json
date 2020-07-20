@@ -943,7 +943,7 @@
               "buildinghat.head.json": 1
             },
             "gnome": {
-              "gnome.head.json": 0
+              "gnome.head.json": 1
             },
             "gnomecap": {
               "gnomecap.head.json": 0
