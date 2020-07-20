@@ -878,7 +878,7 @@
             },
             "anatomyavian": {
               "anatomyavian.head.json": 1,
-              "anatomyavian.legs.json": 0
+              "anatomyavian.legs.json": 1
             },
             "anatomyhuman": {
               "anatomy.chest.json": 0,
