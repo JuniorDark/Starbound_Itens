@@ -940,7 +940,7 @@
           },
           "gnomevillage": {
             "buildinghat": {
-              "buildinghat.head.json": 0
+              "buildinghat.head.json": 1
             },
             "gnome": {
               "gnome.head.json": 0
