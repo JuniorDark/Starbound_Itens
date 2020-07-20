@@ -934,7 +934,7 @@
             "buzzy": {
               "buzzy.back.json": 1,
               "buzzy.chest.json": 1,
-              "buzzy.head.json": 0,
+              "buzzy.head.json": 1,
               "buzzy.legs.json": 0
             }
           },
