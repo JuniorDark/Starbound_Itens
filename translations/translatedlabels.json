@@ -1010,7 +1010,7 @@
           },
           "ocean": {
             "beachcreeper": {
-              "beachcreeper.chest.json": 0,
+              "beachcreeper.chest.json": 1,
               "beachcreeper.head.json": 0,
               "beachcreeper.legs.json": 0
             },
