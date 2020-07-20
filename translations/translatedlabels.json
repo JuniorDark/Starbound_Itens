@@ -1005,7 +1005,7 @@
               "mushroom.head.json": 1
             },
             "raggedcape": {
-              "raggedcape.back.json": 0
+              "raggedcape.back.json": 1
             }
           },
           "ocean": {
