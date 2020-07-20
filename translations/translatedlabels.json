@@ -1156,7 +1156,7 @@
         },
         "contest": {
           "boxman1": {
-            "boxmanhat.head.json": 0
+            "boxmanhat.head.json": 1
           },
           "carrothat": {
             "carrothat.head.json": 0
