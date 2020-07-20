@@ -1101,7 +1101,7 @@
               "steamgrey.legs.json": 0
             },
             "pipehat": {
-              "pipehat.head.json": 0
+              "pipehat.head.json": 1
             }
           },
           "swamp": {
