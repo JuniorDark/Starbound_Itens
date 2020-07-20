@@ -1015,7 +1015,7 @@
               "beachcreeper.legs.json": 1
             },
             "deepdiver": {
-              "deepdiver.head.json": 0
+              "deepdiver.head.json": 1
             },
             "snorkel": {
               "snorkel.head.json": 0
