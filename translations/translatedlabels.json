@@ -1111,7 +1111,7 @@
             "lagoonsuit": {
               "lagoon.chest.json": 1,
               "lagoon.head.json": 0,
-              "lagoon.legs.json": 0
+              "lagoon.legs.json": 1
             },
             "shared_frogg": {
               "shared_.chest.json": 0,
