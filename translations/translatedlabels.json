@@ -1012,7 +1012,7 @@
             "beachcreeper": {
               "beachcreeper.chest.json": 1,
               "beachcreeper.head.json": 1,
-              "beachcreeper.legs.json": 0
+              "beachcreeper.legs.json": 1
             },
             "deepdiver": {
               "deepdiver.head.json": 0
