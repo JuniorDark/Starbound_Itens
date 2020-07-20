@@ -611,7 +611,7 @@
           },
           "avian-tier6separator": {
             "aviantier6separator.chest.json": 1,
-            "aviantier6separator.head.json": 0,
+            "aviantier6separator.head.json": 1,
             "aviantier6separator.legs.json": 0
           },
           "avian-worker": {
