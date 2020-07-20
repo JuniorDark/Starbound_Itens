@@ -1018,7 +1018,7 @@
               "deepdiver.head.json": 1
             },
             "snorkel": {
-              "snorkel.head.json": 0
+              "snorkel.head.json": 1
             }
           },
           "prism": {
