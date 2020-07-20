@@ -1222,7 +1222,7 @@
             },
             "barrel": {
               "barrel.chest.json": 1,
-              "barrel.head.json": 0
+              "barrel.head.json": 1
             },
             "betty": {
               "betty.chest.json": 0,
