@@ -1141,7 +1141,7 @@
           },
           "toxic": {
             "mutant.back.json": 1,
-            "mutant.chest.json": 0,
+            "mutant.chest.json": 1,
             "mutant.head.json": 0,
             "mutant.legs.json": 0
           },
