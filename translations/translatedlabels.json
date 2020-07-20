@@ -967,7 +967,7 @@
           },
           "icecaves": {
             "icearmor": {
-              "icearmor.chest.json": 0,
+              "icearmor.chest.json": 1,
               "icearmor.head.json": 0,
               "icearmor.legs.json": 0
             },
