@@ -862,7 +862,7 @@
           "copperarmor": {
             "copperarmor.chest.json": 1,
             "copperarmor.head.json": 1,
-            "copperarmor.legs.json": 0
+            "copperarmor.legs.json": 1
           },
           "eyepatch": {
             "eyeball": {
