@@ -912,7 +912,7 @@
               "foundrylegs.legs.json": 1
             },
             "weldershelmet": {
-              "weldershelmet.head.json": 0
+              "weldershelmet.head.json": 1
             }
           },
           "garden": {
