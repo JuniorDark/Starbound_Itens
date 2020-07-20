@@ -994,7 +994,7 @@
             "darkdisguise": {
               "darkdisguise.chest.json": 1,
               "darkdisguise.head.json": 1,
-              "darkdisguise.legs.json": 0
+              "darkdisguise.legs.json": 1
             }
           },
           "mushroom": {
