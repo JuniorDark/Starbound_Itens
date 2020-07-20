@@ -868,7 +868,7 @@
             "eyeball": {
               "eyeball.back.json": 1,
               "eyeball.chest.json": 1,
-              "eyeball.head.json": 0,
+              "eyeball.head.json": 1,
               "eyeball.legs.json": 0
             }
           },
