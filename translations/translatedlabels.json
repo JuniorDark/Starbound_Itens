@@ -1225,7 +1225,7 @@
               "barrel.head.json": 1
             },
             "betty": {
-              "betty.chest.json": 0,
+              "betty.chest.json": 1,
               "betty.head.json": 0,
               "betty.legs.json": 0
             },
