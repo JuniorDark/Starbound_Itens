@@ -1090,7 +1090,7 @@
           "spring": {
             "flowery": {
               "flowery.back.json": 1,
-              "flowery.chest.json": 0,
+              "flowery.chest.json": 1,
               "flowery.head.json": 0,
               "flowery.legs.json": 0
             }
