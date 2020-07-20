@@ -969,7 +969,7 @@
             "icearmor": {
               "icearmor.chest.json": 1,
               "icearmor.head.json": 1,
-              "icearmor.legs.json": 0
+              "icearmor.legs.json": 1
             },
             "icecubehat": {
               "icecubehead.head.json": 0
