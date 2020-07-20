@@ -1217,7 +1217,7 @@
           "costumes": {
             "adventurerobot": {
               "adventurerobot.chest.json": 1,
-              "adventurerobot.head.json": 0,
+              "adventurerobot.head.json": 1,
               "adventurerobot.legs.json": 0
             },
             "barrel": {
