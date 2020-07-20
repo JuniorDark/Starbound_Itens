@@ -716,7 +716,7 @@
             "breathprotection.back.json": 1
           },
           "coldprotection": {
-            "coldprotection.back.json": 0
+            "coldprotection.back.json": 1
           },
           "crystalpack": {
             "crystalpack.back.json": 0
