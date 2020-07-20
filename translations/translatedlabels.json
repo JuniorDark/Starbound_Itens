@@ -897,7 +897,7 @@
               "foundrychest.chest.json": 1
             },
             "foundryforeman": {
-              "foundryforeman.back.json": 0
+              "foundryforeman.back.json": 1
             },
             "foundrygoggles": {
               "foundrygoggles.head.json": 0
