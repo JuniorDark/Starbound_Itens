@@ -1231,7 +1231,7 @@
             },
             "buccaneer": {
               "buccaneer.chest.json": 1,
-              "buccaneer.head.json": 0,
+              "buccaneer.head.json": 1,
               "buccaneer.legs.json": 0
             },
             "cardboard": {
