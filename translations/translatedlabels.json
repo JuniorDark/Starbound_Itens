@@ -1110,7 +1110,7 @@
             },
             "lagoonsuit": {
               "lagoon.chest.json": 1,
-              "lagoon.head.json": 0,
+              "lagoon.head.json": 1,
               "lagoon.legs.json": 1
             },
             "shared_frogg": {
