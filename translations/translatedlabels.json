@@ -891,7 +891,7 @@
           },
           "foundry": {
             "foundryback": {
-              "foundryback.back.json": 0
+              "foundryback.back.json": 1
             },
             "foundrychest": {
               "foundrychest.chest.json": 0
