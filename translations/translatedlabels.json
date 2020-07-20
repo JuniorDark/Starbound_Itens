@@ -917,7 +917,7 @@
           },
           "garden": {
             "quiver": {
-              "quiver.back.json": 0
+              "quiver.back.json": 1
             }
           },
           "geode": {
