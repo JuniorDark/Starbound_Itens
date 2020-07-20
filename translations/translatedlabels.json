@@ -1211,7 +1211,7 @@
               "winterscarf.head.json": 1
             },
             "tshirt": {
-              "tshirt.chest.json": 0
+              "tshirt.chest.json": 1
             }
           },
           "costumes": {
