@@ -1230,7 +1230,7 @@
               "betty.legs.json": 1
             },
             "buccaneer": {
-              "buccaneer.chest.json": 0,
+              "buccaneer.chest.json": 1,
               "buccaneer.head.json": 0,
               "buccaneer.legs.json": 0
             },
