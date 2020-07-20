@@ -1073,7 +1073,7 @@
               "deadbeatspandex.legs.json": 1
             },
             "deadbeatstraps": {
-              "deadbeatstraps.chest.json": 0,
+              "deadbeatstraps.chest.json": 1,
               "deadbeatstraps.legs.json": 0
             },
             "deadbeatthugspandex": {
