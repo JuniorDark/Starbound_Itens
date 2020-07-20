@@ -1232,7 +1232,7 @@
             "buccaneer": {
               "buccaneer.chest.json": 1,
               "buccaneer.head.json": 1,
-              "buccaneer.legs.json": 0
+              "buccaneer.legs.json": 1
             },
             "cardboard": {
               "cardboard.chest.json": 0
