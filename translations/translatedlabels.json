@@ -810,7 +810,7 @@
                 "alpacaguard.legs.json": 1
               },
               "alpacavillager": {
-                "alpacavillager.chest.json": 0,
+                "alpacavillager.chest.json": 1,
                 "alpacavillager.head.json": 0,
                 "alpacavillager.legs.json": 0
               }
