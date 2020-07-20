@@ -962,7 +962,7 @@
               "cyclopsyeti.legs.json": 1
             },
             "survivalgear": {
-              "survivalgear.back.json": 0
+              "survivalgear.back.json": 1
             }
           },
           "icecaves": {
