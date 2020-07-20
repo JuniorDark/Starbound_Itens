@@ -1136,7 +1136,7 @@
             "woolly": {
               "woolly.back.json": 1,
               "woolly.chest.json": 1,
-              "woolly.legs.json": 0
+              "woolly.legs.json": 1
             }
           },
           "toxic": {
