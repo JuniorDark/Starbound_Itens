@@ -1149,7 +1149,7 @@
             "firelord": {
               "firelord.back.json": 1,
               "firelord.chest.json": 1,
-              "firelord.head.json": 0,
+              "firelord.head.json": 1,
               "firelord.legs.json": 0
             }
           }
