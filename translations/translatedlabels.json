@@ -801,7 +801,7 @@
           },
           "alpine": {
             "alpaca": {
-              "alpaca.chest.json": 0,
+              "alpaca.chest.json": 1,
               "alpaca.head.json": 0,
               "alpaca.legs.json": 0,
               "alpacaguard": {
