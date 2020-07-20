@@ -1023,7 +1023,7 @@
           },
           "prism": {
             "prism.chest.json": 1,
-            "prism.head.json": 0,
+            "prism.head.json": 1,
             "prism.legs.json": 0
           },
           "scorchedcity": {
