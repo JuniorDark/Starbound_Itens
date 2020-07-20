@@ -979,7 +979,7 @@
             "tough": {
               "headband.head.json": 1,
               "tough.chest.json": 1,
-              "tough.legs.json": 0
+              "tough.legs.json": 1
             }
           },
           "midnight": {
