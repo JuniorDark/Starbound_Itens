@@ -806,7 +806,7 @@
               "alpaca.legs.json": 1,
               "alpacaguard": {
                 "alpacaguard.chest.json": 1,
-                "alpacaguard.head.json": 0,
+                "alpacaguard.head.json": 1,
                 "alpacaguard.legs.json": 0
               },
               "alpacavillager": {
