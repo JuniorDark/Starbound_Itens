@@ -1049,7 +1049,7 @@
               "deadbeathorns.head.json": 1
             },
             "deadbeatleather": {
-              "deadbeatleather.chest.json": 0,
+              "deadbeatleather.chest.json": 1,
               "deadbeatleather.legs.json": 0
             },
             "deadbeatmask": {
