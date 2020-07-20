@@ -886,7 +886,7 @@
               "anatomy.legs.json": 1
             },
             "anatomyhylotl": {
-              "anatomyhylotl.head.json": 0
+              "anatomyhylotl.head.json": 1
             }
           },
           "foundry": {
