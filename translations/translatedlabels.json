@@ -1143,7 +1143,7 @@
             "mutant.back.json": 1,
             "mutant.chest.json": 1,
             "mutant.head.json": 1,
-            "mutant.legs.json": 0
+            "mutant.legs.json": 1
           },
           "volcanic": {
             "firelord": {
