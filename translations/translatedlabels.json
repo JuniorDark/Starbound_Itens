@@ -1126,7 +1126,7 @@
               "spearback.back.json": 1
             },
             "tar": {
-              "tar.chest.json": 0,
+              "tar.chest.json": 1,
               "tar.head.json": 0,
               "tar.legs.json": 0
             },
