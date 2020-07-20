@@ -882,7 +882,7 @@
             },
             "anatomyhuman": {
               "anatomy.chest.json": 1,
-              "anatomy.head.json": 0,
+              "anatomy.head.json": 1,
               "anatomy.legs.json": 0
             },
             "anatomyhylotl": {
