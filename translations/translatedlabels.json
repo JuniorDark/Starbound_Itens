@@ -610,7 +610,7 @@
             "aviantier6manipulator.legs.json": 1
           },
           "avian-tier6separator": {
-            "aviantier6separator.chest.json": 0,
+            "aviantier6separator.chest.json": 1,
             "aviantier6separator.head.json": 0,
             "aviantier6separator.legs.json": 0
           },
