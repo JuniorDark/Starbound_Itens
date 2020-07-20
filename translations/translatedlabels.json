@@ -860,7 +860,7 @@
             }
           },
           "copperarmor": {
-            "copperarmor.chest.json": 0,
+            "copperarmor.chest.json": 1,
             "copperarmor.head.json": 0,
             "copperarmor.legs.json": 0
           },
