@@ -616,7 +616,7 @@
           },
           "avian-worker": {
             "avianworker.chest.json": 1,
-            "avianworker.legs.json": 0
+            "avianworker.legs.json": 1
           }
         },
         "backerhats": {
