@@ -992,7 +992,7 @@
               "darkcape.back.json": 1
             },
             "darkdisguise": {
-              "darkdisguise.chest.json": 0,
+              "darkdisguise.chest.json": 1,
               "darkdisguise.head.json": 0,
               "darkdisguise.legs.json": 0
             }
