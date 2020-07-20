@@ -978,7 +978,7 @@
           "jungle": {
             "tough": {
               "headband.head.json": 1,
-              "tough.chest.json": 0,
+              "tough.chest.json": 1,
               "tough.legs.json": 0
             }
           },
