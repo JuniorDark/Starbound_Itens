@@ -935,7 +935,7 @@
               "buzzy.back.json": 1,
               "buzzy.chest.json": 1,
               "buzzy.head.json": 1,
-              "buzzy.legs.json": 0
+              "buzzy.legs.json": 1
             }
           },
           "gnomevillage": {
