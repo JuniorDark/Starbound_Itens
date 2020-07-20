@@ -984,7 +984,7 @@
           },
           "midnight": {
             "dark": {
-              "dark.head.json": 0,
+              "dark.head.json": 1,
               "dark.legs.json": 0,
               "darkchest.chest.json": 0
             },
