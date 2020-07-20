@@ -866,7 +866,7 @@
           },
           "eyepatch": {
             "eyeball": {
-              "eyeball.back.json": 0,
+              "eyeball.back.json": 1,
               "eyeball.chest.json": 0,
               "eyeball.head.json": 0,
               "eyeball.legs.json": 0
