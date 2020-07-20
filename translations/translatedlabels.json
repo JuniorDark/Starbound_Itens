@@ -1022,7 +1022,7 @@
             }
           },
           "prism": {
-            "prism.chest.json": 0,
+            "prism.chest.json": 1,
             "prism.head.json": 0,
             "prism.legs.json": 0
           },
