@@ -932,7 +932,7 @@
               "butterflywings.back.json": 1
             },
             "buzzy": {
-              "buzzy.back.json": 0,
+              "buzzy.back.json": 1,
               "buzzy.chest.json": 0,
               "buzzy.head.json": 0,
               "buzzy.legs.json": 0
