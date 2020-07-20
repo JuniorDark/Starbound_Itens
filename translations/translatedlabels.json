@@ -1131,7 +1131,7 @@
               "tar.legs.json": 1
             },
             "tarblob": {
-              "tarblob.head.json": 0
+              "tarblob.head.json": 1
             },
             "woolly": {
               "woolly.back.json": 0,
