@@ -596,7 +596,7 @@
           },
           "avian-tier5separator": {
             "aviantier5separator.chest.json": 1,
-            "aviantier5separator.head.json": 0,
+            "aviantier5separator.head.json": 1,
             "aviantier5separator.legs.json": 0
           },
           "avian-tier6accelerator": {
