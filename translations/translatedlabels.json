@@ -922,7 +922,7 @@
           },
           "geode": {
             "geode": {
-              "geode.chest.json": 0,
+              "geode.chest.json": 1,
               "geode.head.json": 0,
               "geode.legs.json": 0
             }
