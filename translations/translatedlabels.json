@@ -1127,7 +1127,7 @@
             },
             "tar": {
               "tar.chest.json": 1,
-              "tar.head.json": 0,
+              "tar.head.json": 1,
               "tar.legs.json": 0
             },
             "tarblob": {
