@@ -789,7 +789,7 @@
           "Bioluminescence": {
             "biolumin": {
               "biolumin.chest.json": 1,
-              "biolumin.head.json": 0,
+              "biolumin.head.json": 1,
               "biolumin.legs.json": 0
             },
             "frostcrown": {
