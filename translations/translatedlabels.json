@@ -986,7 +986,7 @@
             "dark": {
               "dark.head.json": 1,
               "dark.legs.json": 1,
-              "darkchest.chest.json": 0
+              "darkchest.chest.json": 1
             },
             "darkcape": {
               "darkcape.back.json": 0
