@@ -1135,7 +1135,7 @@
             },
             "woolly": {
               "woolly.back.json": 1,
-              "woolly.chest.json": 0,
+              "woolly.chest.json": 1,
               "woolly.legs.json": 0
             }
           },
