@@ -924,7 +924,7 @@
             "geode": {
               "geode.chest.json": 1,
               "geode.head.json": 1,
-              "geode.legs.json": 0
+              "geode.legs.json": 1
             }
           },
           "giantflowers": {
