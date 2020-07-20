@@ -1106,7 +1106,7 @@
           },
           "swamp": {
             "froggmerchant": {
-              "froggmerchant.legs.json": 0
+              "froggmerchant.legs.json": 1
             },
             "lagoonsuit": {
               "lagoon.chest.json": 0,
