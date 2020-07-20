@@ -958,7 +958,7 @@
           "ice": {
             "cyclopsyeti": {
               "cyclopsyeti.chest.json": 1,
-              "cyclopsyeti.head.json": 0,
+              "cyclopsyeti.head.json": 1,
               "cyclopsyeti.legs.json": 0
             },
             "survivalgear": {
