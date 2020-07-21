@@ -1293,7 +1293,7 @@
             "moneybags": {
               "moneybags.back.json": 1,
               "moneybags.chest.json": 1,
-              "moneybags.head.json": 0,
+              "moneybags.head.json": 1,
               "moneybags.legs.json": 0
             },
             "mrclaus": {
