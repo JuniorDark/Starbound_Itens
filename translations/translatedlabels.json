@@ -1437,7 +1437,7 @@
               "coolfez.head.json": 1
             },
             "dev": {
-              "dev.head.json": 0
+              "dev.head.json": 1
             },
             "dinosaur": {
               "dinosaur.head.json": 0
