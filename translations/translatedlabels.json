@@ -1365,7 +1365,7 @@
             },
             "strap": {
               "strap.chest.json": 1,
-              "strap.legs.json": 0
+              "strap.legs.json": 1
             },
             "summer": {
               "summer.chest.json": 0,
