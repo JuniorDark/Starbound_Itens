@@ -1298,7 +1298,7 @@
             },
             "mrclaus": {
               "mrclaus.back.json": 1,
-              "mrclaus.chest.json": 0,
+              "mrclaus.chest.json": 1,
               "mrclaus.head.json": 0,
               "mrclaus.legs.json": 0
             },
