@@ -1320,7 +1320,7 @@
             "pirate": {
               "pirate.back.json": 1,
               "pirate.chest.json": 1,
-              "pirate.head.json": 0,
+              "pirate.head.json": 1,
               "pirate.legs.json": 0
             },
             "pixelhero": {
