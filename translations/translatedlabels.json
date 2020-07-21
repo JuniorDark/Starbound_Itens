@@ -1325,7 +1325,7 @@
             },
             "pixelhero": {
               "pixelhero.chest.json": 1,
-              "pixelhero.legs.json": 0
+              "pixelhero.legs.json": 1
             },
             "predatory": {
               "predatory.back.json": 0,
