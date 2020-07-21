@@ -1250,7 +1250,7 @@
             "cupids": {
               "cupids.back.json": 1,
               "cupids.chest.json": 1,
-              "cupids.head.json": 0,
+              "cupids.head.json": 1,
               "cupids.legs.json": 0
             },
             "executioner": {
