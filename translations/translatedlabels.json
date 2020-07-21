@@ -1304,7 +1304,7 @@
             },
             "mutantminer": {
               "mutantminer.chest.json": 1,
-              "mutantminer.head.json": 0
+              "mutantminer.head.json": 1
             },
             "penguin": {
               "penguin.chest.json": 0,
