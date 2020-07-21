@@ -1264,7 +1264,7 @@
               "fairy.legs.json": 1
             },
             "hawaiian": {
-              "hawaiian.chest.json": 0,
+              "hawaiian.chest.json": 1,
               "hawaiian.legs.json": 0
             },
             "hiker": {
