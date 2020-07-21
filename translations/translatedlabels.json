@@ -1335,7 +1335,7 @@
             },
             "premier": {
               "premier.chest.json": 1,
-              "premier.head.json": 0,
+              "premier.head.json": 1,
               "premier.legs.json": 0
             },
             "rainbowood": {
