@@ -1292,7 +1292,7 @@
             },
             "moneybags": {
               "moneybags.back.json": 1,
-              "moneybags.chest.json": 0,
+              "moneybags.chest.json": 1,
               "moneybags.head.json": 0,
               "moneybags.legs.json": 0
             },
