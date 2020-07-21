@@ -1273,7 +1273,7 @@
               "hiker.legs.json": 1
             },
             "hotholiday": {
-              "hotholiday.chest.json": 0,
+              "hotholiday.chest.json": 1,
               "hotholiday.head.json": 0,
               "hotholiday.legs.json": 0
             },
