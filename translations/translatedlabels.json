@@ -1364,7 +1364,7 @@
               "startrack.legs.json": 1
             },
             "strap": {
-              "strap.chest.json": 0,
+              "strap.chest.json": 1,
               "strap.legs.json": 0
             },
             "summer": {
