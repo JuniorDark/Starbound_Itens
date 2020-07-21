@@ -1382,7 +1382,7 @@
             },
             "wizard": {
               "wizard.back.json": 1,
-              "wizard.chest.json": 0,
+              "wizard.chest.json": 1,
               "wizard.head.json": 0,
               "wizard.legs.json": 0
             }
