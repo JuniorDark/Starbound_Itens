@@ -1288,7 +1288,7 @@
             },
             "miner": {
               "miner.chest.json": 1,
-              "miner.head.json": 0
+              "miner.head.json": 1
             },
             "moneybags": {
               "moneybags.back.json": 0,
