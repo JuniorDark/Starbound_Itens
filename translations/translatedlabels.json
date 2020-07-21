@@ -1303,7 +1303,7 @@
               "mrclaus.legs.json": 1
             },
             "mutantminer": {
-              "mutantminer.chest.json": 0,
+              "mutantminer.chest.json": 1,
               "mutantminer.head.json": 0
             },
             "penguin": {
