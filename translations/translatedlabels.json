@@ -1345,7 +1345,7 @@
             },
             "rock": {
               "rock.head.json": 1,
-              "rock.legs.json": 0
+              "rock.legs.json": 1
             },
             "scientist": {
               "scientist.chest.json": 0,
