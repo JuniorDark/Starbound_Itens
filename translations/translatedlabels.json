@@ -1339,7 +1339,7 @@
               "premier.legs.json": 1
             },
             "rainbowood": {
-              "rainbowwood.chest.json": 0,
+              "rainbowwood.chest.json": 1,
               "rainbowwood.head.json": 0,
               "rainbowwood.legs.json": 0
             },
