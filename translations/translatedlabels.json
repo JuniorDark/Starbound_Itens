@@ -1467,7 +1467,7 @@
               "fedora.head.json": 1
             },
             "floppyhat": {
-              "floppyhat.head.json": 0
+              "floppyhat.head.json": 1
             },
             "fullbunny": {
               "fullbunny.head.json": 0
