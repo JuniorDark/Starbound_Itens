@@ -1287,7 +1287,7 @@
               "jumpsuit.legs.json": 1
             },
             "miner": {
-              "miner.chest.json": 0,
+              "miner.chest.json": 1,
               "miner.head.json": 0
             },
             "moneybags": {
