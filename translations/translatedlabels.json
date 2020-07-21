@@ -1279,7 +1279,7 @@
             },
             "hunter": {
               "hunter.back.json": 1,
-              "hunter.chest.json": 0,
+              "hunter.chest.json": 1,
               "hunter.legs.json": 0
             },
             "jumpsuit": {
