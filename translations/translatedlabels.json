@@ -1446,7 +1446,7 @@
               "divingmask.head.json": 1
             },
             "ethnicmask": {
-              "ethnichead.head.json": 0
+              "ethnichead.head.json": 1
             },
             "eye": {
               "eye.head.json": 0
