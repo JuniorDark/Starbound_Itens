@@ -1340,7 +1340,7 @@
             },
             "rainbowood": {
               "rainbowwood.chest.json": 1,
-              "rainbowwood.head.json": 0,
+              "rainbowwood.head.json": 1,
               "rainbowwood.legs.json": 0
             },
             "rock": {
