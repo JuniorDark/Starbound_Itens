@@ -1258,7 +1258,7 @@
               "executionershead.head.json": 1
             },
             "fairy": {
-              "fairy.back.json": 0,
+              "fairy.back.json": 1,
               "fairy.chest.json": 0,
               "fairy.head.json": 0,
               "fairy.legs.json": 0
