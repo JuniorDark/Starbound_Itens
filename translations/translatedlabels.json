@@ -1284,7 +1284,7 @@
             },
             "jumpsuit": {
               "jumpsuit.chest.json": 1,
-              "jumpsuit.legs.json": 0
+              "jumpsuit.legs.json": 1
             },
             "miner": {
               "miner.chest.json": 0,
