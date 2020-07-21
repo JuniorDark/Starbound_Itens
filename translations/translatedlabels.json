@@ -1283,7 +1283,7 @@
               "hunter.legs.json": 1
             },
             "jumpsuit": {
-              "jumpsuit.chest.json": 0,
+              "jumpsuit.chest.json": 1,
               "jumpsuit.legs.json": 0
             },
             "miner": {
