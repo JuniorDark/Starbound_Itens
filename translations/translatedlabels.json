@@ -1324,7 +1324,7 @@
               "pirate.legs.json": 1
             },
             "pixelhero": {
-              "pixelhero.chest.json": 0,
+              "pixelhero.chest.json": 1,
               "pixelhero.legs.json": 0
             },
             "predatory": {
