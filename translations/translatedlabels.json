@@ -1313,7 +1313,7 @@
             },
             "pilot": {
               "pilot.back.json": 1,
-              "pilot.chest.json": 0,
+              "pilot.chest.json": 1,
               "pilot.head.json": 0,
               "pilot.legs.json": 0
             },
