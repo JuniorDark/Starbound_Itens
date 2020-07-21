@@ -1240,7 +1240,7 @@
             "chef": {
               "chef.chest.json": 1,
               "chef.head.json": 1,
-              "chef.legs.json": 0
+              "chef.legs.json": 1
             },
             "cowboy": {
               "cowboy.chest.json": 0,
