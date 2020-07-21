@@ -1280,7 +1280,7 @@
             "hunter": {
               "hunter.back.json": 1,
               "hunter.chest.json": 1,
-              "hunter.legs.json": 0
+              "hunter.legs.json": 1
             },
             "jumpsuit": {
               "jumpsuit.chest.json": 0,
