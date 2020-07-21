@@ -1344,7 +1344,7 @@
               "rainbowwood.legs.json": 1
             },
             "rock": {
-              "rock.head.json": 0,
+              "rock.head.json": 1,
               "rock.legs.json": 0
             },
             "scientist": {
