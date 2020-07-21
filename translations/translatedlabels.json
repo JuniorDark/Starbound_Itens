@@ -1238,7 +1238,7 @@
               "cardboard.chest.json": 1
             },
             "chef": {
-              "chef.chest.json": 0,
+              "chef.chest.json": 1,
               "chef.head.json": 0,
               "chef.legs.json": 0
             },
