@@ -1377,7 +1377,7 @@
             },
             "wedding2": {
               "wedding2.chest.json": 1,
-              "wedding2.head.json": 0,
+              "wedding2.head.json": 1,
               "wedding2.legs.json": 0
             },
             "wizard": {
