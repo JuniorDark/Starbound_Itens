@@ -1336,7 +1336,7 @@
             "premier": {
               "premier.chest.json": 1,
               "premier.head.json": 1,
-              "premier.legs.json": 0
+              "premier.legs.json": 1
             },
             "rainbowood": {
               "rainbowwood.chest.json": 0,
