@@ -1349,7 +1349,7 @@
             },
             "scientist": {
               "scientist.chest.json": 1,
-              "scientist.head.json": 0,
+              "scientist.head.json": 1,
               "scientist.legs.json": 0
             },
             "shirt": {
