@@ -1330,7 +1330,7 @@
             "predatory": {
               "predatory.back.json": 1,
               "predatory.chest.json": 1,
-              "predatory.head.json": 0,
+              "predatory.head.json": 1,
               "predatory.legs.json": 0
             },
             "premier": {
