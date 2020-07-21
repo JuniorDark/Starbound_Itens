@@ -1348,7 +1348,7 @@
               "rock.legs.json": 1
             },
             "scientist": {
-              "scientist.chest.json": 0,
+              "scientist.chest.json": 1,
               "scientist.head.json": 0,
               "scientist.legs.json": 0
             },
