@@ -1248,7 +1248,7 @@
               "cowboy.legs.json": 1
             },
             "cupids": {
-              "cupids.back.json": 0,
+              "cupids.back.json": 1,
               "cupids.chest.json": 0,
               "cupids.head.json": 0,
               "cupids.legs.json": 0
