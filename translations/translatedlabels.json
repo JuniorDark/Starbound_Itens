@@ -1259,7 +1259,7 @@
             },
             "fairy": {
               "fairy.back.json": 1,
-              "fairy.chest.json": 0,
+              "fairy.chest.json": 1,
               "fairy.head.json": 0,
               "fairy.legs.json": 0
             },
