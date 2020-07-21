@@ -1278,7 +1278,7 @@
               "hotholiday.legs.json": 1
             },
             "hunter": {
-              "hunter.back.json": 0,
+              "hunter.back.json": 1,
               "hunter.chest.json": 0,
               "hunter.legs.json": 0
             },
