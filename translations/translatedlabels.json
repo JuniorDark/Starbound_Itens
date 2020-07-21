@@ -1341,7 +1341,7 @@
             "rainbowood": {
               "rainbowwood.chest.json": 1,
               "rainbowwood.head.json": 1,
-              "rainbowwood.legs.json": 0
+              "rainbowwood.legs.json": 1
             },
             "rock": {
               "rock.head.json": 0,
