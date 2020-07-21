@@ -1314,7 +1314,7 @@
             "pilot": {
               "pilot.back.json": 1,
               "pilot.chest.json": 1,
-              "pilot.head.json": 0,
+              "pilot.head.json": 1,
               "pilot.legs.json": 0
             },
             "pirate": {
