@@ -1328,7 +1328,7 @@
               "pixelhero.legs.json": 1
             },
             "predatory": {
-              "predatory.back.json": 0,
+              "predatory.back.json": 1,
               "predatory.chest.json": 0,
               "predatory.head.json": 0,
               "predatory.legs.json": 0
