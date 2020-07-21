@@ -1243,7 +1243,7 @@
               "chef.legs.json": 1
             },
             "cowboy": {
-              "cowboy.chest.json": 0,
+              "cowboy.chest.json": 1,
               "cowboy.head.json": 0,
               "cowboy.legs.json": 0
             },
