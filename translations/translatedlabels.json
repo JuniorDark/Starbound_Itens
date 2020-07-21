@@ -1360,7 +1360,7 @@
               "smart.legs.json": 1
             },
             "startrack": {
-              "startrack.chest.json": 0,
+              "startrack.chest.json": 1,
               "startrack.legs.json": 0
             },
             "strap": {
