@@ -1255,7 +1255,7 @@
             },
             "executioner": {
               "executionerschest.chest.json": 1,
-              "executionershead.head.json": 0
+              "executionershead.head.json": 1
             },
             "fairy": {
               "fairy.back.json": 0,
