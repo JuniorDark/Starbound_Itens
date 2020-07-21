@@ -1308,7 +1308,7 @@
             },
             "penguin": {
               "penguin.chest.json": 1,
-              "penguin.head.json": 0,
+              "penguin.head.json": 1,
               "penguin.legs.json": 0
             },
             "pilot": {
