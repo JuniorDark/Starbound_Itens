@@ -1384,7 +1384,7 @@
               "wizard.back.json": 1,
               "wizard.chest.json": 1,
               "wizard.head.json": 1,
-              "wizard.legs.json": 0
+              "wizard.legs.json": 1
             }
           },
           "hats": {
