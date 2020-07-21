@@ -1235,7 +1235,7 @@
               "buccaneer.legs.json": 1
             },
             "cardboard": {
-              "cardboard.chest.json": 0
+              "cardboard.chest.json": 1
             },
             "chef": {
               "chef.chest.json": 0,
