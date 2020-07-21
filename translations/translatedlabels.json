@@ -1321,7 +1321,7 @@
               "pirate.back.json": 1,
               "pirate.chest.json": 1,
               "pirate.head.json": 1,
-              "pirate.legs.json": 0
+              "pirate.legs.json": 1
             },
             "pixelhero": {
               "pixelhero.chest.json": 0,
