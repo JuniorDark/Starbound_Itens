@@ -1476,7 +1476,7 @@
               "gagnose.head.json": 1
             },
             "gasmask": {
-              "gasmask.head.json": 0
+              "gasmask.head.json": 1
             },
             "georgedev": {
               "georgedev.head.json": 0
