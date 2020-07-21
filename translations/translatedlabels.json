@@ -1254,7 +1254,7 @@
               "cupids.legs.json": 1
             },
             "executioner": {
-              "executionerschest.chest.json": 0,
+              "executionerschest.chest.json": 1,
               "executionershead.head.json": 0
             },
             "fairy": {
