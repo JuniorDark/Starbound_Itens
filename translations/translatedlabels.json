@@ -1350,7 +1350,7 @@
             "scientist": {
               "scientist.chest.json": 1,
               "scientist.head.json": 1,
-              "scientist.legs.json": 0
+              "scientist.legs.json": 1
             },
             "shirt": {
               "shirt.chest.json": 0
