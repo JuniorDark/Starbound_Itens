@@ -1297,7 +1297,7 @@
               "moneybags.legs.json": 1
             },
             "mrclaus": {
-              "mrclaus.back.json": 0,
+              "mrclaus.back.json": 1,
               "mrclaus.chest.json": 0,
               "mrclaus.head.json": 0,
               "mrclaus.legs.json": 0
