@@ -1312,7 +1312,7 @@
               "penguin.legs.json": 1
             },
             "pilot": {
-              "pilot.back.json": 0,
+              "pilot.back.json": 1,
               "pilot.chest.json": 0,
               "pilot.head.json": 0,
               "pilot.legs.json": 0
