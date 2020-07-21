@@ -1587,7 +1587,7 @@
               "safetyhelmet.head.json": 1
             },
             "shared_shroomhead": {
-              "shroom.head.json": 0
+              "shroom.head.json": 1
             },
             "shark": {
               "shark.head.json": 0
