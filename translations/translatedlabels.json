@@ -1269,7 +1269,7 @@
             },
             "hiker": {
               "hiker.back.json": 1,
-              "hiker.chest.json": 0,
+              "hiker.chest.json": 1,
               "hiker.legs.json": 0
             },
             "hotholiday": {
